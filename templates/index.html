@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard VIF</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<!-- SIDEBAR -->
+<aside class="sidebar">
+  <div class="logo">VIF Analytics</div>
+</aside>
+
+<!-- MAIN -->
+<main class="main">
+
+  <h1 class="page-title">Resumen general</h1>
+
+  <!-- KPIs -->
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-label">Casos registrados</div>
+      <div class="kpi-value" id="k1">–</div>
+    </div>
+
+    <div class="kpi-card">
+      <div class="kpi-label">Tasa por 10k hab.</div>
+      <div class="kpi-value" id="k2">–</div>
+    </div>
+
+    <div class="kpi-card">
+      <div class="kpi-label">Reincidencia</div>
+      <div class="kpi-value" id="k3">–</div>
+    </div>
+
+    <div class="kpi-card">
+      <div class="kpi-label">Municipios críticos</div>
+      <div class="kpi-value" id="k4">–</div>
+    </div>
+  </div>
+
+  <!-- CHARTS -->
+  <div class="chart-grid">
+
+    <div class="chart-card">
+      <div class="chart-title">Tipos de violencia</div>
+      <canvas id="bar"></canvas>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-title">Tendencia mensual</div>
+      <canvas id="line"></canvas>
+    </div>
+
+  </div>
+
+</main>
+
+<script>
+(async () => {
+
+  let data;
+
+  // Manejo de error (importante)
+  try {
+    data = await fetch('/api/data').then(r => r.json());
+  } catch (e) {
+    console.log("Error cargando datos", e);
+    data = {
+      kpis: { casos_total: 0, tasa: 0, reincidencia: 0, municipios: 0 },
+      tipos: [],
+      tendencia: []
+    };
+  }
+
+  // KPIs
+  document.getElementById('k1').textContent = data.kpis.casos_total;
+  document.getElementById('k2').textContent = data.kpis.tasa;
+  document.getElementById('k3').textContent = data.kpis.reincidencia + '%';
+  document.getElementById('k4').textContent = data.kpis.municipios;
+
+  // BAR CHART
+  new Chart(document.getElementById('bar'), {
+    type: 'bar',
+    data: {
+      labels: data.tipos.map(x => x.tipo),
+      datasets: [{
+        data: data.tipos.map(x => x.valor),
+        backgroundColor: '#6366f1',
+        borderRadius: 8
+      }]
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false }},
+        y: { grid: { color: 'rgba(0,0,0,0.05)' }}
+      }
+    }
+  });
+
+  // LINE CHART con degradado
+  const ctx = document.getElementById('line').getContext('2d');
+  const gradient = ctx.createLinearGradient(0,0,0,300);
+
+  gradient.addColorStop(0, 'rgba(99,102,241,0.4)');
+  gradient.addColorStop(1, 'rgba(99,102,241,0)');
+
+  new Chart(document.getElementById('line'), {
+    type: 'line',
+    data: {
+      labels: data.tendencia.map(x => x.mes),
+      datasets: [{
+        data: data.tendencia.map(x => x.valor),
+        borderColor: '#6366f1',
+        backgroundColor: gradient,
+        fill: true,
+        tension: 0.4
+      }]
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false }},
+        y: { grid: { color: 'rgba(0,0,0,0.05)' }}
+      }
+    }
+  });
+
+})();
+</script>
+
+</body>
+</html>
