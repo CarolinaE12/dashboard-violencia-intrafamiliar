@@ -1,4 +1,11 @@
-DataSet/
 venv/
 __pycache__/
 *.pyc
+
+DataSet/
+DataSet Limpio/
+*.csv
+*.pbix
+*.swp
+
+.env
