@@ -1,9 +1,13 @@
 venv/
+venv_flask/
+venv_spark/
+
 __pycache__/
 *.pyc
 
 DataSet/
-DataSet Limpio/
+DataSet_Limpio/
+
 *.csv
 *.pbix
 *.swp

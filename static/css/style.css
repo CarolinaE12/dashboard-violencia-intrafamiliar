@@ -148,3 +148,46 @@ iframe {
   border-radius: 10px;
   display: block;
 }
+
+/* SIDEBAR NAV ACTIVE */
+nav a.active {
+  background: rgba(59,130,246,0.15);
+  color: var(--acento);
+}
+
+/* DIMENSIONES GRID */
+.dim-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.dim-card {
+  background: var(--surface);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.dim-nombre {
+  font-size: 12px;
+  color: var(--acento);
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.dim-registros {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--texto);
+}
+
+.dim-desc {
+  font-size: 12px;
+  color: var(--texto-muted);
+}

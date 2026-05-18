@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Modelo Estrella (VIF)</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<!--Dashboard Modelo Estrella-->
+<aside class="sidebar">
+  <div class="logo">VIF Analytics</div>
+  <nav>
+    <a href="/">Dashboard</a>
+    <a href="/modelo" class="active">Modelo Estrella</a>
+  </nav>
+</aside>
+
+<main class="main">
+
+  <h1 class="page-title">Modelo Estrella (VIF) — Análisis desde PySpark</h1>
+
+<!-- DESCRIPCIÓN -->
+  <div class="desc-card" style="margin-bottom:1.5rem">
+    <div class="desc-header">
+      <span class="desc-tag">PySpark</span>
+      <span class="desc-tag">Esquema Dimensional</span>
+      <span class="desc-tag">6 Tablas</span>
+    </div>
+    <p class="desc-text">
+      El modelo estrella fue construido con <strong>Apache Spark</strong> procesando 7.779 registros
+      de violencia intrafamiliar. La tabla de hechos central se relaciona con 5 dimensiones que
+      permiten analizar los casos desde múltiples perspectivas.
+    </p>
+  </div>
+
+  <div class="dim-grid" id="dim-grid"></div>
+
+<!-- GRÁFICOS -->
+  <div class="chart-card" style="margin-bottom:1.5rem">
+    <div class="chart-title">Top 10 combinaciones más frecuentes (Factor + Escenario + Agresor)</div>
+    <canvas id="chart-top" height="120"></canvas>
+  </div>
+<!-- GRÁFICO CICLO VITAL -->
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:1.5rem">
+    <div class="chart-card">
+      <div class="chart-title">Rango de edad de las víctimas</div>
+      <canvas id="chart-ciclo"></canvas>
+    </div>
+<!-- GRÁFICO MUNICIPIO AÑO -->
+    <div class="chart-card">
+      <div class="chart-title">Casos por municipio y año</div>
+      <canvas id="chart-muni-año"></canvas>
+    </div>
+  </div>
+<!-- GRÁFICO CALOR -->
+  <div class="chart-card">
+    <div class="chart-title">Concentración de casos por día y rango horario</div>
+    <canvas id="chart-calor" height="80"></canvas>
+  </div>
+</main>
+<!-- SCRIPTS -->
+<script>
+<!-- Colores para los gráficos -->
+const COLORES = ['#3b82f6','#6366f1','#8b5cf6','#a855f7','#ec4899',
+                 '#f43f5e','#f97316','#eab308','#22c55e','#14b8a6']
+
+async function get(url) {
+  const r = await fetch(url)
+  return r.json()
+}
+
+;(async () => {
+
+  const resumen = await get('/api/resumen_modelo')
+  const grid = document.getElementById('dim-grid')
+  resumen.tablas.forEach(t => {
+    grid.innerHTML += `
+      <div class="dim-card">
+        <div class="dim-nombre">${t.nombre}</div>
+        <div class="dim-registros">${t.registros.toLocaleString('es-CO')}</div>
+        <div class="dim-desc">${t.descripcion}</div>
+      </div>`
+  })
+
+  const top = await get('/api/top_combinaciones')
+  new Chart(document.getElementById('chart-top'), {
+    type: 'bar',
+    data: {
+      labels: top.map(d => `${d.factor_desencadenante} / ${d.escenario}`),
+      datasets: [{
+        data: top.map(d => d.cantidad),
+        backgroundColor: COLORES,
+        borderRadius: 6
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: { x: { grid: { color: 'rgba(255,255,255,0.05)' }},
+                y: { ticks: { color: '#94a3b8', font: { size: 11 }},
+                     grid: { display: false }}}
+    }
+  })
+
+
+  const ciclo = await get('/api/ciclovital_genero')
+  const cicloAgrup = {}
+  ciclo.forEach(d => {
+    cicloAgrup[d.ciclo_vital] = (cicloAgrup[d.ciclo_vital] || 0) + d.cantidad
+  })
+  new Chart(document.getElementById('chart-ciclo'), {
+    type: 'doughnut',
+    data: {
+      labels: Object.keys(cicloAgrup),
+      datasets: [{ data: Object.values(cicloAgrup),
+        backgroundColor: COLORES, borderWidth: 0, hoverOffset: 8 }]
+    },
+    options: { plugins: { legend: { position: 'bottom',
+      labels: { color: '#94a3b8', font: { size: 11 }}}}}
+  })
+
+
+  const muniAño = await get('/api/casos_municipio_año')
+  const municipios = [...new Set(muniAño.map(d => d.municipio))]
+  const años = [...new Set(muniAño.map(d => d.año))].sort()
+  const datasets = municipios.map((m, i) => ({
+    label: m,
+    data: años.map(a => {
+      const f = muniAño.find(d => d.municipio === m && d.año === a)
+      return f ? f.cantidad : 0
+    }),
+    borderColor: COLORES[i % COLORES.length],
+    backgroundColor: 'transparent',
+    tension: 0.4
+  }))
+  new Chart(document.getElementById('chart-muni-año'), {
+    type: 'line',
+    data: { labels: años, datasets },
+    options: {
+      plugins: { legend: { position: 'bottom',
+        labels: { color: '#94a3b8', font: { size: 10 }}}},
+      scales: {
+        x: { ticks: { color: '#94a3b8' }, grid: { color: 'rgba(255,255,255,0.05)' }},
+        y: { ticks: { color: '#94a3b8' }, grid: { color: 'rgba(255,255,255,0.05)' }}
+      }
+    }
+  })
+
+
+  const calor = await get('/api/calor_hora_dia')
+  const dias   = [...new Set(calor.map(d => d.dia))]
+  const horas  = [...new Set(calor.map(d => d.rango_hora))].sort()
+  const dsCalor = horas.map((h, i) => ({
+    label: h,
+    data: dias.map(dia => {
+      const f = calor.find(d => d.dia === dia && d.rango_hora === h)
+      return f ? f.cantidad : 0
+    }),
+    backgroundColor: COLORES[i % COLORES.length],
+    borderRadius: 4
+  }))
+  new Chart(document.getElementById('chart-calor'), {
+    type: 'bar',
+    data: { labels: dias, datasets: dsCalor },
+    options: {
+      plugins: { legend: { position: 'bottom',
+        labels: { color: '#94a3b8', font: { size: 10 }}}},
+      scales: {
+        x: { stacked: true, ticks: { color: '#94a3b8' }, grid: { display: false }},
+        y: { stacked: true, ticks: { color: '#94a3b8' },
+             grid: { color: 'rgba(255,255,255,0.05)' }}
+      }
+    }
+  })
+
+})()
+</script>
+
+</body>
+</html>
