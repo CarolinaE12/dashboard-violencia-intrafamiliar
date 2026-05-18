@@ -1,0 +1,4106 @@
+año,mes,dia,rango_hora,id_tiempo
+2015,Agosto,jueves,(21:00 a 23:59),1
+2015,Octubre,miércoles,(18:00 a 20:59),2
+2015,Agosto,sábado,(06:00 a 08:59),3
+2016,julio,domingo,(09:00 a 11:59),4
+2016,septiembre,jueves,(09:00 a 11:59),5
+2017,Junio,Lunes,(06:00 a 08:59),6
+2019,agosto,sábado,(09:00 a 11:59),7
+2019,octubre,domingo,(12:00 a 14:59),8
+2019,diciembre,lunes,(18:00 a 20:59),9
+2021,abril,lunes,(06:00 a 08:59),10
+2021,octubre,sábado,(09:00 a 11:59),11
+2022,enero,domingo,(18:00 a 20:59),12
+2023,noviembre,sábado,(18:00 a 20:59),13
+2023,abril,miércoles,(15:00 a 17:59),14
+2023,septiembre,jueves,(15:00 a 17:59),15
+2023,septiembre,miércoles,(12:00 a 14:59),16
+2024,Abril,Miércoles,(15:00 a 17:59),17
+2024,Septiembre,Viernes,Sin información,18
+2024,Marzo,Miércoles,(09:00 a 11:59),19
+2015,Septiembre,miércoles,Sin información,20
+2015,Julio,jueves,(12:00 a 14:59),21
+2016,diciembre,jueves,(21:00 a 23:59),22
+2016,mayo,domingo,(18:00 a 20:59),23
+2016,junio,jueves,(21:00 a 23:59),24
+2017,Diciembre,Domingo,(12:00 a 14:59),25
+2018,mayo,lunes,(06:00 a 08:59),26
+2019,mayo,martes,(15:00 a 17:59),27
+2020,junio,martes,(09:00 a 11:59),28
+2020,agosto,viernes,(18:00 a 20:59),29
+2021,septiembre,miércoles,(15:00 a 17:59),30
+2022,julio,sábado,(09:00 a 11:59),31
+2022,julio,miércoles,Sin información,32
+2022,enero,martes,(06:00 a 08:59),33
+2022,noviembre,viernes,(09:00 a 11:59),34
+2023,diciembre,martes,(21:00 a 23:59),35
+2023,marzo,viernes,(18:00 a 20:59),36
+2024,Septiembre,Lunes,Sin información,37
+2024,Julio,Martes,(18:00 a 20:59),38
+2016,marzo,miércoles,(15:00 a 17:59),39
+2016,octubre,lunes,(15:00 a 17:59),40
+2018,abril,domingo,Sin información,41
+2018,enero,martes,(03:00 a 05:59),42
+2018,febrero,viernes,Sin información,43
+2018,marzo,lunes,Sin información,44
+2018,mayo,domingo,(06:00 a 08:59),45
+2018,noviembre,domingo,(18:00 a 20:59),46
+2019,mayo,miércoles,(12:00 a 14:59),47
+2019,junio,domingo,(15:00 a 17:59),48
+2019,octubre,domingo,Sin información,49
+2021,septiembre,sábado,(21:00 a 23:59),50
+2022,mayo,domingo,(06:00 a 08:59),51
+2022,agosto,sábado,(00:00 a 02:59),52
+2022,mayo,jueves,(12:00 a 14:59),53
+2023,diciembre,martes,Sin información,54
+2023,marzo,domingo,(15:00 a 17:59),55
+2024,Mayo,Sábado,Sin información,56
+2024,Julio,Lunes,(00:00 a 02:59),57
+2015,Marzo,martes,(18:00 a 20:59),58
+2015,Octubre,sábado,(06:00 a 08:59),59
+2016,febrero,miércoles,(09:00 a 11:59),60
+2016,noviembre,domingo,(18:00 a 20:59),61
+2017,Agosto,Martes,(00:00 a 02:59),62
+2017,Noviembre,Lunes,(15:00 a 17:59),63
+2019,abril,martes,(15:00 a 17:59),64
+2019,julio,viernes,(21:00 a 23:59),65
+2019,agosto,lunes,(18:00 a 20:59),66
+2022,febrero,domingo,(18:00 a 20:59),67
+2024,Febrero,Sábado,(18:00 a 20:59),68
+2024,Julio,Lunes,(09:00 a 11:59),69
+2024,Marzo,Miércoles,(06:00 a 08:59),70
+2024,Septiembre,Sábado,(15:00 a 17:59),71
+2015,Mayo,miércoles,(09:00 a 11:59),72
+2015,Octubre,domingo,(12:00 a 14:59),73
+2015,Abril,domingo,(21:00 a 23:59),74
+2016,junio,domingo,(21:00 a 23:59),75
+2016,enero,viernes,(15:00 a 17:59),76
+2016,enero,miércoles,Sin información,77
+2016,marzo,viernes,(09:00 a 11:59),78
+2018,abril,domingo,(06:00 a 08:59),79
+2017,Mayo,Martes,(06:00 a 08:59),80
+2017,Septiembre,Miércoles,Sin información,81
+2018,julio,martes,(18:00 a 20:59),82
+2018,septiembre,martes,(09:00 a 11:59),83
+2019,junio,lunes,(12:00 a 14:59),84
+2020,septiembre,sábado,Sin información,85
+2021,octubre,lunes,(21:00 a 23:59),86
+2021,diciembre,lunes,Sin información,87
+2022,enero,miércoles,(12:00 a 14:59),88
+2023,febrero,miércoles,(09:00 a 11:59),89
+2023,abril,martes,(18:00 a 20:59),90
+2023,noviembre,miércoles,Sin información,91
+2024,Diciembre,Miércoles,Sin información,92
+2015,Noviembre,lunes,(06:00 a 08:59),93
+2015,Febrero,jueves,(12:00 a 14:59),94
+2015,Junio,sábado,(21:00 a 23:59),95
+2016,agosto,lunes,(18:00 a 20:59),96
+2016,septiembre,sábado,(21:00 a 23:59),97
+2018,junio,jueves,(18:00 a 20:59),98
+2019,mayo,domingo,(15:00 a 17:59),99
+2019,agosto,jueves,(12:00 a 14:59),100
+2019,diciembre,sábado,(21:00 a 23:59),101
+2020,marzo,domingo,(12:00 a 14:59),102
+2020,abril,sábado,(09:00 a 11:59),103
+2020,julio,viernes,(21:00 a 23:59),104
+2021,octubre,jueves,(18:00 a 20:59),105
+2022,agosto,lunes,(12:00 a 14:59),106
+2023,junio,domingo,(09:00 a 11:59),107
+2023,septiembre,viernes,(12:00 a 14:59),108
+2023,agosto,jueves,(09:00 a 11:59),109
+2023,diciembre,miércoles,(15:00 a 17:59),110
+2023,julio,martes,(21:00 a 23:59),111
+2015,Mayo,martes,Sin información,112
+2016,noviembre,miércoles,(18:00 a 20:59),113
+2016,enero,domingo,(15:00 a 17:59),114
+2016,enero,domingo,(18:00 a 20:59),115
+2017,Febrero,Viernes,(18:00 a 20:59),116
+2017,Mayo,Martes,(18:00 a 20:59),117
+2017,Noviembre,Lunes,(18:00 a 20:59),118
+2018,enero,domingo,(12:00 a 14:59),119
+2019,marzo,domingo,Sin información,120
+2019,abril,miércoles,(18:00 a 20:59),121
+2019,diciembre,martes,(09:00 a 11:59),122
+2020,febrero,jueves,(12:00 a 14:59),123
+2021,marzo,jueves,(15:00 a 17:59),124
+2021,septiembre,viernes,(06:00 a 08:59),125
+2021,noviembre,miércoles,(15:00 a 17:59),126
+2021,noviembre,martes,(12:00 a 14:59),127
+2022,febrero,martes,(09:00 a 11:59),128
+2022,marzo,miércoles,(09:00 a 11:59),129
+2022,mayo,domingo,(00:00 a 02:59),130
+2023,agosto,miércoles,(06:00 a 08:59),131
+2023,enero,viernes,(21:00 a 23:59),132
+2023,junio,martes,(18:00 a 20:59),133
+2024,Julio,Miércoles,(09:00 a 11:59),134
+2024,Junio,Sábado,(00:00 a 02:59),135
+2015,Mayo,sábado,(06:00 a 08:59),136
+2015,Julio,sábado,(21:00 a 23:59),137
+2015,Septiembre,martes,Sin información,138
+2017,Enero,Domingo,(03:00 a 05:59),139
+2017,Julio,Sábado,(18:00 a 20:59),140
+2018,abril,martes,(03:00 a 05:59),141
+2018,febrero,jueves,(12:00 a 14:59),142
+2018,mayo,sábado,(09:00 a 11:59),143
+2018,octubre,jueves,(09:00 a 11:59),144
+2019,junio,viernes,(03:00 a 05:59),145
+2019,julio,miércoles,(12:00 a 14:59),146
+2020,enero,martes,(09:00 a 11:59),147
+2020,julio,jueves,(18:00 a 20:59),148
+2020,septiembre,martes,(15:00 a 17:59),149
+2020,octubre,domingo,(18:00 a 20:59),150
+2021,diciembre,jueves,(15:00 a 17:59),151
+2022,julio,viernes,(18:00 a 20:59),152
+2022,diciembre,martes,(15:00 a 17:59),153
+2022,septiembre,martes,(12:00 a 14:59),154
+2023,septiembre,domingo,(00:00 a 02:59),155
+2023,marzo,domingo,(12:00 a 14:59),156
+2024,Diciembre,Miércoles,(18:00 a 20:59),157
+2024,Febrero,Lunes,(12:00 a 14:59),158
+2024,Septiembre,Miércoles,(12:00 a 14:59),159
+2015,Enero,miércoles,(09:00 a 11:59),160
+2015,Noviembre,lunes,(15:00 a 17:59),161
+2015,Enero,viernes,(21:00 a 23:59),162
+2018,febrero,domingo,(21:00 a 23:59),163
+2018,marzo,lunes,(06:00 a 08:59),164
+2018,abril,lunes,(18:00 a 20:59),165
+2019,enero,miércoles,Sin información,166
+2019,abril,jueves,(09:00 a 11:59),167
+2019,julio,domingo,(21:00 a 23:59),168
+2019,agosto,viernes,(06:00 a 08:59),169
+2020,enero,sábado,(03:00 a 05:59),170
+2020,marzo,martes,(18:00 a 20:59),171
+2020,agosto,jueves,(15:00 a 17:59),172
+2020,septiembre,miércoles,Sin información,173
+2021,marzo,domingo,Sin información,174
+2021,mayo,domingo,(03:00 a 05:59),175
+2022,marzo,miércoles,(21:00 a 23:59),176
+2022,abril,martes,(12:00 a 14:59),177
+2023,enero,martes,(18:00 a 20:59),178
+2024,Junio,Martes,(18:00 a 20:59),179
+2024,Abril,Lunes,(18:00 a 20:59),180
+2015,Octubre,domingo,(09:00 a 11:59),181
+2015,Marzo,viernes,(15:00 a 17:59),182
+2015,Agosto,miércoles,(21:00 a 23:59),183
+2015,Marzo,jueves,(15:00 a 17:59),184
+2016,marzo,jueves,(12:00 a 14:59),185
+2018,junio,jueves,(09:00 a 11:59),186
+2018,septiembre,domingo,Sin información,187
+2019,abril,jueves,(00:00 a 02:59),188
+2019,junio,martes,Sin información,189
+2020,enero,miércoles,(06:00 a 08:59),190
+2020,agosto,jueves,(09:00 a 11:59),191
+2020,noviembre,miércoles,(21:00 a 23:59),192
+2022,junio,lunes,(18:00 a 20:59),193
+2022,junio,sábado,(12:00 a 14:59),194
+2022,julio,miércoles,(15:00 a 17:59),195
+2022,octubre,sábado,(18:00 a 20:59),196
+2023,octubre,martes,(15:00 a 17:59),197
+2024,Agosto,Lunes,(09:00 a 11:59),198
+2024,Abril,Jueves,Sin información,199
+2015,Octubre,lunes,(09:00 a 11:59),200
+2015,Abril,domingo,(15:00 a 17:59),201
+2015,Junio,martes,(03:00 a 05:59),202
+2016,julio,viernes,(06:00 a 08:59),203
+2016,septiembre,martes,(00:00 a 02:59),204
+2016,junio,sábado,(09:00 a 11:59),205
+2017,Julio,Domingo,(09:00 a 11:59),206
+2017,Septiembre,Sábado,(03:00 a 05:59),207
+2018,octubre,miércoles,(21:00 a 23:59),208
+2018,diciembre,viernes,(09:00 a 11:59),209
+2019,enero,martes,Sin información,210
+2019,febrero,domingo,(18:00 a 20:59),211
+2019,abril,miércoles,(21:00 a 23:59),212
+2019,septiembre,domingo,(15:00 a 17:59),213
+2020,diciembre,domingo,(12:00 a 14:59),214
+2022,abril,jueves,Sin información,215
+2022,octubre,martes,(09:00 a 11:59),216
+2023,enero,viernes,(18:00 a 20:59),217
+2023,diciembre,lunes,(21:00 a 23:59),218
+2023,septiembre,viernes,(09:00 a 11:59),219
+2024,Agosto,Jueves,(15:00 a 17:59),220
+2024,Octubre,Martes,(09:00 a 11:59),221
+2024,Mayo,Miércoles,Sin información,222
+2024,Enero,Jueves,(18:00 a 20:59),223
+2016,julio,miércoles,(06:00 a 08:59),224
+2016,julio,lunes,(00:00 a 02:59),225
+2017,Abril,Viernes,(12:00 a 14:59),226
+2017,Julio,Sábado,(09:00 a 11:59),227
+2017,Julio,Viernes,(03:00 a 05:59),228
+2018,febrero,martes,(18:00 a 20:59),229
+2018,mayo,jueves,(21:00 a 23:59),230
+2018,junio,viernes,(15:00 a 17:59),231
+2019,abril,jueves,(15:00 a 17:59),232
+2019,agosto,jueves,(15:00 a 17:59),233
+2019,septiembre,martes,(18:00 a 20:59),234
+2020,mayo,jueves,(12:00 a 14:59),235
+2020,septiembre,viernes,(09:00 a 11:59),236
+2021,agosto,domingo,(03:00 a 05:59),237
+2021,diciembre,lunes,(15:00 a 17:59),238
+2021,septiembre,sábado,(00:00 a 02:59),239
+2022,enero,viernes,(12:00 a 14:59),240
+2022,enero,jueves,(12:00 a 14:59),241
+2023,agosto,domingo,(12:00 a 14:59),242
+2024,Marzo,Domingo,(06:00 a 08:59),243
+2024,Marzo,Martes,(12:00 a 14:59),244
+2015,Febrero,lunes,Sin información,245
+2016,septiembre,martes,(12:00 a 14:59),246
+2018,marzo,lunes,(18:00 a 20:59),247
+2018,marzo,miércoles,(06:00 a 08:59),248
+2018,julio,jueves,(15:00 a 17:59),249
+2019,febrero,domingo,(15:00 a 17:59),250
+2019,julio,lunes,(15:00 a 17:59),251
+2020,febrero,sábado,(12:00 a 14:59),252
+2020,febrero,viernes,(12:00 a 14:59),253
+2020,marzo,domingo,Sin información,254
+2020,marzo,viernes,(15:00 a 17:59),255
+2020,julio,viernes,(18:00 a 20:59),256
+2020,agosto,sábado,Sin información,257
+2020,diciembre,viernes,(03:00 a 05:59),258
+2021,abril,domingo,(00:00 a 02:59),259
+2021,junio,martes,(00:00 a 02:59),260
+2022,junio,miércoles,(09:00 a 11:59),261
+2022,agosto,domingo,(21:00 a 23:59),262
+2023,octubre,martes,(12:00 a 14:59),263
+2015,Marzo,martes,(12:00 a 14:59),264
+2015,Diciembre,miércoles,(09:00 a 11:59),265
+2016,marzo,domingo,(18:00 a 20:59),266
+2016,marzo,miércoles,(21:00 a 23:59),267
+2016,agosto,sábado,(18:00 a 20:59),268
+2017,Marzo,Lunes,Sin información,269
+2017,Agosto,Martes,(09:00 a 11:59),270
+2017,Septiembre,Sábado,(18:00 a 20:59),271
+2017,Octubre,Viernes,Sin información,272
+2017,Noviembre,Jueves,(15:00 a 17:59),273
+2018,abril,jueves,(18:00 a 20:59),274
+2018,noviembre,domingo,(09:00 a 11:59),275
+2018,diciembre,sábado,(00:00 a 02:59),276
+2019,mayo,viernes,(06:00 a 08:59),277
+2019,junio,domingo,(21:00 a 23:59),278
+2019,septiembre,sábado,(21:00 a 23:59),279
+2020,marzo,viernes,(21:00 a 23:59),280
+2020,noviembre,jueves,(12:00 a 14:59),281
+2020,agosto,viernes,(09:00 a 11:59),282
+2021,febrero,sábado,(18:00 a 20:59),283
+2021,febrero,sábado,Sin información,284
+2022,marzo,sábado,Sin información,285
+2023,junio,martes,(09:00 a 11:59),286
+2023,diciembre,domingo,Sin información,287
+2024,Febrero,Jueves,(00:00 a 02:59),288
+2024,Febrero,Lunes,(18:00 a 20:59),289
+2024,Septiembre,Domingo,(18:00 a 20:59),290
+2015,Septiembre,domingo,(12:00 a 14:59),291
+2015,Julio,domingo,(03:00 a 05:59),292
+2015,Junio,martes,Sin información,293
+2016,julio,lunes,(09:00 a 11:59),294
+2016,marzo,martes,(06:00 a 08:59),295
+2017,Septiembre,Jueves,(18:00 a 20:59),296
+2018,enero,lunes,(12:00 a 14:59),297
+2018,marzo,sábado,Sin información,298
+2018,abril,martes,(18:00 a 20:59),299
+2018,agosto,viernes,(21:00 a 23:59),300
+2019,junio,jueves,(06:00 a 08:59),301
+2021,octubre,viernes,Sin información,302
+2022,enero,lunes,(06:00 a 08:59),303
+2023,septiembre,lunes,(15:00 a 17:59),304
+2024,Agosto,Miércoles,(21:00 a 23:59),305
+2024,Noviembre,Sábado,(18:00 a 20:59),306
+2015,Abril,jueves,(09:00 a 11:59),307
+2015,Febrero,sábado,(12:00 a 14:59),308
+2015,Marzo,sábado,(15:00 a 17:59),309
+2017,Enero,Martes,(06:00 a 08:59),310
+2017,Febrero,Sábado,(18:00 a 20:59),311
+2018,agosto,viernes,Sin información,312
+2018,agosto,jueves,(15:00 a 17:59),313
+2018,septiembre,lunes,(18:00 a 20:59),314
+2018,noviembre,jueves,(12:00 a 14:59),315
+2022,diciembre,sábado,(18:00 a 20:59),316
+2022,septiembre,sábado,(09:00 a 11:59),317
+2022,agosto,domingo,(15:00 a 17:59),318
+2022,diciembre,miércoles,(09:00 a 11:59),319
+2023,octubre,sábado,Sin información,320
+2023,julio,sábado,(15:00 a 17:59),321
+2023,junio,jueves,(21:00 a 23:59),322
+2024,Mayo,Jueves,(15:00 a 17:59),323
+2024,Diciembre,Sábado,(21:00 a 23:59),324
+2015,Noviembre,domingo,(15:00 a 17:59),325
+2015,Agosto,sábado,(15:00 a 17:59),326
+2015,Diciembre,domingo,(09:00 a 11:59),327
+2015,Febrero,jueves,(06:00 a 08:59),328
+2015,Agosto,lunes,(00:00 a 02:59),329
+2016,agosto,miércoles,(18:00 a 20:59),330
+2017,Febrero,Lunes,(21:00 a 23:59),331
+2018,julio,sábado,(21:00 a 23:59),332
+2018,noviembre,viernes,(12:00 a 14:59),333
+2019,abril,sábado,(15:00 a 17:59),334
+2019,marzo,viernes,(09:00 a 11:59),335
+2020,mayo,jueves,(18:00 a 20:59),336
+2020,junio,jueves,(09:00 a 11:59),337
+2021,marzo,lunes,(18:00 a 20:59),338
+2021,marzo,martes,(12:00 a 14:59),339
+2021,agosto,miércoles,(18:00 a 20:59),340
+2022,julio,viernes,(12:00 a 14:59),341
+2023,mayo,viernes,Sin información,342
+2023,julio,viernes,Sin información,343
+2024,Junio,Domingo,(09:00 a 11:59),344
+2024,Julio,Viernes,(15:00 a 17:59),345
+2024,Enero,Viernes,(18:00 a 20:59),346
+2024,Mayo,Domingo,(21:00 a 23:59),347
+2024,Octubre,Martes,(21:00 a 23:59),348
+2015,Diciembre,martes,(18:00 a 20:59),349
+2015,Diciembre,martes,(12:00 a 14:59),350
+2016,abril,viernes,(00:00 a 02:59),351
+2016,diciembre,viernes,(21:00 a 23:59),352
+2016,febrero,viernes,(15:00 a 17:59),353
+2017,Octubre,Viernes,(18:00 a 20:59),354
+2018,julio,domingo,(12:00 a 14:59),355
+2018,septiembre,jueves,Sin información,356
+2019,julio,lunes,Sin información,357
+2019,agosto,martes,(06:00 a 08:59),358
+2019,diciembre,martes,Sin información,359
+2020,enero,miércoles,Sin información,360
+2020,enero,jueves,(09:00 a 11:59),361
+2020,febrero,martes,(12:00 a 14:59),362
+2020,abril,jueves,(15:00 a 17:59),363
+2020,julio,domingo,(18:00 a 20:59),364
+2021,febrero,viernes,(15:00 a 17:59),365
+2021,julio,miércoles,(18:00 a 20:59),366
+2021,abril,jueves,Sin información,367
+2021,diciembre,viernes,(09:00 a 11:59),368
+2021,octubre,miércoles,Sin información,369
+2021,noviembre,sábado,(15:00 a 17:59),370
+2022,junio,martes,(06:00 a 08:59),371
+2023,julio,martes,(15:00 a 17:59),372
+2015,Noviembre,martes,(18:00 a 20:59),373
+2016,agosto,jueves,Sin información,374
+2017,Marzo,Sábado,(12:00 a 14:59),375
+2018,mayo,jueves,(12:00 a 14:59),376
+2018,junio,jueves,Sin información,377
+2018,agosto,martes,(18:00 a 20:59),378
+2019,febrero,sábado,Sin información,379
+2019,junio,viernes,(21:00 a 23:59),380
+2019,julio,lunes,(18:00 a 20:59),381
+2019,septiembre,viernes,Sin información,382
+2019,noviembre,miércoles,(12:00 a 14:59),383
+2020,febrero,jueves,(15:00 a 17:59),384
+2020,marzo,miércoles,(12:00 a 14:59),385
+2020,septiembre,miércoles,(15:00 a 17:59),386
+2020,noviembre,viernes,(18:00 a 20:59),387
+2021,diciembre,domingo,(15:00 a 17:59),388
+2022,marzo,miércoles,(12:00 a 14:59),389
+2022,febrero,viernes,(18:00 a 20:59),390
+2022,julio,viernes,(09:00 a 11:59),391
+2022,agosto,viernes,(12:00 a 14:59),392
+2022,septiembre,lunes,(21:00 a 23:59),393
+2022,octubre,domingo,(00:00 a 02:59),394
+2023,julio,sábado,Sin información,395
+2023,octubre,lunes,(18:00 a 20:59),396
+2015,Octubre,sábado,(12:00 a 14:59),397
+2017,Junio,Sábado,Sin información,398
+2017,Agosto,Domingo,(15:00 a 17:59),399
+2017,Agosto,Jueves,(09:00 a 11:59),400
+2018,marzo,sábado,(18:00 a 20:59),401
+2018,julio,lunes,(12:00 a 14:59),402
+2019,mayo,martes,(06:00 a 08:59),403
+2019,octubre,jueves,(18:00 a 20:59),404
+2020,agosto,miércoles,(21:00 a 23:59),405
+2022,diciembre,jueves,(00:00 a 02:59),406
+2022,marzo,martes,(00:00 a 02:59),407
+2022,diciembre,miércoles,(15:00 a 17:59),408
+2022,mayo,domingo,(09:00 a 11:59),409
+2023,agosto,jueves,(18:00 a 20:59),410
+2023,septiembre,lunes,(18:00 a 20:59),411
+2024,Junio,Sábado,(21:00 a 23:59),412
+2015,Abril,lunes,(12:00 a 14:59),413
+2015,Octubre,domingo,(06:00 a 08:59),414
+2015,Abril,sábado,(00:00 a 02:59),415
+2018,febrero,domingo,(15:00 a 17:59),416
+2018,mayo,sábado,(21:00 a 23:59),417
+2020,mayo,lunes,(18:00 a 20:59),418
+2020,julio,jueves,(15:00 a 17:59),419
+2020,noviembre,lunes,(18:00 a 20:59),420
+2021,enero,jueves,(18:00 a 20:59),421
+2022,marzo,domingo,(03:00 a 05:59),422
+2022,julio,jueves,(12:00 a 14:59),423
+2022,mayo,lunes,(00:00 a 02:59),424
+2022,septiembre,lunes,(12:00 a 14:59),425
+2023,febrero,domingo,(15:00 a 17:59),426
+2024,Noviembre,Lunes,(06:00 a 08:59),427
+2024,Noviembre,Domingo,(15:00 a 17:59),428
+2024,Julio,Martes,(09:00 a 11:59),429
+2024,Noviembre,Domingo,(12:00 a 14:59),430
+2015,Agosto,miércoles,Sin información,431
+2015,Febrero,viernes,(15:00 a 17:59),432
+2016,diciembre,domingo,(03:00 a 05:59),433
+2016,junio,jueves,(09:00 a 11:59),434
+2016,julio,domingo,(21:00 a 23:59),435
+2017,Febrero,Jueves,(06:00 a 08:59),436
+2017,Junio,Viernes,(09:00 a 11:59),437
+2017,Agosto,Martes,(06:00 a 08:59),438
+2017,Agosto,Miércoles,Sin información,439
+2017,Septiembre,Sábado,Sin información,440
+2017,Septiembre,Domingo,(03:00 a 05:59),441
+2018,enero,lunes,(18:00 a 20:59),442
+2018,diciembre,jueves,(21:00 a 23:59),443
+2019,enero,sábado,(12:00 a 14:59),444
+2019,enero,jueves,(00:00 a 02:59),445
+2019,marzo,domingo,(12:00 a 14:59),446
+2019,marzo,domingo,(09:00 a 11:59),447
+2019,marzo,jueves,Sin información,448
+2019,julio,lunes,(00:00 a 02:59),449
+2019,julio,lunes,(12:00 a 14:59),450
+2019,agosto,jueves,(06:00 a 08:59),451
+2020,marzo,miércoles,(18:00 a 20:59),452
+2020,marzo,miércoles,(09:00 a 11:59),453
+2021,diciembre,lunes,(03:00 a 05:59),454
+2022,octubre,sábado,(12:00 a 14:59),455
+2022,febrero,martes,(12:00 a 14:59),456
+2022,agosto,miércoles,(15:00 a 17:59),457
+2022,julio,lunes,(06:00 a 08:59),458
+2023,julio,sábado,(18:00 a 20:59),459
+2024,Junio,Lunes,(15:00 a 17:59),460
+2024,Julio,Lunes,(12:00 a 14:59),461
+2015,Octubre,martes,(18:00 a 20:59),462
+2016,octubre,domingo,(18:00 a 20:59),463
+2016,junio,domingo,(18:00 a 20:59),464
+2017,Marzo,Lunes,(15:00 a 17:59),465
+2017,Diciembre,Sábado,(18:00 a 20:59),466
+2018,febrero,martes,Sin información,467
+2019,abril,jueves,(03:00 a 05:59),468
+2019,agosto,jueves,(18:00 a 20:59),469
+2020,noviembre,domingo,(21:00 a 23:59),470
+2021,agosto,martes,(12:00 a 14:59),471
+2021,mayo,miércoles,(18:00 a 20:59),472
+2021,noviembre,miércoles,(09:00 a 11:59),473
+2022,diciembre,jueves,(09:00 a 11:59),474
+2023,enero,domingo,(09:00 a 11:59),475
+2023,noviembre,lunes,(18:00 a 20:59),476
+2024,Febrero,Sábado,(15:00 a 17:59),477
+2024,Enero,Lunes,Sin información,478
+2016,diciembre,domingo,(00:00 a 02:59),479
+2016,julio,domingo,Sin información,480
+2017,Junio,Miércoles,(06:00 a 08:59),481
+2018,febrero,sábado,(12:00 a 14:59),482
+2018,enero,lunes,(06:00 a 08:59),483
+2018,mayo,domingo,(12:00 a 14:59),484
+2018,mayo,miércoles,(06:00 a 08:59),485
+2018,junio,viernes,Sin información,486
+2019,febrero,sábado,(06:00 a 08:59),487
+2019,mayo,domingo,(06:00 a 08:59),488
+2020,febrero,miércoles,(15:00 a 17:59),489
+2020,febrero,domingo,(09:00 a 11:59),490
+2020,julio,martes,(12:00 a 14:59),491
+2021,agosto,viernes,(15:00 a 17:59),492
+2021,noviembre,sábado,(12:00 a 14:59),493
+2023,marzo,viernes,Sin información,494
+2023,febrero,sábado,(09:00 a 11:59),495
+2023,junio,domingo,(18:00 a 20:59),496
+2023,septiembre,sábado,Sin información,497
+2024,Junio,Martes,(15:00 a 17:59),498
+2024,Noviembre,Viernes,(21:00 a 23:59),499
+2015,Mayo,sábado,(18:00 a 20:59),500
+2015,Junio,lunes,(18:00 a 20:59),501
+2015,Febrero,lunes,(15:00 a 17:59),502
+2016,octubre,domingo,(00:00 a 02:59),503
+2016,julio,miércoles,(18:00 a 20:59),504
+2018,mayo,sábado,(06:00 a 08:59),505
+2018,agosto,lunes,(15:00 a 17:59),506
+2020,abril,jueves,(06:00 a 08:59),507
+2021,junio,domingo,(12:00 a 14:59),508
+2022,enero,viernes,(09:00 a 11:59),509
+2022,enero,domingo,Sin información,510
+2022,febrero,domingo,(00:00 a 02:59),511
+2023,abril,domingo,(15:00 a 17:59),512
+2023,febrero,jueves,Sin información,513
+2023,marzo,viernes,(00:00 a 02:59),514
+2023,mayo,lunes,(12:00 a 14:59),515
+2023,julio,miércoles,(15:00 a 17:59),516
+2023,septiembre,miércoles,(06:00 a 08:59),517
+2023,diciembre,domingo,(15:00 a 17:59),518
+2024,Abril,Lunes,Sin información,519
+2024,Abril,Miércoles,(12:00 a 14:59),520
+2015,Febrero,sábado,(18:00 a 20:59),521
+2015,Diciembre,sábado,(18:00 a 20:59),522
+2016,abril,jueves,(09:00 a 11:59),523
+2016,octubre,jueves,(18:00 a 20:59),524
+2017,Febrero,Domingo,(15:00 a 17:59),525
+2017,Abril,Jueves,Sin información,526
+2018,enero,lunes,(09:00 a 11:59),527
+2018,mayo,domingo,(00:00 a 02:59),528
+2018,septiembre,domingo,(12:00 a 14:59),529
+2019,julio,martes,(15:00 a 17:59),530
+2019,agosto,domingo,(12:00 a 14:59),531
+2019,octubre,domingo,(18:00 a 20:59),532
+2020,marzo,viernes,(18:00 a 20:59),533
+2020,diciembre,domingo,(03:00 a 05:59),534
+2020,noviembre,domingo,(12:00 a 14:59),535
+2021,enero,miércoles,(15:00 a 17:59),536
+2021,agosto,lunes,(12:00 a 14:59),537
+2022,diciembre,martes,(12:00 a 14:59),538
+2022,marzo,martes,(15:00 a 17:59),539
+2022,enero,miércoles,(09:00 a 11:59),540
+2022,agosto,lunes,(03:00 a 05:59),541
+2023,febrero,domingo,(12:00 a 14:59),542
+2024,Agosto,Lunes,(21:00 a 23:59),543
+2024,Febrero,Jueves,(21:00 a 23:59),544
+2015,Abril,viernes,(06:00 a 08:59),545
+2015,Abril,lunes,(06:00 a 08:59),546
+2015,Octubre,jueves,(21:00 a 23:59),547
+2015,Diciembre,domingo,(21:00 a 23:59),548
+2017,Febrero,Jueves,(09:00 a 11:59),549
+2017,Febrero,Miércoles,(06:00 a 08:59),550
+2018,febrero,lunes,Sin información,551
+2018,mayo,viernes,(15:00 a 17:59),552
+2019,septiembre,domingo,Sin información,553
+2020,marzo,martes,(12:00 a 14:59),554
+2022,marzo,viernes,(18:00 a 20:59),555
+2022,diciembre,lunes,(15:00 a 17:59),556
+2022,diciembre,lunes,(09:00 a 11:59),557
+2022,mayo,lunes,(21:00 a 23:59),558
+2023,noviembre,martes,(03:00 a 05:59),559
+2023,noviembre,sábado,Sin información,560
+2023,octubre,viernes,(15:00 a 17:59),561
+2024,Marzo,Viernes,(21:00 a 23:59),562
+2024,Octubre,Domingo,(12:00 a 14:59),563
+2024,Abril,Domingo,(09:00 a 11:59),564
+2024,Septiembre,Martes,(18:00 a 20:59),565
+2015,Mayo,miércoles,Sin información,566
+2015,Octubre,viernes,(15:00 a 17:59),567
+2016,enero,viernes,(09:00 a 11:59),568
+2018,enero,viernes,(09:00 a 11:59),569
+2019,enero,domingo,(18:00 a 20:59),570
+2019,noviembre,lunes,Sin información,571
+2019,diciembre,lunes,(15:00 a 17:59),572
+2020,febrero,domingo,(18:00 a 20:59),573
+2020,mayo,domingo,(18:00 a 20:59),574
+2020,agosto,viernes,(12:00 a 14:59),575
+2021,febrero,domingo,Sin información,576
+2021,octubre,miércoles,(09:00 a 11:59),577
+2022,mayo,sábado,Sin información,578
+2022,abril,domingo,(15:00 a 17:59),579
+2022,mayo,viernes,(03:00 a 05:59),580
+2023,mayo,lunes,(03:00 a 05:59),581
+2024,Agosto,Martes,(15:00 a 17:59),582
+2024,Mayo,Miércoles,(12:00 a 14:59),583
+2015,Julio,martes,(21:00 a 23:59),584
+2015,Noviembre,lunes,(21:00 a 23:59),585
+2016,julio,jueves,Sin información,586
+2016,agosto,jueves,(15:00 a 17:59),587
+2016,octubre,miércoles,(09:00 a 11:59),588
+2018,abril,domingo,(15:00 a 17:59),589
+2018,junio,domingo,(06:00 a 08:59),590
+2018,julio,miércoles,Sin información,591
+2018,agosto,martes,(15:00 a 17:59),592
+2019,enero,sábado,(00:00 a 02:59),593
+2019,mayo,domingo,(12:00 a 14:59),594
+2019,noviembre,miércoles,Sin información,595
+2020,abril,miércoles,(06:00 a 08:59),596
+2020,diciembre,lunes,(00:00 a 02:59),597
+2021,mayo,viernes,(09:00 a 11:59),598
+2022,diciembre,miércoles,Sin información,599
+2022,octubre,domingo,(06:00 a 08:59),600
+2022,noviembre,lunes,(21:00 a 23:59),601
+2022,abril,lunes,(09:00 a 11:59),602
+2023,marzo,lunes,(15:00 a 17:59),603
+2023,diciembre,jueves,(09:00 a 11:59),604
+2024,Abril,Sábado,Sin información,605
+2015,Mayo,jueves,(18:00 a 20:59),606
+2015,Junio,miércoles,(21:00 a 23:59),607
+2016,febrero,viernes,(06:00 a 08:59),608
+2016,marzo,viernes,(18:00 a 20:59),609
+2017,Julio,Martes,Sin información,610
+2017,Agosto,Jueves,(18:00 a 20:59),611
+2018,enero,miércoles,(18:00 a 20:59),612
+2018,marzo,miércoles,Sin información,613
+2018,septiembre,lunes,(09:00 a 11:59),614
+2018,septiembre,lunes,(12:00 a 14:59),615
+2019,abril,lunes,(00:00 a 02:59),616
+2019,julio,sábado,(18:00 a 20:59),617
+2019,agosto,domingo,Sin información,618
+2019,agosto,miércoles,Sin información,619
+2021,mayo,viernes,(15:00 a 17:59),620
+2021,septiembre,martes,(18:00 a 20:59),621
+2022,marzo,lunes,(09:00 a 11:59),622
+2022,abril,viernes,(18:00 a 20:59),623
+2023,agosto,sábado,(18:00 a 20:59),624
+2024,Febrero,Domingo,(15:00 a 17:59),625
+2024,Febrero,Domingo,(06:00 a 08:59),626
+2024,Octubre,Lunes,(15:00 a 17:59),627
+2016,marzo,jueves,(15:00 a 17:59),628
+2017,Febrero,Jueves,(03:00 a 05:59),629
+2017,Junio,Miércoles,(12:00 a 14:59),630
+2017,Julio,Miércoles,(09:00 a 11:59),631
+2017,Diciembre,Lunes,(21:00 a 23:59),632
+2019,noviembre,sábado,(18:00 a 20:59),633
+2020,febrero,sábado,(09:00 a 11:59),634
+2022,diciembre,sábado,Sin información,635
+2023,marzo,sábado,(21:00 a 23:59),636
+2023,mayo,martes,(12:00 a 14:59),637
+2023,enero,jueves,(15:00 a 17:59),638
+2023,octubre,lunes,(03:00 a 05:59),639
+2024,Agosto,Lunes,(18:00 a 20:59),640
+2015,Agosto,jueves,(12:00 a 14:59),641
+2015,Mayo,domingo,(06:00 a 08:59),642
+2016,abril,lunes,Sin información,643
+2016,septiembre,viernes,(09:00 a 11:59),644
+2016,abril,sábado,(06:00 a 08:59),645
+2017,Mayo,Domingo,(15:00 a 17:59),646
+2017,Junio,Jueves,(06:00 a 08:59),647
+2019,marzo,viernes,(15:00 a 17:59),648
+2020,julio,martes,(15:00 a 17:59),649
+2021,diciembre,martes,Sin información,650
+2022,septiembre,viernes,(21:00 a 23:59),651
+2023,febrero,viernes,Sin información,652
+2023,abril,miércoles,(12:00 a 14:59),653
+2024,Mayo,Viernes,(09:00 a 11:59),654
+2015,Enero,viernes,Sin información,655
+2015,Marzo,domingo,(03:00 a 05:59),656
+2016,enero,martes,(12:00 a 14:59),657
+2016,julio,jueves,(09:00 a 11:59),658
+2019,febrero,sábado,(15:00 a 17:59),659
+2019,abril,jueves,(18:00 a 20:59),660
+2020,enero,domingo,(00:00 a 02:59),661
+2020,marzo,lunes,(12:00 a 14:59),662
+2020,diciembre,martes,Sin información,663
+2021,agosto,domingo,(09:00 a 11:59),664
+2021,octubre,viernes,(06:00 a 08:59),665
+2022,mayo,domingo,(15:00 a 17:59),666
+2022,enero,martes,(15:00 a 17:59),667
+2023,junio,miércoles,(06:00 a 08:59),668
+2023,julio,jueves,(21:00 a 23:59),669
+2023,octubre,domingo,(15:00 a 17:59),670
+2024,Julio,Domingo,Sin información,671
+2024,Agosto,Sábado,(18:00 a 20:59),672
+2024,Octubre,Sábado,(21:00 a 23:59),673
+2015,Febrero,jueves,(21:00 a 23:59),674
+2016,abril,viernes,(15:00 a 17:59),675
+2017,Octubre,Lunes,Sin información,676
+2018,marzo,viernes,(18:00 a 20:59),677
+2018,abril,miércoles,(06:00 a 08:59),678
+2018,abril,lunes,(21:00 a 23:59),679
+2018,noviembre,lunes,(18:00 a 20:59),680
+2019,enero,jueves,(09:00 a 11:59),681
+2019,abril,lunes,(06:00 a 08:59),682
+2020,junio,viernes,(15:00 a 17:59),683
+2021,noviembre,miércoles,(18:00 a 20:59),684
+2021,diciembre,martes,(12:00 a 14:59),685
+2022,abril,sábado,Sin información,686
+2022,octubre,miércoles,(21:00 a 23:59),687
+2022,agosto,domingo,(03:00 a 05:59),688
+2023,diciembre,viernes,(21:00 a 23:59),689
+2024,Agosto,Sábado,(12:00 a 14:59),690
+2024,Diciembre,Jueves,(12:00 a 14:59),691
+2015,Agosto,lunes,(06:00 a 08:59),692
+2015,Febrero,miércoles,(18:00 a 20:59),693
+2015,Abril,viernes,(15:00 a 17:59),694
+2016,febrero,miércoles,Sin información,695
+2016,diciembre,lunes,(15:00 a 17:59),696
+2017,Agosto,Domingo,(00:00 a 02:59),697
+2017,Agosto,Lunes,(12:00 a 14:59),698
+2017,Octubre,Jueves,(18:00 a 20:59),699
+2017,Diciembre,Viernes,(15:00 a 17:59),700
+2018,enero,jueves,(06:00 a 08:59),701
+2019,mayo,lunes,(12:00 a 14:59),702
+2019,julio,miércoles,Sin información,703
+2019,noviembre,martes,(00:00 a 02:59),704
+2020,marzo,lunes,(18:00 a 20:59),705
+2020,abril,domingo,(15:00 a 17:59),706
+2021,enero,viernes,(15:00 a 17:59),707
+2021,abril,viernes,Sin información,708
+2022,octubre,jueves,Sin información,709
+2022,enero,lunes,(03:00 a 05:59),710
+2023,julio,domingo,(12:00 a 14:59),711
+2024,Agosto,Sábado,Sin información,712
+2024,Septiembre,Jueves,(18:00 a 20:59),713
+2015,Mayo,lunes,Sin información,714
+2015,Mayo,sábado,(21:00 a 23:59),715
+2015,Marzo,miércoles,Sin información,716
+2016,octubre,lunes,(12:00 a 14:59),717
+2016,octubre,martes,(18:00 a 20:59),718
+2017,Febrero,Miércoles,(21:00 a 23:59),719
+2017,Junio,Sábado,(06:00 a 08:59),720
+2017,Agosto,Jueves,(15:00 a 17:59),721
+2017,Noviembre,Viernes,(21:00 a 23:59),722
+2019,octubre,lunes,(15:00 a 17:59),723
+2020,enero,lunes,(09:00 a 11:59),724
+2020,junio,miércoles,Sin información,725
+2021,mayo,jueves,Sin información,726
+2022,marzo,miércoles,(03:00 a 05:59),727
+2022,noviembre,jueves,(21:00 a 23:59),728
+2022,marzo,sábado,(06:00 a 08:59),729
+2022,diciembre,domingo,(03:00 a 05:59),730
+2023,junio,martes,(12:00 a 14:59),731
+2023,junio,miércoles,(03:00 a 05:59),732
+2023,noviembre,martes,Sin información,733
+2023,enero,lunes,(09:00 a 11:59),734
+2023,agosto,miércoles,(15:00 a 17:59),735
+2023,octubre,domingo,(06:00 a 08:59),736
+2024,Enero,Martes,(18:00 a 20:59),737
+2024,Mayo,Domingo,(18:00 a 20:59),738
+2015,Febrero,martes,Sin información,739
+2015,Octubre,domingo,(00:00 a 02:59),740
+2015,Septiembre,domingo,(15:00 a 17:59),741
+2016,septiembre,viernes,(15:00 a 17:59),742
+2018,mayo,jueves,(00:00 a 02:59),743
+2018,septiembre,domingo,(18:00 a 20:59),744
+2019,marzo,lunes,(09:00 a 11:59),745
+2019,junio,domingo,(09:00 a 11:59),746
+2020,enero,jueves,(12:00 a 14:59),747
+2021,abril,jueves,(15:00 a 17:59),748
+2021,diciembre,viernes,(18:00 a 20:59),749
+2022,diciembre,miércoles,(21:00 a 23:59),750
+2023,abril,domingo,(21:00 a 23:59),751
+2023,octubre,jueves,(12:00 a 14:59),752
+2023,junio,viernes,(15:00 a 17:59),753
+2023,enero,miércoles,(18:00 a 20:59),754
+2023,julio,jueves,(12:00 a 14:59),755
+2015,Julio,domingo,(18:00 a 20:59),756
+2016,marzo,domingo,(09:00 a 11:59),757
+2016,mayo,sábado,(09:00 a 11:59),758
+2017,Febrero,Domingo,(06:00 a 08:59),759
+2017,Febrero,Lunes,(09:00 a 11:59),760
+2017,Abril,Sábado,(21:00 a 23:59),761
+2017,Junio,Domingo,(21:00 a 23:59),762
+2017,Octubre,Sábado,(18:00 a 20:59),763
+2018,enero,viernes,(15:00 a 17:59),764
+2018,octubre,miércoles,(18:00 a 20:59),765
+2019,marzo,martes,(09:00 a 11:59),766
+2019,mayo,martes,(09:00 a 11:59),767
+2019,octubre,miércoles,(12:00 a 14:59),768
+2020,febrero,jueves,(21:00 a 23:59),769
+2021,junio,domingo,(21:00 a 23:59),770
+2022,noviembre,jueves,(12:00 a 14:59),771
+2022,abril,sábado,(09:00 a 11:59),772
+2022,junio,lunes,(15:00 a 17:59),773
+2023,julio,jueves,(06:00 a 08:59),774
+2024,Marzo,Sábado,(21:00 a 23:59),775
+2024,Julio,Lunes,Sin información,776
+2024,Enero,Domingo,Sin información,777
+2024,Enero,Miércoles,Sin información,778
+2024,Septiembre,Lunes,(15:00 a 17:59),779
+2016,diciembre,martes,(18:00 a 20:59),780
+2016,noviembre,martes,(18:00 a 20:59),781
+2016,febrero,jueves,Sin información,782
+2016,agosto,jueves,(06:00 a 08:59),783
+2017,Enero,Sábado,Sin información,784
+2017,Marzo,Lunes,(18:00 a 20:59),785
+2017,Agosto,Miércoles,(18:00 a 20:59),786
+2017,Septiembre,Jueves,(06:00 a 08:59),787
+2017,Octubre,Martes,Sin información,788
+2018,febrero,miércoles,(21:00 a 23:59),789
+2018,abril,sábado,(12:00 a 14:59),790
+2018,diciembre,domingo,(18:00 a 20:59),791
+2019,enero,jueves,(21:00 a 23:59),792
+2019,febrero,domingo,(21:00 a 23:59),793
+2019,agosto,jueves,(03:00 a 05:59),794
+2019,octubre,domingo,(06:00 a 08:59),795
+2021,noviembre,martes,(09:00 a 11:59),796
+2022,agosto,miércoles,(00:00 a 02:59),797
+2022,agosto,lunes,(18:00 a 20:59),798
+2022,agosto,viernes,(15:00 a 17:59),799
+2023,agosto,domingo,(03:00 a 05:59),800
+2024,Enero,Lunes,(00:00 a 02:59),801
+2024,Febrero,Jueves,(15:00 a 17:59),802
+2024,Febrero,Sábado,(00:00 a 02:59),803
+2015,Junio,lunes,(12:00 a 14:59),804
+2016,noviembre,sábado,(06:00 a 08:59),805
+2016,noviembre,viernes,(15:00 a 17:59),806
+2016,abril,domingo,(09:00 a 11:59),807
+2017,Enero,Domingo,Sin información,808
+2017,Marzo,Miércoles,(00:00 a 02:59),809
+2017,Agosto,Sábado,(03:00 a 05:59),810
+2017,Noviembre,Domingo,(15:00 a 17:59),811
+2018,enero,domingo,Sin información,812
+2018,marzo,martes,Sin información,813
+2019,febrero,domingo,(12:00 a 14:59),814
+2019,julio,martes,(09:00 a 11:59),815
+2020,julio,lunes,(06:00 a 08:59),816
+2020,septiembre,domingo,(15:00 a 17:59),817
+2021,marzo,martes,(15:00 a 17:59),818
+2021,junio,lunes,Sin información,819
+2021,abril,sábado,(21:00 a 23:59),820
+2021,noviembre,miércoles,(21:00 a 23:59),821
+2023,agosto,miércoles,(18:00 a 20:59),822
+2024,Abril,Domingo,(18:00 a 20:59),823
+2024,Octubre,Domingo,(09:00 a 11:59),824
+2024,Enero,Viernes,Sin información,825
+2024,Abril,Sábado,(12:00 a 14:59),826
+2024,Junio,Sábado,(18:00 a 20:59),827
+2024,Diciembre,Viernes,(09:00 a 11:59),828
+2015,Marzo,domingo,Sin información,829
+2018,marzo,martes,(12:00 a 14:59),830
+2018,junio,sábado,(12:00 a 14:59),831
+2018,octubre,viernes,(21:00 a 23:59),832
+2018,noviembre,jueves,(18:00 a 20:59),833
+2018,diciembre,viernes,(21:00 a 23:59),834
+2019,mayo,jueves,(09:00 a 11:59),835
+2019,mayo,martes,Sin información,836
+2019,agosto,jueves,(09:00 a 11:59),837
+2022,septiembre,domingo,(18:00 a 20:59),838
+2022,junio,domingo,(18:00 a 20:59),839
+2022,octubre,viernes,(21:00 a 23:59),840
+2022,abril,miércoles,(18:00 a 20:59),841
+2022,septiembre,lunes,(15:00 a 17:59),842
+2022,octubre,martes,(18:00 a 20:59),843
+2023,mayo,jueves,(12:00 a 14:59),844
+2023,octubre,viernes,(18:00 a 20:59),845
+2023,julio,lunes,(06:00 a 08:59),846
+2023,marzo,lunes,(06:00 a 08:59),847
+2024,Febrero,Viernes,(09:00 a 11:59),848
+2015,Mayo,lunes,(18:00 a 20:59),849
+2016,diciembre,martes,(12:00 a 14:59),850
+2016,mayo,martes,(18:00 a 20:59),851
+2017,Enero,Miércoles,Sin información,852
+2017,Marzo,Miércoles,(06:00 a 08:59),853
+2017,Marzo,Lunes,(12:00 a 14:59),854
+2017,Marzo,Miércoles,(21:00 a 23:59),855
+2017,Septiembre,Viernes,(21:00 a 23:59),856
+2018,febrero,sábado,(00:00 a 02:59),857
+2018,abril,sábado,(09:00 a 11:59),858
+2018,mayo,sábado,(18:00 a 20:59),859
+2018,junio,martes,Sin información,860
+2018,octubre,lunes,(00:00 a 02:59),861
+2018,octubre,lunes,(21:00 a 23:59),862
+2020,enero,jueves,Sin información,863
+2020,marzo,lunes,(21:00 a 23:59),864
+2020,diciembre,miércoles,Sin información,865
+2021,enero,sábado,(18:00 a 20:59),866
+2021,noviembre,lunes,(06:00 a 08:59),867
+2022,noviembre,sábado,(12:00 a 14:59),868
+2022,julio,martes,(12:00 a 14:59),869
+2023,mayo,miércoles,(12:00 a 14:59),870
+2023,diciembre,viernes,(06:00 a 08:59),871
+2024,Mayo,Lunes,(18:00 a 20:59),872
+2024,Octubre,Martes,(15:00 a 17:59),873
+2024,Noviembre,Miércoles,(06:00 a 08:59),874
+2018,marzo,jueves,Sin información,875
+2018,abril,lunes,(09:00 a 11:59),876
+2018,mayo,sábado,Sin información,877
+2019,julio,sábado,Sin información,878
+2019,agosto,jueves,(21:00 a 23:59),879
+2021,enero,miércoles,Sin información,880
+2021,noviembre,sábado,(00:00 a 02:59),881
+2022,mayo,domingo,(21:00 a 23:59),882
+2023,abril,domingo,(12:00 a 14:59),883
+2023,abril,lunes,(12:00 a 14:59),884
+2023,junio,jueves,(18:00 a 20:59),885
+2023,septiembre,viernes,(21:00 a 23:59),886
+2023,junio,domingo,(15:00 a 17:59),887
+2023,junio,lunes,Sin información,888
+2023,agosto,jueves,(12:00 a 14:59),889
+2024,Febrero,Sábado,(09:00 a 11:59),890
+2024,Marzo,Martes,(15:00 a 17:59),891
+2015,Julio,sábado,(18:00 a 20:59),892
+2015,Junio,martes,(12:00 a 14:59),893
+2016,diciembre,domingo,(15:00 a 17:59),894
+2016,octubre,domingo,(15:00 a 17:59),895
+2016,octubre,lunes,(18:00 a 20:59),896
+2016,junio,viernes,(18:00 a 20:59),897
+2016,enero,martes,Sin información,898
+2017,Mayo,Sábado,(12:00 a 14:59),899
+2017,Agosto,Domingo,(21:00 a 23:59),900
+2017,Diciembre,Miércoles,Sin información,901
+2018,mayo,martes,(18:00 a 20:59),902
+2018,julio,viernes,(06:00 a 08:59),903
+2018,junio,domingo,(03:00 a 05:59),904
+2019,abril,domingo,(03:00 a 05:59),905
+2019,mayo,jueves,(06:00 a 08:59),906
+2019,noviembre,jueves,Sin información,907
+2020,enero,jueves,(15:00 a 17:59),908
+2021,agosto,sábado,(21:00 a 23:59),909
+2022,junio,sábado,(15:00 a 17:59),910
+2022,septiembre,martes,Sin información,911
+2023,abril,viernes,(15:00 a 17:59),912
+2023,junio,miércoles,(15:00 a 17:59),913
+2024,Abril,Domingo,(15:00 a 17:59),914
+2024,Octubre,Jueves,(18:00 a 20:59),915
+2016,octubre,domingo,(12:00 a 14:59),916
+2018,octubre,martes,(09:00 a 11:59),917
+2019,enero,sábado,(03:00 a 05:59),918
+2019,junio,domingo,(18:00 a 20:59),919
+2019,noviembre,sábado,(15:00 a 17:59),920
+2021,agosto,jueves,(15:00 a 17:59),921
+2021,diciembre,sábado,(15:00 a 17:59),922
+2022,junio,sábado,(21:00 a 23:59),923
+2022,febrero,viernes,(21:00 a 23:59),924
+2022,noviembre,sábado,(18:00 a 20:59),925
+2022,noviembre,sábado,(21:00 a 23:59),926
+2024,Octubre,Viernes,Sin información,927
+2024,Septiembre,Martes,(12:00 a 14:59),928
+2016,septiembre,jueves,Sin información,929
+2017,Julio,Domingo,(21:00 a 23:59),930
+2019,febrero,domingo,Sin información,931
+2019,julio,martes,(18:00 a 20:59),932
+2019,octubre,sábado,Sin información,933
+2020,enero,martes,(15:00 a 17:59),934
+2021,febrero,jueves,(12:00 a 14:59),935
+2021,agosto,sábado,(12:00 a 14:59),936
+2021,diciembre,viernes,(06:00 a 08:59),937
+2022,mayo,domingo,(18:00 a 20:59),938
+2022,mayo,lunes,(15:00 a 17:59),939
+2022,noviembre,domingo,(12:00 a 14:59),940
+2022,julio,lunes,(12:00 a 14:59),941
+2022,febrero,miércoles,(12:00 a 14:59),942
+2023,abril,sábado,Sin información,943
+2023,junio,sábado,(18:00 a 20:59),944
+2024,Febrero,Martes,(12:00 a 14:59),945
+2015,Marzo,miércoles,(09:00 a 11:59),946
+2015,Diciembre,martes,(06:00 a 08:59),947
+2016,abril,jueves,(21:00 a 23:59),948
+2017,Diciembre,Sábado,(21:00 a 23:59),949
+2018,mayo,viernes,(18:00 a 20:59),950
+2019,enero,viernes,(06:00 a 08:59),951
+2019,agosto,sábado,(03:00 a 05:59),952
+2020,febrero,lunes,Sin información,953
+2021,febrero,lunes,Sin información,954
+2021,junio,domingo,(09:00 a 11:59),955
+2021,septiembre,lunes,(21:00 a 23:59),956
+2022,marzo,martes,(21:00 a 23:59),957
+2023,mayo,domingo,(12:00 a 14:59),958
+2015,Abril,domingo,(09:00 a 11:59),959
+2015,Marzo,lunes,(12:00 a 14:59),960
+2015,Febrero,lunes,(21:00 a 23:59),961
+2016,julio,miércoles,(09:00 a 11:59),962
+2016,mayo,miércoles,Sin información,963
+2016,julio,martes,(18:00 a 20:59),964
+2016,mayo,domingo,(21:00 a 23:59),965
+2017,Febrero,Viernes,(15:00 a 17:59),966
+2017,Abril,Jueves,(21:00 a 23:59),967
+2017,Agosto,Sábado,(21:00 a 23:59),968
+2017,Agosto,Miércoles,(15:00 a 17:59),969
+2018,febrero,martes,(15:00 a 17:59),970
+2018,abril,viernes,Sin información,971
+2018,junio,miércoles,Sin información,972
+2018,octubre,sábado,Sin información,973
+2018,noviembre,jueves,(15:00 a 17:59),974
+2021,julio,lunes,(21:00 a 23:59),975
+2021,diciembre,domingo,(06:00 a 08:59),976
+2023,enero,lunes,Sin información,977
+2023,enero,domingo,(15:00 a 17:59),978
+2023,mayo,martes,(00:00 a 02:59),979
+2023,agosto,jueves,(15:00 a 17:59),980
+2024,Mayo,Viernes,Sin información,981
+2024,Febrero,Miércoles,(12:00 a 14:59),982
+2024,Agosto,Jueves,Sin información,983
+2015,Octubre,sábado,(09:00 a 11:59),984
+2015,Mayo,martes,(15:00 a 17:59),985
+2016,febrero,domingo,(21:00 a 23:59),986
+2016,junio,lunes,(12:00 a 14:59),987
+2016,agosto,domingo,(21:00 a 23:59),988
+2017,Noviembre,Sábado,(15:00 a 17:59),989
+2017,Noviembre,Martes,(15:00 a 17:59),990
+2017,Noviembre,Domingo,Sin información,991
+2018,enero,martes,(06:00 a 08:59),992
+2018,abril,domingo,(09:00 a 11:59),993
+2018,abril,sábado,(18:00 a 20:59),994
+2018,noviembre,domingo,(00:00 a 02:59),995
+2018,diciembre,martes,(00:00 a 02:59),996
+2019,marzo,domingo,(15:00 a 17:59),997
+2019,marzo,domingo,(06:00 a 08:59),998
+2019,abril,martes,Sin información,999
+2019,septiembre,martes,(12:00 a 14:59),1000
+2019,diciembre,jueves,(06:00 a 08:59),1001
+2020,agosto,lunes,(09:00 a 11:59),1002
+2021,junio,martes,(15:00 a 17:59),1003
+2021,agosto,jueves,(06:00 a 08:59),1004
+2021,mayo,lunes,(15:00 a 17:59),1005
+2021,octubre,domingo,(00:00 a 02:59),1006
+2021,diciembre,domingo,(18:00 a 20:59),1007
+2022,febrero,sábado,(12:00 a 14:59),1008
+2023,abril,jueves,(21:00 a 23:59),1009
+2024,Enero,Lunes,(18:00 a 20:59),1010
+2024,Abril,Lunes,(15:00 a 17:59),1011
+2024,Noviembre,Sábado,(21:00 a 23:59),1012
+2015,Enero,miércoles,(03:00 a 05:59),1013
+2015,Septiembre,lunes,(21:00 a 23:59),1014
+2015,Septiembre,viernes,(09:00 a 11:59),1015
+2015,Marzo,sábado,(21:00 a 23:59),1016
+2016,diciembre,jueves,Sin información,1017
+2016,abril,sábado,Sin información,1018
+2016,abril,miércoles,(06:00 a 08:59),1019
+2016,septiembre,domingo,Sin información,1020
+2016,abril,lunes,(18:00 a 20:59),1021
+2016,junio,lunes,(06:00 a 08:59),1022
+2017,Enero,Lunes,(18:00 a 20:59),1023
+2017,Septiembre,Martes,(06:00 a 08:59),1024
+2018,enero,viernes,(21:00 a 23:59),1025
+2018,septiembre,martes,(21:00 a 23:59),1026
+2018,noviembre,viernes,Sin información,1027
+2019,marzo,viernes,(06:00 a 08:59),1028
+2019,mayo,miércoles,(15:00 a 17:59),1029
+2019,junio,lunes,(18:00 a 20:59),1030
+2019,agosto,viernes,(18:00 a 20:59),1031
+2019,agosto,sábado,(12:00 a 14:59),1032
+2019,septiembre,miércoles,(12:00 a 14:59),1033
+2020,abril,viernes,(12:00 a 14:59),1034
+2020,abril,domingo,(09:00 a 11:59),1035
+2020,junio,martes,(18:00 a 20:59),1036
+2020,agosto,domingo,(15:00 a 17:59),1037
+2020,noviembre,lunes,(21:00 a 23:59),1038
+2020,diciembre,jueves,(09:00 a 11:59),1039
+2021,marzo,jueves,(18:00 a 20:59),1040
+2021,julio,miércoles,Sin información,1041
+2021,mayo,miércoles,(21:00 a 23:59),1042
+2021,octubre,miércoles,(03:00 a 05:59),1043
+2022,enero,martes,(12:00 a 14:59),1044
+2023,febrero,sábado,(12:00 a 14:59),1045
+2023,octubre,miércoles,(21:00 a 23:59),1046
+2024,Febrero,Lunes,Sin información,1047
+2015,Septiembre,miércoles,(15:00 a 17:59),1048
+2015,Abril,miércoles,(06:00 a 08:59),1049
+2017,Febrero,Jueves,(21:00 a 23:59),1050
+2017,Julio,Jueves,(12:00 a 14:59),1051
+2017,Septiembre,Domingo,(21:00 a 23:59),1052
+2018,octubre,miércoles,(12:00 a 14:59),1053
+2019,agosto,domingo,(15:00 a 17:59),1054
+2020,febrero,martes,(15:00 a 17:59),1055
+2021,junio,sábado,(15:00 a 17:59),1056
+2022,octubre,lunes,(18:00 a 20:59),1057
+2022,enero,lunes,(09:00 a 11:59),1058
+2022,mayo,martes,(15:00 a 17:59),1059
+2022,agosto,lunes,(09:00 a 11:59),1060
+2022,noviembre,martes,(21:00 a 23:59),1061
+2023,octubre,sábado,(21:00 a 23:59),1062
+2024,Febrero,Domingo,(18:00 a 20:59),1063
+2024,Marzo,Sábado,Sin información,1064
+2024,Octubre,Martes,(18:00 a 20:59),1065
+2015,Febrero,martes,(06:00 a 08:59),1066
+2015,Septiembre,miércoles,(03:00 a 05:59),1067
+2015,Noviembre,viernes,(12:00 a 14:59),1068
+2016,abril,martes,Sin información,1069
+2017,Febrero,Martes,(00:00 a 02:59),1070
+2017,Julio,Miércoles,(06:00 a 08:59),1071
+2017,Agosto,Domingo,(09:00 a 11:59),1072
+2018,junio,domingo,Sin información,1073
+2019,junio,sábado,(15:00 a 17:59),1074
+2019,octubre,lunes,(18:00 a 20:59),1075
+2020,noviembre,jueves,(15:00 a 17:59),1076
+2021,marzo,viernes,(09:00 a 11:59),1077
+2021,abril,martes,(09:00 a 11:59),1078
+2021,diciembre,jueves,(12:00 a 14:59),1079
+2023,agosto,lunes,(15:00 a 17:59),1080
+2023,septiembre,sábado,(18:00 a 20:59),1081
+2024,Junio,Sábado,Sin información,1082
+2024,Junio,Miércoles,Sin información,1083
+2024,Diciembre,Martes,Sin información,1084
+2024,Mayo,Viernes,(06:00 a 08:59),1085
+2024,Octubre,Miércoles,(18:00 a 20:59),1086
+2015,Noviembre,domingo,(06:00 a 08:59),1087
+2015,Febrero,jueves,(18:00 a 20:59),1088
+2016,marzo,jueves,(18:00 a 20:59),1089
+2017,Abril,Jueves,(18:00 a 20:59),1090
+2017,Mayo,Viernes,(21:00 a 23:59),1091
+2017,Octubre,Sábado,(21:00 a 23:59),1092
+2018,marzo,viernes,(12:00 a 14:59),1093
+2018,abril,martes,(21:00 a 23:59),1094
+2018,octubre,sábado,(00:00 a 02:59),1095
+2019,enero,domingo,(15:00 a 17:59),1096
+2018,noviembre,martes,Sin información,1097
+2018,diciembre,lunes,(00:00 a 02:59),1098
+2019,noviembre,lunes,(06:00 a 08:59),1099
+2020,junio,martes,Sin información,1100
+2020,noviembre,jueves,(09:00 a 11:59),1101
+2020,noviembre,domingo,Sin información,1102
+2021,abril,domingo,(15:00 a 17:59),1103
+2021,junio,jueves,Sin información,1104
+2021,abril,jueves,(00:00 a 02:59),1105
+2021,marzo,martes,(21:00 a 23:59),1106
+2021,enero,jueves,(09:00 a 11:59),1107
+2021,agosto,domingo,(18:00 a 20:59),1108
+2021,agosto,jueves,Sin información,1109
+2022,junio,martes,Sin información,1110
+2022,abril,martes,(06:00 a 08:59),1111
+2023,septiembre,sábado,(15:00 a 17:59),1112
+2023,mayo,sábado,(09:00 a 11:59),1113
+2023,enero,martes,(15:00 a 17:59),1114
+2023,julio,miércoles,(21:00 a 23:59),1115
+2023,julio,lunes,(03:00 a 05:59),1116
+2024,Enero,Lunes,(12:00 a 14:59),1117
+2024,Octubre,Viernes,(06:00 a 08:59),1118
+2024,Marzo,Domingo,(09:00 a 11:59),1119
+2016,diciembre,domingo,(09:00 a 11:59),1120
+2017,Enero,Miércoles,(18:00 a 20:59),1121
+2017,Noviembre,Miércoles,(21:00 a 23:59),1122
+2018,febrero,viernes,(15:00 a 17:59),1123
+2018,noviembre,lunes,(15:00 a 17:59),1124
+2019,septiembre,viernes,(03:00 a 05:59),1125
+2019,octubre,jueves,(15:00 a 17:59),1126
+2019,octubre,viernes,(21:00 a 23:59),1127
+2020,enero,viernes,(06:00 a 08:59),1128
+2020,septiembre,martes,(12:00 a 14:59),1129
+2021,marzo,viernes,(12:00 a 14:59),1130
+2021,diciembre,miércoles,(18:00 a 20:59),1131
+2022,mayo,lunes,(06:00 a 08:59),1132
+2022,mayo,domingo,Sin información,1133
+2022,mayo,miércoles,(18:00 a 20:59),1134
+2023,enero,jueves,(18:00 a 20:59),1135
+2023,agosto,sábado,Sin información,1136
+2024,Diciembre,Martes,(21:00 a 23:59),1137
+2024,Julio,Domingo,(09:00 a 11:59),1138
+2024,Mayo,Lunes,(09:00 a 11:59),1139
+2024,Agosto,Martes,Sin información,1140
+2016,mayo,miércoles,(18:00 a 20:59),1141
+2016,marzo,sábado,(21:00 a 23:59),1142
+2016,abril,miércoles,(18:00 a 20:59),1143
+2016,octubre,viernes,Sin información,1144
+2016,octubre,sábado,(15:00 a 17:59),1145
+2017,Mayo,Domingo,(12:00 a 14:59),1146
+2018,abril,viernes,(00:00 a 02:59),1147
+2018,mayo,martes,(12:00 a 14:59),1148
+2018,agosto,jueves,Sin información,1149
+2019,marzo,sábado,(09:00 a 11:59),1150
+2019,abril,jueves,Sin información,1151
+2019,diciembre,domingo,(15:00 a 17:59),1152
+2020,abril,domingo,Sin información,1153
+2020,octubre,domingo,(21:00 a 23:59),1154
+2020,noviembre,lunes,(06:00 a 08:59),1155
+2021,julio,martes,(18:00 a 20:59),1156
+2023,abril,sábado,(15:00 a 17:59),1157
+2023,octubre,viernes,Sin información,1158
+2023,diciembre,miércoles,(12:00 a 14:59),1159
+2023,septiembre,martes,(09:00 a 11:59),1160
+2023,noviembre,viernes,(06:00 a 08:59),1161
+2023,noviembre,martes,(09:00 a 11:59),1162
+2015,Julio,martes,Sin información,1163
+2015,Marzo,viernes,(12:00 a 14:59),1164
+2015,Agosto,domingo,(03:00 a 05:59),1165
+2016,noviembre,lunes,(18:00 a 20:59),1166
+2017,Marzo,Sábado,(21:00 a 23:59),1167
+2017,Septiembre,Martes,(03:00 a 05:59),1168
+2017,Diciembre,Martes,(12:00 a 14:59),1169
+2017,Diciembre,Lunes,(15:00 a 17:59),1170
+2018,febrero,jueves,Sin información,1171
+2018,febrero,miércoles,(18:00 a 20:59),1172
+2018,marzo,viernes,(15:00 a 17:59),1173
+2018,abril,martes,(12:00 a 14:59),1174
+2019,octubre,domingo,(15:00 a 17:59),1175
+2022,febrero,sábado,(09:00 a 11:59),1176
+2023,julio,domingo,(21:00 a 23:59),1177
+2023,febrero,jueves,(21:00 a 23:59),1178
+2023,marzo,jueves,(06:00 a 08:59),1179
+2024,Enero,Jueves,(12:00 a 14:59),1180
+2024,Enero,Martes,(12:00 a 14:59),1181
+2015,Junio,jueves,Sin información,1182
+2015,Marzo,domingo,(18:00 a 20:59),1183
+2016,septiembre,domingo,(18:00 a 20:59),1184
+2016,junio,lunes,(09:00 a 11:59),1185
+2016,febrero,domingo,(00:00 a 02:59),1186
+2016,octubre,viernes,(12:00 a 14:59),1187
+2017,Noviembre,Viernes,Sin información,1188
+2018,marzo,martes,(15:00 a 17:59),1189
+2018,junio,viernes,(21:00 a 23:59),1190
+2018,noviembre,sábado,(00:00 a 02:59),1191
+2021,agosto,jueves,(12:00 a 14:59),1192
+2021,mayo,jueves,(09:00 a 11:59),1193
+2021,diciembre,miércoles,(03:00 a 05:59),1194
+2022,diciembre,martes,(21:00 a 23:59),1195
+2022,junio,lunes,Sin información,1196
+2022,marzo,jueves,(15:00 a 17:59),1197
+2022,junio,jueves,Sin información,1198
+2022,noviembre,viernes,(06:00 a 08:59),1199
+2023,abril,domingo,(00:00 a 02:59),1200
+2023,mayo,jueves,(21:00 a 23:59),1201
+2023,julio,domingo,(18:00 a 20:59),1202
+2023,diciembre,sábado,(06:00 a 08:59),1203
+2024,Noviembre,Sábado,Sin información,1204
+2024,Marzo,Domingo,(18:00 a 20:59),1205
+2024,Mayo,Domingo,(06:00 a 08:59),1206
+2015,Septiembre,sábado,(15:00 a 17:59),1207
+2016,febrero,jueves,(12:00 a 14:59),1208
+2017,Enero,Viernes,(18:00 a 20:59),1209
+2017,Agosto,Viernes,(09:00 a 11:59),1210
+2017,Octubre,Sábado,(15:00 a 17:59),1211
+2017,Noviembre,Lunes,(09:00 a 11:59),1212
+2018,enero,sábado,(18:00 a 20:59),1213
+2018,marzo,domingo,(15:00 a 17:59),1214
+2018,marzo,lunes,(21:00 a 23:59),1215
+2018,mayo,miércoles,(18:00 a 20:59),1216
+2019,septiembre,lunes,(12:00 a 14:59),1217
+2020,octubre,martes,(18:00 a 20:59),1218
+2021,agosto,domingo,(06:00 a 08:59),1219
+2021,enero,domingo,(15:00 a 17:59),1220
+2021,octubre,lunes,(09:00 a 11:59),1221
+2021,diciembre,viernes,(21:00 a 23:59),1222
+2022,abril,sábado,(06:00 a 08:59),1223
+2022,abril,miércoles,(12:00 a 14:59),1224
+2023,diciembre,domingo,(06:00 a 08:59),1225
+2015,Marzo,jueves,(06:00 a 08:59),1226
+2015,Junio,domingo,(09:00 a 11:59),1227
+2015,Agosto,domingo,(06:00 a 08:59),1228
+2015,Agosto,viernes,Sin información,1229
+2015,Mayo,lunes,(21:00 a 23:59),1230
+2016,enero,viernes,(12:00 a 14:59),1231
+2016,septiembre,viernes,(18:00 a 20:59),1232
+2017,Febrero,Miércoles,Sin información,1233
+2017,Marzo,Jueves,(09:00 a 11:59),1234
+2017,Octubre,Martes,(09:00 a 11:59),1235
+2018,marzo,sábado,(00:00 a 02:59),1236
+2018,marzo,domingo,(00:00 a 02:59),1237
+2018,noviembre,sábado,(03:00 a 05:59),1238
+2019,mayo,jueves,(21:00 a 23:59),1239
+2019,diciembre,martes,(21:00 a 23:59),1240
+2020,agosto,domingo,(18:00 a 20:59),1241
+2020,agosto,jueves,(18:00 a 20:59),1242
+2021,enero,sábado,(21:00 a 23:59),1243
+2021,mayo,domingo,(06:00 a 08:59),1244
+2021,abril,sábado,(15:00 a 17:59),1245
+2021,septiembre,viernes,Sin información,1246
+2022,septiembre,miércoles,(09:00 a 11:59),1247
+2022,mayo,martes,(09:00 a 11:59),1248
+2022,julio,viernes,Sin información,1249
+2023,abril,sábado,(09:00 a 11:59),1250
+2023,enero,viernes,(12:00 a 14:59),1251
+2023,octubre,sábado,(12:00 a 14:59),1252
+2015,Septiembre,sábado,(21:00 a 23:59),1253
+2015,Octubre,martes,(21:00 a 23:59),1254
+2015,Febrero,viernes,(21:00 a 23:59),1255
+2015,Octubre,martes,(12:00 a 14:59),1256
+2015,Septiembre,lunes,(15:00 a 17:59),1257
+2016,noviembre,sábado,(09:00 a 11:59),1258
+2016,noviembre,jueves,(21:00 a 23:59),1259
+2017,Julio,Domingo,(06:00 a 08:59),1260
+2017,Diciembre,Domingo,(09:00 a 11:59),1261
+2019,febrero,martes,(15:00 a 17:59),1262
+2019,septiembre,miércoles,Sin información,1263
+2020,enero,lunes,(12:00 a 14:59),1264
+2020,agosto,miércoles,(18:00 a 20:59),1265
+2021,abril,domingo,Sin información,1266
+2021,febrero,viernes,(09:00 a 11:59),1267
+2022,febrero,domingo,(12:00 a 14:59),1268
+2023,mayo,domingo,Sin información,1269
+2023,mayo,martes,(06:00 a 08:59),1270
+2023,mayo,martes,(21:00 a 23:59),1271
+2023,julio,jueves,Sin información,1272
+2024,Octubre,Jueves,(15:00 a 17:59),1273
+2015,Diciembre,jueves,(09:00 a 11:59),1274
+2016,diciembre,sábado,(15:00 a 17:59),1275
+2016,abril,domingo,(06:00 a 08:59),1276
+2017,Junio,Viernes,(12:00 a 14:59),1277
+2017,Agosto,Martes,(18:00 a 20:59),1278
+2018,febrero,domingo,(00:00 a 02:59),1279
+2018,noviembre,jueves,(06:00 a 08:59),1280
+2019,marzo,viernes,(12:00 a 14:59),1281
+2020,septiembre,martes,Sin información,1282
+2021,agosto,lunes,(00:00 a 02:59),1283
+2021,noviembre,martes,(21:00 a 23:59),1284
+2023,enero,lunes,(18:00 a 20:59),1285
+2023,septiembre,domingo,(12:00 a 14:59),1286
+2024,Noviembre,Sábado,(03:00 a 05:59),1287
+2015,Enero,martes,(18:00 a 20:59),1288
+2015,Junio,jueves,(12:00 a 14:59),1289
+2016,septiembre,sábado,Sin información,1290
+2016,enero,jueves,(15:00 a 17:59),1291
+2016,febrero,martes,(18:00 a 20:59),1292
+2016,agosto,domingo,(03:00 a 05:59),1293
+2016,abril,sábado,(12:00 a 14:59),1294
+2017,Enero,Lunes,(12:00 a 14:59),1295
+2017,Agosto,Martes,(12:00 a 14:59),1296
+2018,febrero,jueves,(18:00 a 20:59),1297
+2018,marzo,martes,(18:00 a 20:59),1298
+2019,enero,viernes,(21:00 a 23:59),1299
+2019,enero,viernes,Sin información,1300
+2020,enero,sábado,(12:00 a 14:59),1301
+2020,febrero,sábado,(15:00 a 17:59),1302
+2020,agosto,lunes,(18:00 a 20:59),1303
+2021,enero,martes,(18:00 a 20:59),1304
+2021,agosto,viernes,(21:00 a 23:59),1305
+2021,junio,miércoles,(18:00 a 20:59),1306
+2022,junio,jueves,(03:00 a 05:59),1307
+2022,mayo,jueves,(18:00 a 20:59),1308
+2022,marzo,lunes,(15:00 a 17:59),1309
+2023,abril,sábado,(18:00 a 20:59),1310
+2023,agosto,domingo,Sin información,1311
+2024,Agosto,Sábado,(09:00 a 11:59),1312
+2024,Septiembre,Sábado,(21:00 a 23:59),1313
+2024,Febrero,Martes,(18:00 a 20:59),1314
+2024,Febrero,Domingo,(12:00 a 14:59),1315
+2015,Julio,miércoles,(06:00 a 08:59),1316
+2016,marzo,jueves,Sin información,1317
+2017,Febrero,Miércoles,(18:00 a 20:59),1318
+2017,Febrero,Sábado,(15:00 a 17:59),1319
+2017,Marzo,Miércoles,(09:00 a 11:59),1320
+2017,Septiembre,Jueves,(21:00 a 23:59),1321
+2017,Octubre,Martes,(03:00 a 05:59),1322
+2018,junio,lunes,(12:00 a 14:59),1323
+2018,octubre,lunes,(18:00 a 20:59),1324
+2019,mayo,jueves,(03:00 a 05:59),1325
+2019,julio,viernes,Sin información,1326
+2019,septiembre,miércoles,(21:00 a 23:59),1327
+2019,septiembre,viernes,(06:00 a 08:59),1328
+2020,noviembre,domingo,(09:00 a 11:59),1329
+2021,junio,viernes,(15:00 a 17:59),1330
+2022,abril,sábado,(21:00 a 23:59),1331
+2022,marzo,domingo,(09:00 a 11:59),1332
+2023,junio,jueves,Sin información,1333
+2023,diciembre,miércoles,(06:00 a 08:59),1334
+2023,febrero,jueves,(06:00 a 08:59),1335
+2024,Marzo,Jueves,(18:00 a 20:59),1336
+2024,Agosto,Jueves,(18:00 a 20:59),1337
+2015,Octubre,sábado,(21:00 a 23:59),1338
+2015,Marzo,jueves,(00:00 a 02:59),1339
+2017,Enero,Martes,(21:00 a 23:59),1340
+2017,Octubre,Domingo,(03:00 a 05:59),1341
+2017,Diciembre,Viernes,(18:00 a 20:59),1342
+2018,mayo,jueves,(18:00 a 20:59),1343
+2019,septiembre,domingo,(09:00 a 11:59),1344
+2019,septiembre,miércoles,(15:00 a 17:59),1345
+2020,junio,lunes,Sin información,1346
+2021,septiembre,jueves,(18:00 a 20:59),1347
+2021,diciembre,jueves,(21:00 a 23:59),1348
+2022,agosto,martes,(12:00 a 14:59),1349
+2023,junio,sábado,Sin información,1350
+2023,abril,sábado,(21:00 a 23:59),1351
+2024,Mayo,Sábado,(09:00 a 11:59),1352
+2024,Mayo,Martes,(12:00 a 14:59),1353
+2015,Mayo,sábado,Sin información,1354
+2015,Abril,viernes,Sin información,1355
+2016,agosto,martes,(09:00 a 11:59),1356
+2016,octubre,miércoles,(06:00 a 08:59),1357
+2017,Abril,Martes,(06:00 a 08:59),1358
+2017,Octubre,Domingo,(09:00 a 11:59),1359
+2018,noviembre,lunes,(21:00 a 23:59),1360
+2019,mayo,domingo,(18:00 a 20:59),1361
+2022,octubre,miércoles,(06:00 a 08:59),1362
+2022,diciembre,jueves,Sin información,1363
+2023,junio,sábado,(15:00 a 17:59),1364
+2024,Octubre,Viernes,(12:00 a 14:59),1365
+2024,Agosto,Lunes,(06:00 a 08:59),1366
+2015,Febrero,miércoles,Sin información,1367
+2015,Abril,lunes,(21:00 a 23:59),1368
+2015,Noviembre,jueves,Sin información,1369
+2015,Septiembre,viernes,(15:00 a 17:59),1370
+2017,Enero,Miércoles,(09:00 a 11:59),1371
+2018,agosto,lunes,(06:00 a 08:59),1372
+2019,mayo,sábado,(18:00 a 20:59),1373
+2020,julio,viernes,(09:00 a 11:59),1374
+2020,agosto,sábado,(18:00 a 20:59),1375
+2021,enero,lunes,Sin información,1376
+2022,febrero,jueves,(03:00 a 05:59),1377
+2023,mayo,lunes,Sin información,1378
+2024,Septiembre,Jueves,(21:00 a 23:59),1379
+2024,Enero,Lunes,(06:00 a 08:59),1380
+2024,Diciembre,Sábado,Sin información,1381
+2015,Abril,jueves,Sin información,1382
+2015,Diciembre,miércoles,(15:00 a 17:59),1383
+2015,Agosto,viernes,(18:00 a 20:59),1384
+2016,septiembre,domingo,(09:00 a 11:59),1385
+2017,Enero,Martes,(03:00 a 05:59),1386
+2017,Octubre,Jueves,(09:00 a 11:59),1387
+2018,enero,miércoles,(09:00 a 11:59),1388
+2018,febrero,domingo,(12:00 a 14:59),1389
+2019,enero,miércoles,(06:00 a 08:59),1390
+2019,marzo,sábado,(00:00 a 02:59),1391
+2019,junio,viernes,(00:00 a 02:59),1392
+2019,junio,sábado,Sin información,1393
+2020,julio,domingo,(15:00 a 17:59),1394
+2020,noviembre,lunes,Sin información,1395
+2020,diciembre,jueves,(18:00 a 20:59),1396
+2021,mayo,domingo,(18:00 a 20:59),1397
+2021,agosto,sábado,Sin información,1398
+2021,septiembre,viernes,(12:00 a 14:59),1399
+2021,noviembre,domingo,(21:00 a 23:59),1400
+2022,enero,sábado,(03:00 a 05:59),1401
+2022,enero,jueves,(21:00 a 23:59),1402
+2022,marzo,martes,Sin información,1403
+2022,diciembre,viernes,(15:00 a 17:59),1404
+2023,enero,sábado,(21:00 a 23:59),1405
+2023,noviembre,sábado,(15:00 a 17:59),1406
+2023,febrero,sábado,(21:00 a 23:59),1407
+2016,febrero,viernes,(12:00 a 14:59),1408
+2016,enero,lunes,(09:00 a 11:59),1409
+2017,Mayo,Domingo,(06:00 a 08:59),1410
+2017,Noviembre,Lunes,(00:00 a 02:59),1411
+2018,marzo,martes,(03:00 a 05:59),1412
+2018,abril,lunes,(06:00 a 08:59),1413
+2018,julio,sábado,Sin información,1414
+2019,marzo,viernes,Sin información,1415
+2019,junio,jueves,(21:00 a 23:59),1416
+2020,febrero,domingo,(12:00 a 14:59),1417
+2021,marzo,sábado,Sin información,1418
+2021,julio,domingo,(15:00 a 17:59),1419
+2022,febrero,viernes,(09:00 a 11:59),1420
+2022,agosto,sábado,(15:00 a 17:59),1421
+2022,octubre,martes,(03:00 a 05:59),1422
+2023,marzo,martes,Sin información,1423
+2023,febrero,domingo,(03:00 a 05:59),1424
+2024,Octubre,Domingo,(21:00 a 23:59),1425
+2015,Agosto,jueves,(15:00 a 17:59),1426
+2015,Marzo,martes,(06:00 a 08:59),1427
+2016,octubre,martes,Sin información,1428
+2017,Diciembre,Lunes,Sin información,1429
+2018,enero,jueves,(00:00 a 02:59),1430
+2018,febrero,sábado,(18:00 a 20:59),1431
+2018,septiembre,sábado,(03:00 a 05:59),1432
+2018,septiembre,miércoles,(09:00 a 11:59),1433
+2019,marzo,sábado,Sin información,1434
+2019,abril,lunes,(12:00 a 14:59),1435
+2019,septiembre,lunes,(21:00 a 23:59),1436
+2020,mayo,domingo,(09:00 a 11:59),1437
+2021,mayo,domingo,Sin información,1438
+2021,julio,jueves,(09:00 a 11:59),1439
+2021,abril,miércoles,(21:00 a 23:59),1440
+2021,mayo,domingo,(09:00 a 11:59),1441
+2022,mayo,jueves,(15:00 a 17:59),1442
+2022,diciembre,domingo,(18:00 a 20:59),1443
+2023,julio,lunes,(21:00 a 23:59),1444
+2023,septiembre,miércoles,Sin información,1445
+2023,junio,lunes,(12:00 a 14:59),1446
+2024,Marzo,Lunes,(03:00 a 05:59),1447
+2015,Julio,domingo,(21:00 a 23:59),1448
+2016,marzo,jueves,(06:00 a 08:59),1449
+2016,febrero,sábado,(03:00 a 05:59),1450
+2016,septiembre,domingo,(00:00 a 02:59),1451
+2017,Marzo,Miércoles,(15:00 a 17:59),1452
+2017,Octubre,Jueves,(06:00 a 08:59),1453
+2018,marzo,miércoles,(18:00 a 20:59),1454
+2018,abril,domingo,(18:00 a 20:59),1455
+2019,mayo,jueves,(18:00 a 20:59),1456
+2021,julio,jueves,(12:00 a 14:59),1457
+2022,mayo,lunes,(18:00 a 20:59),1458
+2022,junio,miércoles,(12:00 a 14:59),1459
+2022,diciembre,miércoles,(18:00 a 20:59),1460
+2022,agosto,jueves,(12:00 a 14:59),1461
+2023,agosto,viernes,(21:00 a 23:59),1462
+2015,Marzo,jueves,(18:00 a 20:59),1463
+2015,Junio,miércoles,Sin información,1464
+2015,Diciembre,sábado,(06:00 a 08:59),1465
+2017,Febrero,Lunes,(15:00 a 17:59),1466
+2018,enero,jueves,(09:00 a 11:59),1467
+2019,enero,jueves,Sin información,1468
+2019,febrero,jueves,(06:00 a 08:59),1469
+2020,octubre,domingo,(06:00 a 08:59),1470
+2021,mayo,sábado,Sin información,1471
+2021,julio,domingo,(12:00 a 14:59),1472
+2021,noviembre,miércoles,(00:00 a 02:59),1473
+2022,mayo,sábado,(21:00 a 23:59),1474
+2022,agosto,miércoles,(09:00 a 11:59),1475
+2022,septiembre,domingo,(21:00 a 23:59),1476
+2023,abril,domingo,(18:00 a 20:59),1477
+2023,enero,domingo,(06:00 a 08:59),1478
+2023,mayo,viernes,(03:00 a 05:59),1479
+2023,mayo,martes,Sin información,1480
+2024,Enero,Miércoles,(12:00 a 14:59),1481
+2024,Agosto,Lunes,Sin información,1482
+2024,Octubre,Sábado,(09:00 a 11:59),1483
+2024,Febrero,Miércoles,(15:00 a 17:59),1484
+2024,Marzo,Jueves,(21:00 a 23:59),1485
+2015,Agosto,sábado,(09:00 a 11:59),1486
+2016,agosto,martes,(18:00 a 20:59),1487
+2016,mayo,sábado,(15:00 a 17:59),1488
+2016,abril,jueves,(06:00 a 08:59),1489
+2018,enero,miércoles,(21:00 a 23:59),1490
+2019,julio,viernes,(18:00 a 20:59),1491
+2021,septiembre,lunes,(09:00 a 11:59),1492
+2021,mayo,miércoles,(12:00 a 14:59),1493
+2022,diciembre,martes,Sin información,1494
+2022,noviembre,lunes,(15:00 a 17:59),1495
+2022,junio,martes,(18:00 a 20:59),1496
+2022,enero,jueves,(18:00 a 20:59),1497
+2022,mayo,sábado,(03:00 a 05:59),1498
+2022,septiembre,miércoles,(00:00 a 02:59),1499
+2022,noviembre,lunes,(03:00 a 05:59),1500
+2023,marzo,jueves,Sin información,1501
+2023,abril,sábado,(12:00 a 14:59),1502
+2016,abril,lunes,(03:00 a 05:59),1503
+2018,mayo,miércoles,(15:00 a 17:59),1504
+2020,febrero,sábado,(21:00 a 23:59),1505
+2021,abril,lunes,Sin información,1506
+2022,diciembre,sábado,(15:00 a 17:59),1507
+2022,octubre,martes,(21:00 a 23:59),1508
+2022,julio,miércoles,(09:00 a 11:59),1509
+2022,abril,viernes,(15:00 a 17:59),1510
+2023,febrero,domingo,(21:00 a 23:59),1511
+2023,octubre,miércoles,(12:00 a 14:59),1512
+2023,marzo,miércoles,(06:00 a 08:59),1513
+2024,Noviembre,Sábado,(12:00 a 14:59),1514
+2024,Septiembre,Miércoles,(18:00 a 20:59),1515
+2015,Enero,miércoles,Sin información,1516
+2015,Noviembre,martes,(12:00 a 14:59),1517
+2016,enero,domingo,(12:00 a 14:59),1518
+2016,mayo,lunes,(21:00 a 23:59),1519
+2016,julio,sábado,(09:00 a 11:59),1520
+2016,mayo,domingo,(06:00 a 08:59),1521
+2017,Febrero,Sábado,(03:00 a 05:59),1522
+2017,Abril,Sábado,(00:00 a 02:59),1523
+2017,Diciembre,Viernes,(03:00 a 05:59),1524
+2018,enero,martes,(09:00 a 11:59),1525
+2018,marzo,jueves,(09:00 a 11:59),1526
+2018,julio,martes,(06:00 a 08:59),1527
+2018,octubre,domingo,(18:00 a 20:59),1528
+2019,junio,miércoles,(09:00 a 11:59),1529
+2020,enero,lunes,Sin información,1530
+2021,abril,viernes,(18:00 a 20:59),1531
+2021,septiembre,domingo,(21:00 a 23:59),1532
+2021,marzo,lunes,Sin información,1533
+2022,marzo,sábado,(00:00 a 02:59),1534
+2022,marzo,martes,(18:00 a 20:59),1535
+2023,junio,martes,Sin información,1536
+2024,Junio,Martes,Sin información,1537
+2024,Enero,Sábado,Sin información,1538
+2024,Mayo,Martes,(09:00 a 11:59),1539
+2024,Octubre,Lunes,(06:00 a 08:59),1540
+2015,Mayo,domingo,(00:00 a 02:59),1541
+2015,Junio,viernes,Sin información,1542
+2016,abril,miércoles,(15:00 a 17:59),1543
+2016,agosto,sábado,(09:00 a 11:59),1544
+2016,junio,miércoles,(18:00 a 20:59),1545
+2017,Diciembre,Jueves,(09:00 a 11:59),1546
+2019,abril,miércoles,(15:00 a 17:59),1547
+2019,abril,lunes,(18:00 a 20:59),1548
+2020,febrero,miércoles,(09:00 a 11:59),1549
+2020,febrero,martes,(09:00 a 11:59),1550
+2020,mayo,jueves,(09:00 a 11:59),1551
+2021,julio,domingo,(18:00 a 20:59),1552
+2021,octubre,domingo,(15:00 a 17:59),1553
+2021,noviembre,martes,(18:00 a 20:59),1554
+2022,diciembre,domingo,(06:00 a 08:59),1555
+2022,marzo,sábado,(18:00 a 20:59),1556
+2022,noviembre,miércoles,(21:00 a 23:59),1557
+2022,febrero,viernes,(06:00 a 08:59),1558
+2023,julio,viernes,(18:00 a 20:59),1559
+2023,agosto,martes,(18:00 a 20:59),1560
+2023,enero,jueves,Sin información,1561
+2024,Febrero,Sábado,Sin información,1562
+2024,Junio,Martes,(12:00 a 14:59),1563
+2016,agosto,miércoles,(15:00 a 17:59),1564
+2016,julio,martes,(21:00 a 23:59),1565
+2017,Enero,Martes,Sin información,1566
+2017,Septiembre,Jueves,(15:00 a 17:59),1567
+2018,febrero,martes,(12:00 a 14:59),1568
+2018,marzo,viernes,(09:00 a 11:59),1569
+2018,abril,sábado,(00:00 a 02:59),1570
+2018,agosto,sábado,Sin información,1571
+2018,diciembre,domingo,(15:00 a 17:59),1572
+2019,julio,miércoles,(21:00 a 23:59),1573
+2020,septiembre,lunes,Sin información,1574
+2022,enero,sábado,Sin información,1575
+2022,septiembre,viernes,(06:00 a 08:59),1576
+2024,Abril,Martes,(21:00 a 23:59),1577
+2024,Octubre,Viernes,(18:00 a 20:59),1578
+2024,Noviembre,Viernes,(09:00 a 11:59),1579
+2015,Febrero,lunes,(09:00 a 11:59),1580
+2015,Septiembre,sábado,(12:00 a 14:59),1581
+2016,enero,sábado,(12:00 a 14:59),1582
+2017,Enero,Jueves,(18:00 a 20:59),1583
+2017,Abril,Miércoles,(09:00 a 11:59),1584
+2017,Agosto,Lunes,(09:00 a 11:59),1585
+2018,diciembre,lunes,(15:00 a 17:59),1586
+2019,febrero,miércoles,(06:00 a 08:59),1587
+2019,febrero,domingo,(09:00 a 11:59),1588
+2019,octubre,martes,(12:00 a 14:59),1589
+2019,octubre,viernes,(06:00 a 08:59),1590
+2020,septiembre,jueves,(09:00 a 11:59),1591
+2020,octubre,domingo,(09:00 a 11:59),1592
+2021,abril,jueves,(12:00 a 14:59),1593
+2021,agosto,martes,(15:00 a 17:59),1594
+2022,abril,jueves,(18:00 a 20:59),1595
+2022,julio,sábado,(21:00 a 23:59),1596
+2023,septiembre,martes,(15:00 a 17:59),1597
+2023,mayo,sábado,(18:00 a 20:59),1598
+2024,Noviembre,Martes,Sin información,1599
+2024,Febrero,Lunes,(15:00 a 17:59),1600
+2024,Octubre,Lunes,(12:00 a 14:59),1601
+2015,Abril,viernes,(18:00 a 20:59),1602
+2016,julio,martes,(09:00 a 11:59),1603
+2018,marzo,jueves,(15:00 a 17:59),1604
+2018,junio,lunes,(06:00 a 08:59),1605
+2018,diciembre,lunes,(09:00 a 11:59),1606
+2019,noviembre,lunes,(21:00 a 23:59),1607
+2019,noviembre,sábado,(00:00 a 02:59),1608
+2020,febrero,lunes,(21:00 a 23:59),1609
+2020,marzo,domingo,(03:00 a 05:59),1610
+2020,abril,jueves,(12:00 a 14:59),1611
+2020,noviembre,lunes,(12:00 a 14:59),1612
+2021,febrero,miércoles,(12:00 a 14:59),1613
+2021,mayo,viernes,Sin información,1614
+2021,julio,lunes,(18:00 a 20:59),1615
+2023,mayo,martes,(03:00 a 05:59),1616
+2023,noviembre,miércoles,(09:00 a 11:59),1617
+2023,mayo,domingo,(03:00 a 05:59),1618
+2023,abril,martes,(15:00 a 17:59),1619
+2024,Agosto,Jueves,(21:00 a 23:59),1620
+2024,Julio,Sábado,Sin información,1621
+2024,Marzo,Miércoles,(15:00 a 17:59),1622
+2024,Mayo,Miércoles,(15:00 a 17:59),1623
+2024,Junio,Sábado,(15:00 a 17:59),1624
+2024,Mayo,Martes,(06:00 a 08:59),1625
+2015,Febrero,martes,(12:00 a 14:59),1626
+2016,agosto,domingo,(18:00 a 20:59),1627
+2016,septiembre,martes,(09:00 a 11:59),1628
+2016,octubre,sábado,(18:00 a 20:59),1629
+2017,Mayo,Jueves,(21:00 a 23:59),1630
+2017,Junio,Viernes,(15:00 a 17:59),1631
+2018,abril,lunes,(15:00 a 17:59),1632
+2020,marzo,martes,(06:00 a 08:59),1633
+2020,julio,domingo,(12:00 a 14:59),1634
+2021,febrero,domingo,(15:00 a 17:59),1635
+2021,julio,miércoles,(09:00 a 11:59),1636
+2021,noviembre,lunes,(18:00 a 20:59),1637
+2022,febrero,sábado,(00:00 a 02:59),1638
+2023,octubre,lunes,(09:00 a 11:59),1639
+2024,Marzo,Domingo,Sin información,1640
+2024,Agosto,Domingo,(18:00 a 20:59),1641
+2024,Octubre,Viernes,(21:00 a 23:59),1642
+2015,Enero,miércoles,(18:00 a 20:59),1643
+2016,noviembre,jueves,(12:00 a 14:59),1644
+2016,agosto,lunes,(12:00 a 14:59),1645
+2016,septiembre,miércoles,(15:00 a 17:59),1646
+2017,Abril,Lunes,(15:00 a 17:59),1647
+2017,Abril,Viernes,(06:00 a 08:59),1648
+2017,Mayo,Sábado,(21:00 a 23:59),1649
+2017,Julio,Viernes,(18:00 a 20:59),1650
+2017,Noviembre,Miércoles,(03:00 a 05:59),1651
+2018,julio,lunes,Sin información,1652
+2019,enero,miércoles,(03:00 a 05:59),1653
+2019,enero,domingo,(00:00 a 02:59),1654
+2019,enero,lunes,(15:00 a 17:59),1655
+2019,marzo,martes,(15:00 a 17:59),1656
+2019,septiembre,lunes,Sin información,1657
+2020,agosto,martes,(12:00 a 14:59),1658
+2022,julio,domingo,(00:00 a 02:59),1659
+2022,diciembre,lunes,(12:00 a 14:59),1660
+2022,julio,sábado,(12:00 a 14:59),1661
+2023,septiembre,lunes,Sin información,1662
+2023,agosto,domingo,(18:00 a 20:59),1663
+2023,junio,martes,(21:00 a 23:59),1664
+2016,mayo,lunes,(15:00 a 17:59),1665
+2016,octubre,jueves,(21:00 a 23:59),1666
+2016,agosto,sábado,(15:00 a 17:59),1667
+2017,Enero,Viernes,(09:00 a 11:59),1668
+2017,Agosto,Viernes,(18:00 a 20:59),1669
+2018,julio,domingo,Sin información,1670
+2019,enero,viernes,(18:00 a 20:59),1671
+2020,agosto,martes,(15:00 a 17:59),1672
+2020,septiembre,lunes,(18:00 a 20:59),1673
+2021,diciembre,sábado,(21:00 a 23:59),1674
+2022,febrero,sábado,(06:00 a 08:59),1675
+2022,enero,sábado,(18:00 a 20:59),1676
+2022,septiembre,viernes,(00:00 a 02:59),1677
+2023,febrero,miércoles,Sin información,1678
+2023,octubre,miércoles,Sin información,1679
+2015,Diciembre,lunes,Sin información,1680
+2015,Abril,martes,(21:00 a 23:59),1681
+2015,Marzo,lunes,(06:00 a 08:59),1682
+2015,Diciembre,viernes,(21:00 a 23:59),1683
+2016,mayo,viernes,Sin información,1684
+2017,Enero,Jueves,(09:00 a 11:59),1685
+2017,Febrero,Martes,(06:00 a 08:59),1686
+2017,Diciembre,Lunes,(18:00 a 20:59),1687
+2018,enero,miércoles,Sin información,1688
+2018,abril,sábado,Sin información,1689
+2018,septiembre,lunes,(15:00 a 17:59),1690
+2019,febrero,miércoles,(09:00 a 11:59),1691
+2019,marzo,domingo,(00:00 a 02:59),1692
+2019,mayo,martes,(21:00 a 23:59),1693
+2019,mayo,viernes,(09:00 a 11:59),1694
+2019,noviembre,sábado,(21:00 a 23:59),1695
+2020,julio,lunes,(09:00 a 11:59),1696
+2020,noviembre,miércoles,(15:00 a 17:59),1697
+2020,noviembre,domingo,(15:00 a 17:59),1698
+2022,marzo,miércoles,(06:00 a 08:59),1699
+2022,septiembre,sábado,(15:00 a 17:59),1700
+2023,noviembre,miércoles,(21:00 a 23:59),1701
+2024,Julio,Domingo,(15:00 a 17:59),1702
+2017,Mayo,Sábado,(06:00 a 08:59),1703
+2018,noviembre,miércoles,(18:00 a 20:59),1704
+2020,octubre,sábado,(12:00 a 14:59),1705
+2021,enero,viernes,(18:00 a 20:59),1706
+2021,febrero,jueves,(21:00 a 23:59),1707
+2022,septiembre,viernes,(18:00 a 20:59),1708
+2022,junio,jueves,(21:00 a 23:59),1709
+2022,julio,viernes,(21:00 a 23:59),1710
+2023,agosto,lunes,Sin información,1711
+2023,marzo,jueves,(09:00 a 11:59),1712
+2024,Junio,Lunes,Sin información,1713
+2015,Septiembre,viernes,Sin información,1714
+2015,Agosto,jueves,(09:00 a 11:59),1715
+2015,Febrero,jueves,(09:00 a 11:59),1716
+2015,Mayo,viernes,(09:00 a 11:59),1717
+2016,agosto,martes,Sin información,1718
+2016,marzo,lunes,(12:00 a 14:59),1719
+2016,febrero,lunes,(12:00 a 14:59),1720
+2017,Junio,Viernes,(21:00 a 23:59),1721
+2017,Junio,Martes,(06:00 a 08:59),1722
+2017,Julio,Jueves,Sin información,1723
+2017,Agosto,Lunes,(06:00 a 08:59),1724
+2018,marzo,domingo,(09:00 a 11:59),1725
+2018,junio,martes,(18:00 a 20:59),1726
+2018,octubre,domingo,(12:00 a 14:59),1727
+2021,agosto,viernes,(09:00 a 11:59),1728
+2021,enero,jueves,Sin información,1729
+2022,agosto,martes,(06:00 a 08:59),1730
+2022,octubre,martes,(12:00 a 14:59),1731
+2023,julio,domingo,Sin información,1732
+2023,abril,viernes,Sin información,1733
+2023,julio,jueves,(00:00 a 02:59),1734
+2024,Abril,Viernes,(18:00 a 20:59),1735
+2024,Octubre,Sábado,(18:00 a 20:59),1736
+2024,Marzo,Lunes,(18:00 a 20:59),1737
+2015,Junio,lunes,Sin información,1738
+2015,Julio,miércoles,Sin información,1739
+2015,Abril,miércoles,Sin información,1740
+2016,febrero,domingo,(09:00 a 11:59),1741
+2016,septiembre,sábado,(06:00 a 08:59),1742
+2016,julio,miércoles,(12:00 a 14:59),1743
+2016,marzo,lunes,(15:00 a 17:59),1744
+2018,enero,jueves,(21:00 a 23:59),1745
+2018,noviembre,martes,(12:00 a 14:59),1746
+2019,abril,viernes,(18:00 a 20:59),1747
+2019,junio,martes,(18:00 a 20:59),1748
+2020,agosto,lunes,(21:00 a 23:59),1749
+2020,agosto,domingo,(00:00 a 02:59),1750
+2021,marzo,domingo,(09:00 a 11:59),1751
+2021,abril,sábado,(18:00 a 20:59),1752
+2022,diciembre,viernes,(09:00 a 11:59),1753
+2022,junio,miércoles,(15:00 a 17:59),1754
+2022,octubre,martes,Sin información,1755
+2023,abril,viernes,(21:00 a 23:59),1756
+2024,Agosto,Viernes,(21:00 a 23:59),1757
+2024,Septiembre,Lunes,(09:00 a 11:59),1758
+2015,Febrero,lunes,(18:00 a 20:59),1759
+2015,Abril,miércoles,(15:00 a 17:59),1760
+2015,Octubre,martes,Sin información,1761
+2016,agosto,miércoles,(09:00 a 11:59),1762
+2016,mayo,domingo,(09:00 a 11:59),1763
+2017,Marzo,Lunes,(21:00 a 23:59),1764
+2017,Junio,Lunes,(18:00 a 20:59),1765
+2017,Septiembre,Martes,Sin información,1766
+2018,enero,martes,Sin información,1767
+2018,febrero,martes,(21:00 a 23:59),1768
+2018,marzo,miércoles,(12:00 a 14:59),1769
+2018,julio,lunes,(18:00 a 20:59),1770
+2020,enero,viernes,(21:00 a 23:59),1771
+2020,abril,martes,(12:00 a 14:59),1772
+2020,octubre,sábado,Sin información,1773
+2021,noviembre,jueves,(15:00 a 17:59),1774
+2021,octubre,jueves,(21:00 a 23:59),1775
+2022,mayo,miércoles,(09:00 a 11:59),1776
+2023,marzo,lunes,Sin información,1777
+2023,octubre,martes,(21:00 a 23:59),1778
+2024,Noviembre,Lunes,Sin información,1779
+2024,Junio,Viernes,(21:00 a 23:59),1780
+2015,Febrero,viernes,Sin información,1781
+2015,Junio,lunes,(00:00 a 02:59),1782
+2016,julio,domingo,(12:00 a 14:59),1783
+2016,febrero,domingo,(18:00 a 20:59),1784
+2018,mayo,lunes,(21:00 a 23:59),1785
+2018,septiembre,martes,(06:00 a 08:59),1786
+2019,febrero,viernes,Sin información,1787
+2020,enero,domingo,(18:00 a 20:59),1788
+2020,marzo,martes,(21:00 a 23:59),1789
+2020,mayo,sábado,(15:00 a 17:59),1790
+2020,septiembre,lunes,(09:00 a 11:59),1791
+2022,abril,jueves,(21:00 a 23:59),1792
+2022,junio,sábado,Sin información,1793
+2022,noviembre,sábado,(09:00 a 11:59),1794
+2023,marzo,miércoles,Sin información,1795
+2023,marzo,jueves,(15:00 a 17:59),1796
+2015,Abril,lunes,Sin información,1797
+2015,Junio,domingo,(12:00 a 14:59),1798
+2015,Enero,domingo,(06:00 a 08:59),1799
+2015,Enero,lunes,(15:00 a 17:59),1800
+2015,Noviembre,viernes,(09:00 a 11:59),1801
+2016,noviembre,jueves,(18:00 a 20:59),1802
+2016,enero,lunes,(15:00 a 17:59),1803
+2016,mayo,martes,(21:00 a 23:59),1804
+2016,marzo,sábado,Sin información,1805
+2017,Enero,Martes,(09:00 a 11:59),1806
+2017,Agosto,Jueves,(21:00 a 23:59),1807
+2018,febrero,viernes,(12:00 a 14:59),1808
+2018,mayo,martes,(21:00 a 23:59),1809
+2018,octubre,miércoles,Sin información,1810
+2018,noviembre,jueves,(21:00 a 23:59),1811
+2019,marzo,lunes,Sin información,1812
+2020,enero,miércoles,(12:00 a 14:59),1813
+2021,mayo,martes,(12:00 a 14:59),1814
+2021,agosto,martes,(09:00 a 11:59),1815
+2021,septiembre,domingo,(15:00 a 17:59),1816
+2021,febrero,jueves,(06:00 a 08:59),1817
+2021,octubre,martes,(12:00 a 14:59),1818
+2021,diciembre,sábado,(12:00 a 14:59),1819
+2022,octubre,sábado,(21:00 a 23:59),1820
+2023,abril,jueves,Sin información,1821
+2023,junio,lunes,(03:00 a 05:59),1822
+2023,febrero,domingo,(18:00 a 20:59),1823
+2024,Febrero,Miércoles,(21:00 a 23:59),1824
+2015,Mayo,domingo,(12:00 a 14:59),1825
+2015,Julio,sábado,Sin información,1826
+2015,Febrero,lunes,(12:00 a 14:59),1827
+2016,diciembre,jueves,(18:00 a 20:59),1828
+2017,Julio,Viernes,(06:00 a 08:59),1829
+2017,Agosto,Jueves,Sin información,1830
+2017,Noviembre,Domingo,(12:00 a 14:59),1831
+2018,diciembre,miércoles,(21:00 a 23:59),1832
+2019,febrero,sábado,(18:00 a 20:59),1833
+2019,febrero,domingo,(00:00 a 02:59),1834
+2019,mayo,jueves,(15:00 a 17:59),1835
+2021,mayo,jueves,(12:00 a 14:59),1836
+2021,octubre,sábado,(15:00 a 17:59),1837
+2022,enero,domingo,(15:00 a 17:59),1838
+2022,febrero,jueves,(09:00 a 11:59),1839
+2022,septiembre,jueves,Sin información,1840
+2022,noviembre,lunes,Sin información,1841
+2022,febrero,jueves,Sin información,1842
+2023,septiembre,viernes,(15:00 a 17:59),1843
+2023,junio,viernes,Sin información,1844
+2024,Abril,Jueves,(12:00 a 14:59),1845
+2024,Septiembre,Lunes,(18:00 a 20:59),1846
+2015,Diciembre,viernes,(09:00 a 11:59),1847
+2016,diciembre,martes,(21:00 a 23:59),1848
+2016,junio,miércoles,(21:00 a 23:59),1849
+2016,enero,domingo,Sin información,1850
+2016,octubre,sábado,Sin información,1851
+2017,Marzo,Martes,(12:00 a 14:59),1852
+2018,mayo,martes,(09:00 a 11:59),1853
+2018,julio,miércoles,(15:00 a 17:59),1854
+2018,septiembre,viernes,(09:00 a 11:59),1855
+2019,abril,viernes,(21:00 a 23:59),1856
+2019,abril,domingo,(18:00 a 20:59),1857
+2020,abril,sábado,(15:00 a 17:59),1858
+2020,mayo,miércoles,(18:00 a 20:59),1859
+2021,abril,miércoles,(09:00 a 11:59),1860
+2021,octubre,miércoles,(18:00 a 20:59),1861
+2022,octubre,sábado,Sin información,1862
+2023,diciembre,viernes,(03:00 a 05:59),1863
+2015,Noviembre,domingo,(18:00 a 20:59),1864
+2015,Junio,lunes,(09:00 a 11:59),1865
+2015,Abril,martes,(15:00 a 17:59),1866
+2015,Abril,martes,(09:00 a 11:59),1867
+2016,marzo,martes,(15:00 a 17:59),1868
+2016,febrero,sábado,(15:00 a 17:59),1869
+2016,febrero,martes,(09:00 a 11:59),1870
+2017,Agosto,Lunes,(18:00 a 20:59),1871
+2017,Septiembre,Lunes,(18:00 a 20:59),1872
+2018,marzo,miércoles,(09:00 a 11:59),1873
+2019,febrero,lunes,(06:00 a 08:59),1874
+2019,marzo,lunes,(15:00 a 17:59),1875
+2019,noviembre,domingo,(21:00 a 23:59),1876
+2020,mayo,martes,Sin información,1877
+2021,julio,domingo,Sin información,1878
+2021,agosto,viernes,Sin información,1879
+2022,febrero,jueves,(18:00 a 20:59),1880
+2023,abril,lunes,(15:00 a 17:59),1881
+2023,diciembre,domingo,(18:00 a 20:59),1882
+2023,enero,domingo,(00:00 a 02:59),1883
+2024,Septiembre,Lunes,(21:00 a 23:59),1884
+2015,Febrero,miércoles,(06:00 a 08:59),1885
+2015,Junio,miércoles,(18:00 a 20:59),1886
+2015,Junio,viernes,(21:00 a 23:59),1887
+2015,Marzo,viernes,Sin información,1888
+2015,Agosto,martes,(18:00 a 20:59),1889
+2015,Mayo,lunes,(15:00 a 17:59),1890
+2015,Octubre,lunes,(15:00 a 17:59),1891
+2016,septiembre,miércoles,(12:00 a 14:59),1892
+2016,enero,miércoles,(15:00 a 17:59),1893
+2016,abril,miércoles,(21:00 a 23:59),1894
+2017,Agosto,Martes,(21:00 a 23:59),1895
+2017,Diciembre,Lunes,(03:00 a 05:59),1896
+2018,marzo,domingo,(06:00 a 08:59),1897
+2018,junio,viernes,(09:00 a 11:59),1898
+2018,junio,lunes,(21:00 a 23:59),1899
+2020,febrero,domingo,(00:00 a 02:59),1900
+2020,mayo,sábado,(18:00 a 20:59),1901
+2022,septiembre,miércoles,(18:00 a 20:59),1902
+2022,julio,martes,(03:00 a 05:59),1903
+2022,septiembre,jueves,(03:00 a 05:59),1904
+2022,septiembre,viernes,(15:00 a 17:59),1905
+2022,mayo,lunes,Sin información,1906
+2022,junio,martes,(15:00 a 17:59),1907
+2023,abril,jueves,(15:00 a 17:59),1908
+2023,septiembre,miércoles,(18:00 a 20:59),1909
+2024,Marzo,Viernes,(15:00 a 17:59),1910
+2015,Diciembre,sábado,(00:00 a 02:59),1911
+2015,Febrero,lunes,(06:00 a 08:59),1912
+2016,enero,miércoles,(21:00 a 23:59),1913
+2017,Diciembre,Jueves,(18:00 a 20:59),1914
+2018,mayo,jueves,Sin información,1915
+2018,mayo,viernes,(09:00 a 11:59),1916
+2020,octubre,jueves,(12:00 a 14:59),1917
+2021,julio,jueves,(18:00 a 20:59),1918
+2021,marzo,sábado,(00:00 a 02:59),1919
+2021,diciembre,domingo,(12:00 a 14:59),1920
+2022,diciembre,domingo,(00:00 a 02:59),1921
+2022,junio,domingo,(06:00 a 08:59),1922
+2022,febrero,viernes,(15:00 a 17:59),1923
+2023,diciembre,viernes,(18:00 a 20:59),1924
+2023,abril,lunes,(06:00 a 08:59),1925
+2023,enero,domingo,(03:00 a 05:59),1926
+2024,Marzo,Martes,Sin información,1927
+2024,Agosto,Domingo,(06:00 a 08:59),1928
+2024,Diciembre,Jueves,(21:00 a 23:59),1929
+2024,Mayo,Jueves,(09:00 a 11:59),1930
+2016,junio,martes,Sin información,1931
+2017,Febrero,Domingo,(03:00 a 05:59),1932
+2017,Febrero,Miércoles,(15:00 a 17:59),1933
+2017,Julio,Martes,(21:00 a 23:59),1934
+2017,Octubre,Lunes,(09:00 a 11:59),1935
+2018,febrero,lunes,(15:00 a 17:59),1936
+2018,agosto,jueves,(03:00 a 05:59),1937
+2019,abril,domingo,(00:00 a 02:59),1938
+2019,agosto,domingo,(18:00 a 20:59),1939
+2020,mayo,sábado,(12:00 a 14:59),1940
+2020,agosto,lunes,(15:00 a 17:59),1941
+2021,febrero,sábado,(00:00 a 02:59),1942
+2021,diciembre,miércoles,(12:00 a 14:59),1943
+2021,octubre,martes,(09:00 a 11:59),1944
+2023,mayo,jueves,(18:00 a 20:59),1945
+2023,mayo,miércoles,(09:00 a 11:59),1946
+2024,Agosto,Martes,(06:00 a 08:59),1947
+2024,Septiembre,Domingo,(09:00 a 11:59),1948
+2024,Febrero,Miércoles,(00:00 a 02:59),1949
+2015,Mayo,martes,(18:00 a 20:59),1950
+2016,agosto,jueves,(12:00 a 14:59),1951
+2018,abril,jueves,(12:00 a 14:59),1952
+2018,julio,martes,(12:00 a 14:59),1953
+2018,septiembre,miércoles,(06:00 a 08:59),1954
+2018,octubre,viernes,Sin información,1955
+2019,enero,martes,(06:00 a 08:59),1956
+2019,febrero,miércoles,Sin información,1957
+2019,abril,martes,(21:00 a 23:59),1958
+2020,enero,domingo,(09:00 a 11:59),1959
+2021,enero,miércoles,(21:00 a 23:59),1960
+2021,enero,miércoles,(06:00 a 08:59),1961
+2022,junio,martes,(21:00 a 23:59),1962
+2022,octubre,viernes,(15:00 a 17:59),1963
+2023,marzo,domingo,(09:00 a 11:59),1964
+2023,mayo,sábado,(00:00 a 02:59),1965
+2023,octubre,domingo,(18:00 a 20:59),1966
+2024,Junio,Lunes,(18:00 a 20:59),1967
+2024,Febrero,Jueves,(18:00 a 20:59),1968
+2024,Septiembre,Domingo,(21:00 a 23:59),1969
+2024,Marzo,Lunes,(21:00 a 23:59),1970
+2015,Mayo,sábado,(09:00 a 11:59),1971
+2015,Marzo,domingo,(15:00 a 17:59),1972
+2016,noviembre,sábado,(21:00 a 23:59),1973
+2016,junio,domingo,(03:00 a 05:59),1974
+2017,Agosto,Domingo,(18:00 a 20:59),1975
+2017,Septiembre,Domingo,(06:00 a 08:59),1976
+2017,Noviembre,Domingo,(18:00 a 20:59),1977
+2017,Noviembre,Sábado,(21:00 a 23:59),1978
+2018,abril,viernes,(09:00 a 11:59),1979
+2018,agosto,lunes,(12:00 a 14:59),1980
+2020,enero,miércoles,(09:00 a 11:59),1981
+2020,marzo,lunes,(06:00 a 08:59),1982
+2020,diciembre,domingo,(18:00 a 20:59),1983
+2021,enero,lunes,(21:00 a 23:59),1984
+2021,octubre,domingo,(18:00 a 20:59),1985
+2021,diciembre,viernes,(15:00 a 17:59),1986
+2022,abril,martes,(15:00 a 17:59),1987
+2023,octubre,lunes,(12:00 a 14:59),1988
+2024,Septiembre,Viernes,(12:00 a 14:59),1989
+2015,Agosto,martes,(06:00 a 08:59),1990
+2015,Noviembre,jueves,(18:00 a 20:59),1991
+2015,Abril,viernes,(09:00 a 11:59),1992
+2016,octubre,martes,(21:00 a 23:59),1993
+2016,agosto,martes,(21:00 a 23:59),1994
+2016,agosto,lunes,(06:00 a 08:59),1995
+2016,abril,lunes,(12:00 a 14:59),1996
+2017,Abril,Sábado,(15:00 a 17:59),1997
+2018,enero,miércoles,(12:00 a 14:59),1998
+2019,mayo,miércoles,Sin información,1999
+2019,junio,sábado,(09:00 a 11:59),2000
+2019,agosto,lunes,(06:00 a 08:59),2001
+2019,septiembre,jueves,(21:00 a 23:59),2002
+2019,octubre,domingo,(09:00 a 11:59),2003
+2021,septiembre,lunes,(12:00 a 14:59),2004
+2021,marzo,jueves,(00:00 a 02:59),2005
+2021,marzo,lunes,(06:00 a 08:59),2006
+2021,abril,lunes,(21:00 a 23:59),2007
+2021,junio,sábado,(06:00 a 08:59),2008
+2021,noviembre,martes,(15:00 a 17:59),2009
+2022,agosto,martes,Sin información,2010
+2022,febrero,miércoles,(21:00 a 23:59),2011
+2022,enero,domingo,(06:00 a 08:59),2012
+2023,marzo,martes,(12:00 a 14:59),2013
+2023,diciembre,jueves,(21:00 a 23:59),2014
+2015,Julio,jueves,(21:00 a 23:59),2015
+2015,Agosto,viernes,(12:00 a 14:59),2016
+2015,Marzo,miércoles,(06:00 a 08:59),2017
+2016,enero,jueves,(06:00 a 08:59),2018
+2016,abril,domingo,(12:00 a 14:59),2019
+2017,Mayo,Domingo,(21:00 a 23:59),2020
+2018,febrero,jueves,(15:00 a 17:59),2021
+2018,diciembre,martes,(09:00 a 11:59),2022
+2019,febrero,martes,(12:00 a 14:59),2023
+2019,abril,miércoles,(09:00 a 11:59),2024
+2019,junio,domingo,(12:00 a 14:59),2025
+2019,octubre,miércoles,(09:00 a 11:59),2026
+2019,noviembre,jueves,(00:00 a 02:59),2027
+2020,julio,viernes,(12:00 a 14:59),2028
+2021,febrero,jueves,Sin información,2029
+2021,mayo,sábado,(21:00 a 23:59),2030
+2022,septiembre,jueves,(06:00 a 08:59),2031
+2024,Marzo,Lunes,Sin información,2032
+2024,Junio,Domingo,(00:00 a 02:59),2033
+2024,Diciembre,Lunes,(21:00 a 23:59),2034
+2015,Febrero,sábado,(21:00 a 23:59),2035
+2015,Enero,sábado,(18:00 a 20:59),2036
+2015,Junio,martes,(15:00 a 17:59),2037
+2015,Julio,viernes,(09:00 a 11:59),2038
+2015,Mayo,viernes,(15:00 a 17:59),2039
+2016,abril,lunes,(21:00 a 23:59),2040
+2016,junio,sábado,(21:00 a 23:59),2041
+2016,febrero,martes,(21:00 a 23:59),2042
+2017,Agosto,Miércoles,(03:00 a 05:59),2043
+2017,Septiembre,Martes,(09:00 a 11:59),2044
+2019,julio,domingo,(15:00 a 17:59),2045
+2019,noviembre,viernes,(21:00 a 23:59),2046
+2020,marzo,jueves,(21:00 a 23:59),2047
+2020,mayo,miércoles,Sin información,2048
+2021,marzo,viernes,Sin información,2049
+2022,diciembre,sábado,(12:00 a 14:59),2050
+2023,abril,domingo,Sin información,2051
+2024,Diciembre,Domingo,Sin información,2052
+2016,agosto,jueves,(21:00 a 23:59),2053
+2017,Julio,Jueves,(06:00 a 08:59),2054
+2017,Septiembre,Lunes,(03:00 a 05:59),2055
+2018,junio,viernes,(06:00 a 08:59),2056
+2018,julio,miércoles,(21:00 a 23:59),2057
+2019,enero,miércoles,(15:00 a 17:59),2058
+2019,octubre,martes,(03:00 a 05:59),2059
+2020,enero,miércoles,(18:00 a 20:59),2060
+2021,agosto,sábado,(18:00 a 20:59),2061
+2021,noviembre,domingo,(15:00 a 17:59),2062
+2022,septiembre,martes,(00:00 a 02:59),2063
+2022,octubre,lunes,(09:00 a 11:59),2064
+2023,diciembre,sábado,(15:00 a 17:59),2065
+2023,enero,viernes,(15:00 a 17:59),2066
+2024,Enero,Jueves,Sin información,2067
+2015,Febrero,domingo,(00:00 a 02:59),2068
+2015,Noviembre,jueves,(15:00 a 17:59),2069
+2016,octubre,sábado,(12:00 a 14:59),2070
+2016,agosto,jueves,(18:00 a 20:59),2071
+2016,septiembre,viernes,(00:00 a 02:59),2072
+2018,abril,domingo,(21:00 a 23:59),2073
+2018,septiembre,martes,Sin información,2074
+2019,enero,miércoles,(18:00 a 20:59),2075
+2019,noviembre,lunes,(12:00 a 14:59),2076
+2019,diciembre,domingo,Sin información,2077
+2020,marzo,jueves,(12:00 a 14:59),2078
+2021,julio,martes,(21:00 a 23:59),2079
+2021,julio,jueves,Sin información,2080
+2022,abril,martes,(18:00 a 20:59),2081
+2023,julio,jueves,(15:00 a 17:59),2082
+2023,noviembre,sábado,(12:00 a 14:59),2083
+2024,Noviembre,Miércoles,(15:00 a 17:59),2084
+2024,Octubre,Domingo,Sin información,2085
+2024,Abril,Lunes,(03:00 a 05:59),2086
+2024,Septiembre,Sábado,(12:00 a 14:59),2087
+2016,diciembre,miércoles,(15:00 a 17:59),2088
+2016,noviembre,sábado,Sin información,2089
+2016,abril,sábado,(15:00 a 17:59),2090
+2017,Noviembre,Viernes,(12:00 a 14:59),2091
+2018,enero,miércoles,(00:00 a 02:59),2092
+2018,enero,martes,(00:00 a 02:59),2093
+2018,abril,lunes,Sin información,2094
+2018,junio,sábado,(06:00 a 08:59),2095
+2019,mayo,domingo,Sin información,2096
+2019,julio,jueves,(21:00 a 23:59),2097
+2019,septiembre,lunes,(00:00 a 02:59),2098
+2020,febrero,lunes,(09:00 a 11:59),2099
+2020,junio,viernes,(09:00 a 11:59),2100
+2020,julio,domingo,(06:00 a 08:59),2101
+2020,octubre,sábado,(18:00 a 20:59),2102
+2021,marzo,viernes,(15:00 a 17:59),2103
+2021,diciembre,viernes,(12:00 a 14:59),2104
+2022,agosto,martes,(09:00 a 11:59),2105
+2022,julio,lunes,(21:00 a 23:59),2106
+2022,noviembre,miércoles,(12:00 a 14:59),2107
+2022,junio,lunes,(21:00 a 23:59),2108
+2023,junio,domingo,(06:00 a 08:59),2109
+2023,julio,lunes,(18:00 a 20:59),2110
+2024,Julio,Sábado,(21:00 a 23:59),2111
+2024,Agosto,Sábado,(15:00 a 17:59),2112
+2024,Diciembre,Lunes,(18:00 a 20:59),2113
+2015,Octubre,miércoles,(21:00 a 23:59),2114
+2015,Junio,sábado,(15:00 a 17:59),2115
+2015,Octubre,jueves,(12:00 a 14:59),2116
+2016,julio,miércoles,(15:00 a 17:59),2117
+2016,junio,jueves,Sin información,2118
+2018,septiembre,sábado,(18:00 a 20:59),2119
+2019,abril,domingo,(21:00 a 23:59),2120
+2019,mayo,sábado,(09:00 a 11:59),2121
+2019,agosto,viernes,(00:00 a 02:59),2122
+2021,abril,viernes,(12:00 a 14:59),2123
+2021,octubre,miércoles,(15:00 a 17:59),2124
+2023,octubre,martes,(18:00 a 20:59),2125
+2023,enero,lunes,(00:00 a 02:59),2126
+2023,enero,domingo,(18:00 a 20:59),2127
+2024,Junio,Jueves,(18:00 a 20:59),2128
+2015,Agosto,miércoles,(18:00 a 20:59),2129
+2015,Diciembre,lunes,(09:00 a 11:59),2130
+2015,Abril,sábado,(15:00 a 17:59),2131
+2016,diciembre,miércoles,Sin información,2132
+2016,noviembre,viernes,Sin información,2133
+2016,febrero,jueves,(15:00 a 17:59),2134
+2016,diciembre,lunes,(09:00 a 11:59),2135
+2016,agosto,viernes,Sin información,2136
+2016,noviembre,miércoles,(15:00 a 17:59),2137
+2017,Mayo,Miércoles,(09:00 a 11:59),2138
+2018,enero,domingo,(15:00 a 17:59),2139
+2019,abril,sábado,(18:00 a 20:59),2140
+2019,abril,miércoles,Sin información,2141
+2019,agosto,miércoles,(18:00 a 20:59),2142
+2019,septiembre,jueves,Sin información,2143
+2020,enero,domingo,(21:00 a 23:59),2144
+2020,mayo,viernes,(00:00 a 02:59),2145
+2021,enero,viernes,(00:00 a 02:59),2146
+2021,abril,viernes,(15:00 a 17:59),2147
+2021,marzo,domingo,(18:00 a 20:59),2148
+2022,junio,sábado,(06:00 a 08:59),2149
+2022,enero,sábado,(21:00 a 23:59),2150
+2023,junio,jueves,(06:00 a 08:59),2151
+2023,febrero,miércoles,(18:00 a 20:59),2152
+2023,julio,sábado,(12:00 a 14:59),2153
+2024,Julio,Jueves,Sin información,2154
+2024,Febrero,Jueves,Sin información,2155
+2024,Marzo,Lunes,(12:00 a 14:59),2156
+2024,Diciembre,Jueves,(00:00 a 02:59),2157
+2015,Mayo,lunes,(12:00 a 14:59),2158
+2015,Febrero,sábado,(15:00 a 17:59),2159
+2018,abril,martes,Sin información,2160
+2017,Octubre,Miércoles,(21:00 a 23:59),2161
+2018,febrero,jueves,(09:00 a 11:59),2162
+2018,febrero,lunes,(12:00 a 14:59),2163
+2018,junio,sábado,Sin información,2164
+2018,noviembre,domingo,(21:00 a 23:59),2165
+2019,julio,jueves,Sin información,2166
+2020,marzo,martes,(15:00 a 17:59),2167
+2020,septiembre,viernes,(00:00 a 02:59),2168
+2020,septiembre,sábado,(12:00 a 14:59),2169
+2021,diciembre,sábado,(18:00 a 20:59),2170
+2022,septiembre,domingo,Sin información,2171
+2023,septiembre,viernes,Sin información,2172
+2024,Noviembre,Jueves,(00:00 a 02:59),2173
+2024,Octubre,Jueves,Sin información,2174
+2016,julio,jueves,(21:00 a 23:59),2175
+2016,marzo,jueves,(09:00 a 11:59),2176
+2018,septiembre,jueves,(12:00 a 14:59),2177
+2019,marzo,miércoles,(18:00 a 20:59),2178
+2020,abril,lunes,(12:00 a 14:59),2179
+2021,febrero,lunes,(18:00 a 20:59),2180
+2022,febrero,sábado,(15:00 a 17:59),2181
+2022,marzo,jueves,(18:00 a 20:59),2182
+2022,septiembre,jueves,(09:00 a 11:59),2183
+2023,enero,sábado,(15:00 a 17:59),2184
+2015,Mayo,viernes,Sin información,2185
+2016,abril,martes,(09:00 a 11:59),2186
+2016,diciembre,domingo,(18:00 a 20:59),2187
+2017,Marzo,Sábado,(15:00 a 17:59),2188
+2017,Septiembre,Domingo,(18:00 a 20:59),2189
+2018,agosto,lunes,(21:00 a 23:59),2190
+2018,diciembre,martes,(21:00 a 23:59),2191
+2019,mayo,miércoles,(21:00 a 23:59),2192
+2019,noviembre,miércoles,(09:00 a 11:59),2193
+2020,diciembre,lunes,(18:00 a 20:59),2194
+2021,febrero,domingo,(06:00 a 08:59),2195
+2021,septiembre,jueves,(06:00 a 08:59),2196
+2021,septiembre,miércoles,(12:00 a 14:59),2197
+2023,julio,viernes,(00:00 a 02:59),2198
+2024,Marzo,Domingo,(03:00 a 05:59),2199
+2024,Enero,Lunes,(09:00 a 11:59),2200
+2022,octubre,jueves,(09:00 a 11:59),2201
+2015,Junio,viernes,(12:00 a 14:59),2202
+2017,Septiembre,Martes,(21:00 a 23:59),2203
+2018,diciembre,jueves,(18:00 a 20:59),2204
+2019,noviembre,martes,(21:00 a 23:59),2205
+2021,septiembre,martes,Sin información,2206
+2021,marzo,jueves,Sin información,2207
+2021,agosto,lunes,(18:00 a 20:59),2208
+2022,marzo,domingo,(18:00 a 20:59),2209
+2023,mayo,lunes,(21:00 a 23:59),2210
+2023,julio,martes,(06:00 a 08:59),2211
+2023,mayo,sábado,(21:00 a 23:59),2212
+2024,Mayo,Miércoles,(06:00 a 08:59),2213
+2015,Abril,lunes,(18:00 a 20:59),2214
+2015,Septiembre,sábado,(00:00 a 02:59),2215
+2016,septiembre,lunes,(15:00 a 17:59),2216
+2017,Junio,Miércoles,(15:00 a 17:59),2217
+2017,Noviembre,Miércoles,(06:00 a 08:59),2218
+2018,julio,lunes,(21:00 a 23:59),2219
+2018,diciembre,miércoles,(06:00 a 08:59),2220
+2019,marzo,martes,Sin información,2221
+2020,febrero,miércoles,(12:00 a 14:59),2222
+2020,septiembre,sábado,(09:00 a 11:59),2223
+2021,febrero,lunes,(15:00 a 17:59),2224
+2021,octubre,martes,(21:00 a 23:59),2225
+2022,marzo,lunes,(21:00 a 23:59),2226
+2022,mayo,jueves,(06:00 a 08:59),2227
+2023,octubre,martes,Sin información,2228
+2023,enero,martes,(09:00 a 11:59),2229
+2015,Septiembre,lunes,Sin información,2230
+2015,Septiembre,domingo,(21:00 a 23:59),2231
+2015,Enero,martes,(09:00 a 11:59),2232
+2015,Marzo,miércoles,(21:00 a 23:59),2233
+2016,julio,viernes,(09:00 a 11:59),2234
+2017,Marzo,Jueves,(15:00 a 17:59),2235
+2017,Abril,Sábado,Sin información,2236
+2017,Diciembre,Sábado,(12:00 a 14:59),2237
+2019,febrero,miércoles,(18:00 a 20:59),2238
+2019,septiembre,sábado,(12:00 a 14:59),2239
+2019,diciembre,martes,(06:00 a 08:59),2240
+2020,noviembre,jueves,(18:00 a 20:59),2241
+2022,febrero,martes,(18:00 a 20:59),2242
+2024,Octubre,Domingo,(00:00 a 02:59),2243
+2015,Enero,domingo,(18:00 a 20:59),2244
+2015,Diciembre,jueves,(00:00 a 02:59),2245
+2016,octubre,domingo,Sin información,2246
+2017,Julio,Lunes,(15:00 a 17:59),2247
+2018,abril,miércoles,Sin información,2248
+2018,agosto,sábado,(06:00 a 08:59),2249
+2019,marzo,sábado,(12:00 a 14:59),2250
+2019,agosto,martes,(15:00 a 17:59),2251
+2019,noviembre,martes,Sin información,2252
+2019,diciembre,lunes,(03:00 a 05:59),2253
+2020,junio,jueves,(21:00 a 23:59),2254
+2021,julio,sábado,(09:00 a 11:59),2255
+2022,noviembre,domingo,(00:00 a 02:59),2256
+2022,febrero,lunes,(12:00 a 14:59),2257
+2023,noviembre,domingo,(09:00 a 11:59),2258
+2023,enero,domingo,(21:00 a 23:59),2259
+2024,Septiembre,Jueves,Sin información,2260
+2015,Diciembre,sábado,(09:00 a 11:59),2261
+2015,Enero,lunes,(18:00 a 20:59),2262
+2015,Julio,sábado,(15:00 a 17:59),2263
+2016,enero,sábado,(18:00 a 20:59),2264
+2016,diciembre,sábado,(21:00 a 23:59),2265
+2016,octubre,miércoles,(21:00 a 23:59),2266
+2017,Enero,Miércoles,(21:00 a 23:59),2267
+2017,Julio,Sábado,(12:00 a 14:59),2268
+2017,Octubre,Viernes,(12:00 a 14:59),2269
+2018,marzo,martes,(06:00 a 08:59),2270
+2018,junio,martes,(09:00 a 11:59),2271
+2018,agosto,domingo,Sin información,2272
+2018,diciembre,miércoles,Sin información,2273
+2018,diciembre,lunes,(21:00 a 23:59),2274
+2019,marzo,lunes,(06:00 a 08:59),2275
+2019,marzo,domingo,(18:00 a 20:59),2276
+2019,junio,miércoles,(15:00 a 17:59),2277
+2019,agosto,miércoles,(12:00 a 14:59),2278
+2019,octubre,martes,Sin información,2279
+2020,junio,domingo,(18:00 a 20:59),2280
+2020,agosto,miércoles,(15:00 a 17:59),2281
+2021,marzo,miércoles,(18:00 a 20:59),2282
+2021,noviembre,viernes,(09:00 a 11:59),2283
+2022,julio,jueves,(03:00 a 05:59),2284
+2023,marzo,viernes,(21:00 a 23:59),2285
+2023,agosto,miércoles,(09:00 a 11:59),2286
+2023,agosto,lunes,(12:00 a 14:59),2287
+2023,diciembre,jueves,(15:00 a 17:59),2288
+2023,mayo,martes,(15:00 a 17:59),2289
+2024,Mayo,Viernes,(15:00 a 17:59),2290
+2015,Marzo,miércoles,(18:00 a 20:59),2291
+2015,Marzo,miércoles,(15:00 a 17:59),2292
+2015,Marzo,jueves,(09:00 a 11:59),2293
+2015,Enero,sábado,(12:00 a 14:59),2294
+2016,enero,sábado,(09:00 a 11:59),2295
+2016,octubre,viernes,(15:00 a 17:59),2296
+2017,Mayo,Martes,(12:00 a 14:59),2297
+2017,Octubre,Domingo,(21:00 a 23:59),2298
+2017,Diciembre,Domingo,Sin información,2299
+2018,febrero,domingo,(09:00 a 11:59),2300
+2018,marzo,jueves,(03:00 a 05:59),2301
+2018,septiembre,sábado,(12:00 a 14:59),2302
+2018,noviembre,miércoles,Sin información,2303
+2019,mayo,sábado,(15:00 a 17:59),2304
+2019,noviembre,viernes,(18:00 a 20:59),2305
+2019,diciembre,miércoles,(09:00 a 11:59),2306
+2020,mayo,lunes,(21:00 a 23:59),2307
+2020,septiembre,domingo,(03:00 a 05:59),2308
+2020,diciembre,sábado,(12:00 a 14:59),2309
+2021,agosto,domingo,(21:00 a 23:59),2310
+2022,julio,domingo,(09:00 a 11:59),2311
+2022,junio,jueves,(09:00 a 11:59),2312
+2023,noviembre,domingo,Sin información,2313
+2023,septiembre,martes,(21:00 a 23:59),2314
+2024,Diciembre,Lunes,(09:00 a 11:59),2315
+2015,Abril,domingo,(12:00 a 14:59),2316
+2015,Diciembre,miércoles,(12:00 a 14:59),2317
+2015,Febrero,viernes,(06:00 a 08:59),2318
+2016,enero,viernes,(21:00 a 23:59),2319
+2017,Junio,Lunes,(12:00 a 14:59),2320
+2017,Junio,Lunes,(21:00 a 23:59),2321
+2018,enero,martes,(12:00 a 14:59),2322
+2018,mayo,viernes,(12:00 a 14:59),2323
+2019,agosto,martes,(21:00 a 23:59),2324
+2019,octubre,sábado,(06:00 a 08:59),2325
+2019,octubre,martes,(21:00 a 23:59),2326
+2021,septiembre,miércoles,Sin información,2327
+2021,noviembre,miércoles,(12:00 a 14:59),2328
+2022,noviembre,jueves,(15:00 a 17:59),2329
+2024,Octubre,Jueves,(12:00 a 14:59),2330
+2024,Octubre,Lunes,(21:00 a 23:59),2331
+2024,Diciembre,Martes,(18:00 a 20:59),2332
+2015,Julio,viernes,(21:00 a 23:59),2333
+2015,Enero,jueves,(06:00 a 08:59),2334
+2015,Noviembre,lunes,(12:00 a 14:59),2335
+2017,Enero,Lunes,(15:00 a 17:59),2336
+2018,abril,miércoles,(21:00 a 23:59),2337
+2018,noviembre,jueves,(09:00 a 11:59),2338
+2019,junio,sábado,(12:00 a 14:59),2339
+2019,octubre,domingo,(03:00 a 05:59),2340
+2020,septiembre,martes,(03:00 a 05:59),2341
+2021,agosto,lunes,(21:00 a 23:59),2342
+2021,noviembre,domingo,(12:00 a 14:59),2343
+2022,junio,viernes,(15:00 a 17:59),2344
+2022,febrero,domingo,(06:00 a 08:59),2345
+2022,agosto,sábado,(21:00 a 23:59),2346
+2022,agosto,martes,(00:00 a 02:59),2347
+2022,enero,martes,(09:00 a 11:59),2348
+2022,marzo,jueves,(12:00 a 14:59),2349
+2022,junio,viernes,(06:00 a 08:59),2350
+2022,octubre,miércoles,Sin información,2351
+2023,mayo,sábado,(15:00 a 17:59),2352
+2023,diciembre,viernes,(12:00 a 14:59),2353
+2024,Enero,Martes,(09:00 a 11:59),2354
+2024,Mayo,Sábado,(18:00 a 20:59),2355
+2015,Diciembre,miércoles,(18:00 a 20:59),2356
+2015,Septiembre,domingo,(03:00 a 05:59),2357
+2016,mayo,jueves,(15:00 a 17:59),2358
+2016,junio,domingo,(09:00 a 11:59),2359
+2016,octubre,lunes,Sin información,2360
+2016,mayo,domingo,Sin información,2361
+2017,Diciembre,Domingo,(18:00 a 20:59),2362
+2018,julio,viernes,Sin información,2363
+2018,diciembre,domingo,Sin información,2364
+2019,julio,viernes,(06:00 a 08:59),2365
+2019,noviembre,viernes,(06:00 a 08:59),2366
+2020,marzo,domingo,(18:00 a 20:59),2367
+2020,junio,viernes,(06:00 a 08:59),2368
+2020,septiembre,miércoles,(09:00 a 11:59),2369
+2021,enero,lunes,(15:00 a 17:59),2370
+2022,octubre,domingo,(21:00 a 23:59),2371
+2022,agosto,sábado,(12:00 a 14:59),2372
+2023,diciembre,domingo,(09:00 a 11:59),2373
+2024,Junio,Miércoles,(21:00 a 23:59),2374
+2024,Septiembre,Martes,(15:00 a 17:59),2375
+2015,Noviembre,martes,Sin información,2376
+2015,Noviembre,domingo,(12:00 a 14:59),2377
+2015,Septiembre,miércoles,(09:00 a 11:59),2378
+2016,enero,sábado,(06:00 a 08:59),2379
+2016,noviembre,domingo,(03:00 a 05:59),2380
+2016,abril,martes,(21:00 a 23:59),2381
+2017,Noviembre,Viernes,(09:00 a 11:59),2382
+2019,febrero,jueves,(18:00 a 20:59),2383
+2019,febrero,viernes,(06:00 a 08:59),2384
+2019,septiembre,lunes,(15:00 a 17:59),2385
+2020,diciembre,domingo,(06:00 a 08:59),2386
+2021,diciembre,lunes,(18:00 a 20:59),2387
+2022,enero,sábado,(15:00 a 17:59),2388
+2022,enero,lunes,Sin información,2389
+2022,julio,miércoles,(18:00 a 20:59),2390
+2022,agosto,lunes,(06:00 a 08:59),2391
+2023,diciembre,sábado,(12:00 a 14:59),2392
+2023,abril,domingo,(06:00 a 08:59),2393
+2023,abril,lunes,(09:00 a 11:59),2394
+2024,Abril,Viernes,(15:00 a 17:59),2395
+2024,Noviembre,Jueves,(09:00 a 11:59),2396
+2015,Marzo,sábado,(18:00 a 20:59),2397
+2016,octubre,martes,(15:00 a 17:59),2398
+2016,marzo,miércoles,(06:00 a 08:59),2399
+2016,abril,miércoles,(09:00 a 11:59),2400
+2016,diciembre,domingo,(21:00 a 23:59),2401
+2016,septiembre,martes,(06:00 a 08:59),2402
+2017,Marzo,Domingo,(15:00 a 17:59),2403
+2017,Abril,Lunes,(18:00 a 20:59),2404
+2017,Mayo,Jueves,(09:00 a 11:59),2405
+2017,Junio,Martes,(12:00 a 14:59),2406
+2017,Septiembre,Domingo,Sin información,2407
+2017,Septiembre,Sábado,(21:00 a 23:59),2408
+2018,agosto,martes,Sin información,2409
+2018,octubre,jueves,(06:00 a 08:59),2410
+2019,septiembre,viernes,(00:00 a 02:59),2411
+2020,marzo,miércoles,(15:00 a 17:59),2412
+2022,octubre,viernes,Sin información,2413
+2023,marzo,domingo,(03:00 a 05:59),2414
+2023,diciembre,miércoles,(09:00 a 11:59),2415
+2023,febrero,lunes,(09:00 a 11:59),2416
+2015,Octubre,jueves,(09:00 a 11:59),2417
+2016,abril,lunes,(09:00 a 11:59),2418
+2017,Enero,Sábado,(18:00 a 20:59),2419
+2017,Junio,Sábado,(00:00 a 02:59),2420
+2017,Julio,Lunes,(21:00 a 23:59),2421
+2018,marzo,domingo,Sin información,2422
+2019,febrero,martes,(06:00 a 08:59),2423
+2019,agosto,sábado,(06:00 a 08:59),2424
+2019,octubre,miércoles,Sin información,2425
+2020,julio,lunes,(21:00 a 23:59),2426
+2021,enero,domingo,(09:00 a 11:59),2427
+2022,octubre,lunes,(21:00 a 23:59),2428
+2022,septiembre,sábado,(21:00 a 23:59),2429
+2022,agosto,lunes,(21:00 a 23:59),2430
+2023,febrero,martes,(21:00 a 23:59),2431
+2023,abril,jueves,(06:00 a 08:59),2432
+2023,junio,viernes,(03:00 a 05:59),2433
+2023,junio,sábado,(21:00 a 23:59),2434
+2024,Septiembre,Domingo,Sin información,2435
+2024,Febrero,Martes,(15:00 a 17:59),2436
+2024,Abril,Miércoles,(09:00 a 11:59),2437
+2015,Enero,martes,(12:00 a 14:59),2438
+2017,Febrero,Martes,(21:00 a 23:59),2439
+2017,Marzo,Sábado,(18:00 a 20:59),2440
+2017,Agosto,Domingo,(12:00 a 14:59),2441
+2017,Septiembre,Miércoles,(12:00 a 14:59),2442
+2017,Septiembre,Domingo,(09:00 a 11:59),2443
+2018,enero,viernes,(06:00 a 08:59),2444
+2018,febrero,sábado,(21:00 a 23:59),2445
+2018,febrero,viernes,(06:00 a 08:59),2446
+2018,octubre,martes,(21:00 a 23:59),2447
+2018,noviembre,sábado,Sin información,2448
+2018,diciembre,sábado,(18:00 a 20:59),2449
+2019,noviembre,jueves,(12:00 a 14:59),2450
+2020,enero,martes,(21:00 a 23:59),2451
+2020,mayo,miércoles,(12:00 a 14:59),2452
+2020,julio,jueves,(09:00 a 11:59),2453
+2020,septiembre,martes,(18:00 a 20:59),2454
+2020,diciembre,domingo,(15:00 a 17:59),2455
+2022,noviembre,domingo,(21:00 a 23:59),2456
+2022,marzo,lunes,(12:00 a 14:59),2457
+2022,junio,sábado,(18:00 a 20:59),2458
+2022,octubre,domingo,(09:00 a 11:59),2459
+2022,junio,viernes,(18:00 a 20:59),2460
+2022,octubre,martes,(06:00 a 08:59),2461
+2022,junio,miércoles,(00:00 a 02:59),2462
+2022,enero,domingo,(12:00 a 14:59),2463
+2022,septiembre,lunes,(18:00 a 20:59),2464
+2022,noviembre,domingo,(06:00 a 08:59),2465
+2023,abril,martes,(21:00 a 23:59),2466
+2023,junio,miércoles,(18:00 a 20:59),2467
+2024,Junio,Domingo,(18:00 a 20:59),2468
+2015,Noviembre,miércoles,(18:00 a 20:59),2469
+2015,Agosto,martes,(15:00 a 17:59),2470
+2015,Agosto,domingo,(09:00 a 11:59),2471
+2016,julio,martes,Sin información,2472
+2016,septiembre,lunes,(18:00 a 20:59),2473
+2017,Agosto,Viernes,(12:00 a 14:59),2474
+2017,Septiembre,Sábado,(12:00 a 14:59),2475
+2018,febrero,sábado,Sin información,2476
+2019,marzo,martes,(12:00 a 14:59),2477
+2019,mayo,viernes,(12:00 a 14:59),2478
+2019,octubre,jueves,Sin información,2479
+2020,febrero,miércoles,(18:00 a 20:59),2480
+2020,junio,domingo,(09:00 a 11:59),2481
+2022,julio,sábado,(18:00 a 20:59),2482
+2022,julio,domingo,(21:00 a 23:59),2483
+2022,febrero,martes,(15:00 a 17:59),2484
+2023,enero,viernes,(09:00 a 11:59),2485
+2024,Abril,Sábado,(18:00 a 20:59),2486
+2024,Febrero,Miércoles,(09:00 a 11:59),2487
+2024,Septiembre,Domingo,(12:00 a 14:59),2488
+2015,Septiembre,viernes,(18:00 a 20:59),2489
+2015,Febrero,domingo,(18:00 a 20:59),2490
+2015,Julio,lunes,(15:00 a 17:59),2491
+2015,Abril,lunes,(15:00 a 17:59),2492
+2017,Noviembre,Lunes,(12:00 a 14:59),2493
+2018,diciembre,miércoles,(03:00 a 05:59),2494
+2020,febrero,miércoles,(06:00 a 08:59),2495
+2020,febrero,viernes,(15:00 a 17:59),2496
+2020,mayo,martes,(12:00 a 14:59),2497
+2020,julio,sábado,(12:00 a 14:59),2498
+2020,diciembre,viernes,(21:00 a 23:59),2499
+2020,diciembre,miércoles,(09:00 a 11:59),2500
+2021,septiembre,lunes,(15:00 a 17:59),2501
+2023,marzo,jueves,(18:00 a 20:59),2502
+2023,agosto,jueves,Sin información,2503
+2023,febrero,jueves,(12:00 a 14:59),2504
+2023,septiembre,jueves,Sin información,2505
+2024,Mayo,Jueves,Sin información,2506
+2024,Noviembre,Viernes,Sin información,2507
+2015,Noviembre,domingo,(21:00 a 23:59),2508
+2015,Mayo,martes,(09:00 a 11:59),2509
+2015,Septiembre,jueves,(18:00 a 20:59),2510
+2016,junio,jueves,(18:00 a 20:59),2511
+2016,mayo,lunes,(18:00 a 20:59),2512
+2017,Septiembre,Jueves,(12:00 a 14:59),2513
+2017,Diciembre,Viernes,(21:00 a 23:59),2514
+2018,febrero,jueves,(06:00 a 08:59),2515
+2018,diciembre,martes,(06:00 a 08:59),2516
+2018,diciembre,martes,(12:00 a 14:59),2517
+2021,abril,jueves,(18:00 a 20:59),2518
+2022,enero,jueves,(15:00 a 17:59),2519
+2023,septiembre,domingo,(03:00 a 05:59),2520
+2024,Junio,Jueves,(15:00 a 17:59),2521
+2015,Septiembre,domingo,(09:00 a 11:59),2522
+2015,Marzo,viernes,(06:00 a 08:59),2523
+2016,mayo,miércoles,(12:00 a 14:59),2524
+2016,marzo,martes,Sin información,2525
+2018,diciembre,sábado,(12:00 a 14:59),2526
+2019,febrero,martes,(18:00 a 20:59),2527
+2020,enero,domingo,(03:00 a 05:59),2528
+2021,mayo,sábado,(12:00 a 14:59),2529
+2021,junio,lunes,(18:00 a 20:59),2530
+2021,julio,lunes,(12:00 a 14:59),2531
+2022,julio,jueves,(06:00 a 08:59),2532
+2024,Agosto,Miércoles,(15:00 a 17:59),2533
+2024,Octubre,Sábado,(15:00 a 17:59),2534
+2024,Diciembre,Lunes,(12:00 a 14:59),2535
+2024,Diciembre,Domingo,(15:00 a 17:59),2536
+2015,Abril,martes,(12:00 a 14:59),2537
+2016,diciembre,sábado,(09:00 a 11:59),2538
+2017,Enero,Miércoles,(06:00 a 08:59),2539
+2017,Mayo,Lunes,(18:00 a 20:59),2540
+2017,Junio,Jueves,(12:00 a 14:59),2541
+2017,Agosto,Sábado,(09:00 a 11:59),2542
+2018,enero,miércoles,(06:00 a 08:59),2543
+2018,julio,domingo,(21:00 a 23:59),2544
+2018,julio,viernes,(18:00 a 20:59),2545
+2018,agosto,sábado,(03:00 a 05:59),2546
+2019,mayo,sábado,(21:00 a 23:59),2547
+2019,junio,viernes,Sin información,2548
+2019,septiembre,jueves,(18:00 a 20:59),2549
+2019,julio,martes,(12:00 a 14:59),2550
+2020,agosto,sábado,(12:00 a 14:59),2551
+2021,febrero,martes,(15:00 a 17:59),2552
+2023,enero,jueves,(06:00 a 08:59),2553
+2023,marzo,viernes,(06:00 a 08:59),2554
+2015,Agosto,miércoles,(06:00 a 08:59),2555
+2015,Agosto,martes,(03:00 a 05:59),2556
+2015,Junio,jueves,(18:00 a 20:59),2557
+2015,Marzo,sábado,(12:00 a 14:59),2558
+2016,febrero,sábado,Sin información,2559
+2016,septiembre,jueves,(06:00 a 08:59),2560
+2016,marzo,sábado,(12:00 a 14:59),2561
+2017,Enero,Viernes,(12:00 a 14:59),2562
+2017,Marzo,Viernes,(09:00 a 11:59),2563
+2018,marzo,jueves,(12:00 a 14:59),2564
+2021,abril,jueves,(09:00 a 11:59),2565
+2022,octubre,viernes,(18:00 a 20:59),2566
+2023,marzo,miércoles,(18:00 a 20:59),2567
+2023,agosto,lunes,(09:00 a 11:59),2568
+2023,enero,domingo,(12:00 a 14:59),2569
+2023,febrero,martes,(15:00 a 17:59),2570
+2023,abril,viernes,(09:00 a 11:59),2571
+2024,Junio,Martes,(09:00 a 11:59),2572
+2024,Marzo,Sábado,(18:00 a 20:59),2573
+2024,Febrero,Sábado,(06:00 a 08:59),2574
+2015,Agosto,sábado,(12:00 a 14:59),2575
+2016,enero,viernes,(03:00 a 05:59),2576
+2016,diciembre,lunes,(18:00 a 20:59),2577
+2016,febrero,domingo,(03:00 a 05:59),2578
+2017,Marzo,Miércoles,(18:00 a 20:59),2579
+2018,enero,jueves,(12:00 a 14:59),2580
+2019,mayo,viernes,(21:00 a 23:59),2581
+2019,septiembre,domingo,(12:00 a 14:59),2582
+2020,noviembre,sábado,(21:00 a 23:59),2583
+2021,junio,viernes,(09:00 a 11:59),2584
+2022,febrero,miércoles,Sin información,2585
+2023,agosto,martes,Sin información,2586
+2023,septiembre,domingo,(06:00 a 08:59),2587
+2023,septiembre,martes,(18:00 a 20:59),2588
+2024,Octubre,Miércoles,(15:00 a 17:59),2589
+2015,Julio,martes,(18:00 a 20:59),2590
+2016,marzo,sábado,(15:00 a 17:59),2591
+2016,marzo,miércoles,(09:00 a 11:59),2592
+2017,Septiembre,Sábado,(09:00 a 11:59),2593
+2019,enero,martes,(15:00 a 17:59),2594
+2020,agosto,viernes,Sin información,2595
+2020,diciembre,lunes,Sin información,2596
+2021,marzo,sábado,(18:00 a 20:59),2597
+2021,abril,viernes,(21:00 a 23:59),2598
+2022,abril,sábado,(18:00 a 20:59),2599
+2022,octubre,lunes,(12:00 a 14:59),2600
+2023,junio,lunes,(15:00 a 17:59),2601
+2023,enero,miércoles,Sin información,2602
+2024,Mayo,Martes,(21:00 a 23:59),2603
+2024,Agosto,Jueves,(12:00 a 14:59),2604
+2015,Julio,domingo,(12:00 a 14:59),2605
+2016,diciembre,lunes,Sin información,2606
+2016,septiembre,martes,(21:00 a 23:59),2607
+2017,Enero,Domingo,(06:00 a 08:59),2608
+2017,Julio,Domingo,(18:00 a 20:59),2609
+2017,Diciembre,Martes,(18:00 a 20:59),2610
+2018,mayo,viernes,Sin información,2611
+2019,abril,sábado,(12:00 a 14:59),2612
+2019,octubre,martes,(15:00 a 17:59),2613
+2019,diciembre,miércoles,Sin información,2614
+2021,noviembre,domingo,(18:00 a 20:59),2615
+2023,marzo,domingo,(18:00 a 20:59),2616
+2023,abril,sábado,(06:00 a 08:59),2617
+2023,septiembre,domingo,Sin información,2618
+2024,Mayo,Miércoles,(18:00 a 20:59),2619
+2024,Junio,Viernes,(09:00 a 11:59),2620
+2024,Marzo,Miércoles,Sin información,2621
+2024,Diciembre,Domingo,(06:00 a 08:59),2622
+2015,Julio,lunes,(18:00 a 20:59),2623
+2015,Agosto,martes,(09:00 a 11:59),2624
+2015,Abril,sábado,(09:00 a 11:59),2625
+2015,Julio,jueves,Sin información,2626
+2016,noviembre,domingo,(12:00 a 14:59),2627
+2016,junio,martes,(18:00 a 20:59),2628
+2017,Febrero,Jueves,Sin información,2629
+2017,Abril,Domingo,(15:00 a 17:59),2630
+2017,Abril,Jueves,(12:00 a 14:59),2631
+2018,marzo,viernes,(03:00 a 05:59),2632
+2018,febrero,domingo,(03:00 a 05:59),2633
+2018,julio,sábado,(15:00 a 17:59),2634
+2018,diciembre,martes,(15:00 a 17:59),2635
+2019,marzo,jueves,(18:00 a 20:59),2636
+2020,enero,lunes,(18:00 a 20:59),2637
+2021,diciembre,sábado,(09:00 a 11:59),2638
+2021,diciembre,lunes,(09:00 a 11:59),2639
+2022,septiembre,sábado,(18:00 a 20:59),2640
+2022,julio,miércoles,(21:00 a 23:59),2641
+2022,octubre,jueves,(21:00 a 23:59),2642
+2024,Abril,Lunes,(09:00 a 11:59),2643
+2024,Enero,Domingo,(18:00 a 20:59),2644
+2024,Abril,Martes,Sin información,2645
+2024,Marzo,Martes,(09:00 a 11:59),2646
+2024,Agosto,Domingo,(21:00 a 23:59),2647
+2015,Mayo,domingo,(09:00 a 11:59),2648
+2015,Marzo,domingo,(09:00 a 11:59),2649
+2015,Febrero,sábado,(00:00 a 02:59),2650
+2015,Marzo,martes,(09:00 a 11:59),2651
+2015,Marzo,lunes,(21:00 a 23:59),2652
+2015,Octubre,domingo,(15:00 a 17:59),2653
+2016,mayo,domingo,(00:00 a 02:59),2654
+2016,marzo,viernes,Sin información,2655
+2016,junio,jueves,(15:00 a 17:59),2656
+2016,diciembre,domingo,(06:00 a 08:59),2657
+2016,mayo,jueves,Sin información,2658
+2017,Mayo,Miércoles,(15:00 a 17:59),2659
+2018,junio,martes,(12:00 a 14:59),2660
+2019,julio,miércoles,(18:00 a 20:59),2661
+2019,septiembre,lunes,(18:00 a 20:59),2662
+2019,octubre,viernes,(09:00 a 11:59),2663
+2021,abril,miércoles,(18:00 a 20:59),2664
+2021,octubre,viernes,(03:00 a 05:59),2665
+2024,Enero,Lunes,(15:00 a 17:59),2666
+2024,Enero,Viernes,(06:00 a 08:59),2667
+2015,Agosto,domingo,(12:00 a 14:59),2668
+2016,marzo,domingo,(21:00 a 23:59),2669
+2016,agosto,miércoles,Sin información,2670
+2016,octubre,miércoles,(12:00 a 14:59),2671
+2016,abril,miércoles,(12:00 a 14:59),2672
+2016,noviembre,lunes,(06:00 a 08:59),2673
+2017,Junio,Domingo,(06:00 a 08:59),2674
+2017,Julio,Lunes,(18:00 a 20:59),2675
+2018,febrero,martes,(09:00 a 11:59),2676
+2018,noviembre,jueves,(00:00 a 02:59),2677
+2019,noviembre,domingo,(00:00 a 02:59),2678
+2020,enero,domingo,(06:00 a 08:59),2679
+2020,diciembre,miércoles,(18:00 a 20:59),2680
+2021,abril,miércoles,(12:00 a 14:59),2681
+2022,octubre,miércoles,(18:00 a 20:59),2682
+2022,noviembre,lunes,(12:00 a 14:59),2683
+2022,agosto,jueves,(06:00 a 08:59),2684
+2023,mayo,lunes,(09:00 a 11:59),2685
+2024,Mayo,Jueves,(18:00 a 20:59),2686
+2024,Noviembre,Lunes,(18:00 a 20:59),2687
+2015,Julio,viernes,(03:00 a 05:59),2688
+2016,febrero,domingo,Sin información,2689
+2016,septiembre,martes,(15:00 a 17:59),2690
+2017,Enero,Miércoles,(15:00 a 17:59),2691
+2017,Julio,Miércoles,(15:00 a 17:59),2692
+2018,marzo,martes,(00:00 a 02:59),2693
+2018,julio,martes,(09:00 a 11:59),2694
+2018,septiembre,martes,(12:00 a 14:59),2695
+2018,octubre,jueves,(12:00 a 14:59),2696
+2019,junio,martes,(21:00 a 23:59),2697
+2019,septiembre,martes,(06:00 a 08:59),2698
+2020,diciembre,sábado,(03:00 a 05:59),2699
+2021,marzo,miércoles,(12:00 a 14:59),2700
+2021,mayo,martes,(09:00 a 11:59),2701
+2021,agosto,miércoles,Sin información,2702
+2023,noviembre,domingo,(21:00 a 23:59),2703
+2024,Julio,Miércoles,(15:00 a 17:59),2704
+2024,Noviembre,Jueves,(18:00 a 20:59),2705
+2015,Septiembre,viernes,(21:00 a 23:59),2706
+2016,marzo,lunes,(03:00 a 05:59),2707
+2016,abril,viernes,(12:00 a 14:59),2708
+2016,abril,jueves,(12:00 a 14:59),2709
+2016,febrero,lunes,(09:00 a 11:59),2710
+2017,Abril,Sábado,(12:00 a 14:59),2711
+2017,Mayo,Lunes,(09:00 a 11:59),2712
+2017,Mayo,Domingo,(00:00 a 02:59),2713
+2017,Junio,Lunes,Sin información,2714
+2017,Junio,Domingo,(12:00 a 14:59),2715
+2018,marzo,miércoles,(15:00 a 17:59),2716
+2018,mayo,miércoles,(09:00 a 11:59),2717
+2019,marzo,sábado,(18:00 a 20:59),2718
+2019,abril,sábado,(09:00 a 11:59),2719
+2019,mayo,sábado,Sin información,2720
+2019,octubre,jueves,(12:00 a 14:59),2721
+2019,diciembre,miércoles,(15:00 a 17:59),2722
+2020,junio,jueves,(18:00 a 20:59),2723
+2020,noviembre,lunes,(15:00 a 17:59),2724
+2021,abril,domingo,(18:00 a 20:59),2725
+2021,julio,viernes,(00:00 a 02:59),2726
+2022,abril,viernes,(21:00 a 23:59),2727
+2022,mayo,domingo,(03:00 a 05:59),2728
+2022,marzo,viernes,(15:00 a 17:59),2729
+2023,mayo,domingo,(15:00 a 17:59),2730
+2023,junio,domingo,(12:00 a 14:59),2731
+2023,agosto,miércoles,Sin información,2732
+2023,enero,sábado,(18:00 a 20:59),2733
+2024,Diciembre,Domingo,(00:00 a 02:59),2734
+2024,Febrero,Viernes,(18:00 a 20:59),2735
+2015,Marzo,domingo,(21:00 a 23:59),2736
+2015,Enero,martes,Sin información,2737
+2015,Septiembre,domingo,(00:00 a 02:59),2738
+2016,febrero,viernes,Sin información,2739
+2016,septiembre,jueves,(12:00 a 14:59),2740
+2017,Septiembre,Domingo,(15:00 a 17:59),2741
+2017,Octubre,Lunes,(21:00 a 23:59),2742
+2017,Octubre,Martes,(15:00 a 17:59),2743
+2017,Diciembre,Viernes,(12:00 a 14:59),2744
+2018,mayo,domingo,(15:00 a 17:59),2745
+2019,enero,martes,(03:00 a 05:59),2746
+2019,julio,domingo,(18:00 a 20:59),2747
+2019,octubre,martes,(06:00 a 08:59),2748
+2020,enero,viernes,Sin información,2749
+2021,julio,viernes,(12:00 a 14:59),2750
+2021,noviembre,jueves,(09:00 a 11:59),2751
+2023,marzo,martes,(15:00 a 17:59),2752
+2023,octubre,lunes,(06:00 a 08:59),2753
+2016,agosto,lunes,Sin información,2754
+2016,octubre,lunes,(21:00 a 23:59),2755
+2016,octubre,miércoles,(18:00 a 20:59),2756
+2017,Febrero,Sábado,(06:00 a 08:59),2757
+2017,Marzo,Jueves,(18:00 a 20:59),2758
+2017,Julio,Lunes,(09:00 a 11:59),2759
+2017,Agosto,Miércoles,(12:00 a 14:59),2760
+2017,Noviembre,Miércoles,(15:00 a 17:59),2761
+2018,enero,domingo,(06:00 a 08:59),2762
+2018,febrero,miércoles,(03:00 a 05:59),2763
+2018,junio,sábado,(21:00 a 23:59),2764
+2018,julio,martes,(15:00 a 17:59),2765
+2018,diciembre,viernes,Sin información,2766
+2019,marzo,lunes,(03:00 a 05:59),2767
+2019,mayo,miércoles,(18:00 a 20:59),2768
+2019,julio,domingo,(00:00 a 02:59),2769
+2021,febrero,lunes,(09:00 a 11:59),2770
+2021,marzo,sábado,(09:00 a 11:59),2771
+2023,noviembre,jueves,(21:00 a 23:59),2772
+2023,noviembre,jueves,Sin información,2773
+2023,noviembre,jueves,(09:00 a 11:59),2774
+2024,Abril,Lunes,(06:00 a 08:59),2775
+2015,Septiembre,lunes,(12:00 a 14:59),2776
+2015,Junio,lunes,(15:00 a 17:59),2777
+2016,agosto,domingo,(09:00 a 11:59),2778
+2016,noviembre,domingo,Sin información,2779
+2016,diciembre,martes,Sin información,2780
+2017,Mayo,Domingo,Sin información,2781
+2018,septiembre,jueves,(09:00 a 11:59),2782
+2018,septiembre,miércoles,(12:00 a 14:59),2783
+2019,julio,viernes,(12:00 a 14:59),2784
+2019,noviembre,domingo,Sin información,2785
+2020,agosto,sábado,(09:00 a 11:59),2786
+2020,noviembre,miércoles,(09:00 a 11:59),2787
+2021,agosto,lunes,Sin información,2788
+2021,septiembre,domingo,(00:00 a 02:59),2789
+2021,septiembre,viernes,(18:00 a 20:59),2790
+2022,diciembre,lunes,Sin información,2791
+2022,agosto,sábado,Sin información,2792
+2023,noviembre,viernes,(15:00 a 17:59),2793
+2023,junio,viernes,(21:00 a 23:59),2794
+2023,julio,lunes,(09:00 a 11:59),2795
+2023,febrero,miércoles,(06:00 a 08:59),2796
+2023,noviembre,sábado,(09:00 a 11:59),2797
+2024,Enero,Martes,(21:00 a 23:59),2798
+2024,Octubre,Miércoles,Sin información,2799
+2015,Marzo,martes,(21:00 a 23:59),2800
+2015,Octubre,jueves,(15:00 a 17:59),2801
+2015,Febrero,martes,(21:00 a 23:59),2802
+2016,abril,sábado,(18:00 a 20:59),2803
+2016,junio,sábado,(15:00 a 17:59),2804
+2017,Febrero,Domingo,(18:00 a 20:59),2805
+2017,Abril,Lunes,(09:00 a 11:59),2806
+2017,Noviembre,Miércoles,(09:00 a 11:59),2807
+2018,febrero,martes,(03:00 a 05:59),2808
+2018,abril,sábado,(15:00 a 17:59),2809
+2018,junio,lunes,(15:00 a 17:59),2810
+2018,agosto,domingo,(15:00 a 17:59),2811
+2019,febrero,martes,(09:00 a 11:59),2812
+2019,febrero,miércoles,(15:00 a 17:59),2813
+2019,marzo,jueves,(21:00 a 23:59),2814
+2019,abril,jueves,(21:00 a 23:59),2815
+2019,mayo,viernes,(18:00 a 20:59),2816
+2019,noviembre,miércoles,(21:00 a 23:59),2817
+2019,diciembre,lunes,(21:00 a 23:59),2818
+2021,agosto,sábado,(06:00 a 08:59),2819
+2021,febrero,martes,(18:00 a 20:59),2820
+2021,agosto,lunes,(06:00 a 08:59),2821
+2021,junio,lunes,(21:00 a 23:59),2822
+2021,mayo,sábado,(18:00 a 20:59),2823
+2022,octubre,domingo,Sin información,2824
+2022,mayo,jueves,(21:00 a 23:59),2825
+2023,enero,martes,(12:00 a 14:59),2826
+2024,Enero,Miércoles,(09:00 a 11:59),2827
+2024,Febrero,Miércoles,(06:00 a 08:59),2828
+2024,Diciembre,Lunes,(06:00 a 08:59),2829
+2015,Abril,sábado,(18:00 a 20:59),2830
+2015,Marzo,martes,Sin información,2831
+2015,Noviembre,sábado,(21:00 a 23:59),2832
+2016,agosto,miércoles,(21:00 a 23:59),2833
+2016,febrero,lunes,(15:00 a 17:59),2834
+2017,Enero,Viernes,(06:00 a 08:59),2835
+2017,Julio,Sábado,(03:00 a 05:59),2836
+2017,Diciembre,Miércoles,(06:00 a 08:59),2837
+2018,agosto,martes,(06:00 a 08:59),2838
+2018,septiembre,viernes,Sin información,2839
+2018,octubre,lunes,(09:00 a 11:59),2840
+2018,noviembre,martes,(09:00 a 11:59),2841
+2019,abril,domingo,Sin información,2842
+2019,abril,sábado,(21:00 a 23:59),2843
+2019,abril,viernes,Sin información,2844
+2019,abril,miércoles,(06:00 a 08:59),2845
+2020,enero,viernes,(15:00 a 17:59),2846
+2020,octubre,lunes,(00:00 a 02:59),2847
+2020,diciembre,domingo,(21:00 a 23:59),2848
+2021,julio,sábado,(18:00 a 20:59),2849
+2022,diciembre,jueves,(21:00 a 23:59),2850
+2023,enero,lunes,(21:00 a 23:59),2851
+2023,julio,lunes,Sin información,2852
+2024,Febrero,Jueves,(09:00 a 11:59),2853
+2015,Febrero,sábado,Sin información,2854
+2015,Diciembre,martes,(15:00 a 17:59),2855
+2016,mayo,lunes,(12:00 a 14:59),2856
+2017,Octubre,Jueves,(12:00 a 14:59),2857
+2019,agosto,sábado,(18:00 a 20:59),2858
+2019,septiembre,domingo,(03:00 a 05:59),2859
+2019,octubre,miércoles,(18:00 a 20:59),2860
+2020,noviembre,miércoles,Sin información,2861
+2021,enero,miércoles,(18:00 a 20:59),2862
+2021,julio,domingo,(00:00 a 02:59),2863
+2021,octubre,lunes,(12:00 a 14:59),2864
+2021,octubre,jueves,(09:00 a 11:59),2865
+2021,noviembre,domingo,(00:00 a 02:59),2866
+2022,julio,domingo,(18:00 a 20:59),2867
+2022,abril,miércoles,(21:00 a 23:59),2868
+2023,marzo,jueves,(12:00 a 14:59),2869
+2023,abril,miércoles,Sin información,2870
+2024,Octubre,Lunes,(09:00 a 11:59),2871
+2015,Mayo,jueves,(06:00 a 08:59),2872
+2015,Octubre,lunes,(18:00 a 20:59),2873
+2015,Junio,sábado,(06:00 a 08:59),2874
+2016,septiembre,jueves,(18:00 a 20:59),2875
+2016,marzo,miércoles,(00:00 a 02:59),2876
+2017,Febrero,Domingo,(00:00 a 02:59),2877
+2017,Junio,Lunes,(09:00 a 11:59),2878
+2017,Junio,Martes,(21:00 a 23:59),2879
+2017,Noviembre,Viernes,(06:00 a 08:59),2880
+2018,febrero,viernes,(03:00 a 05:59),2881
+2018,agosto,domingo,(09:00 a 11:59),2882
+2018,octubre,sábado,(21:00 a 23:59),2883
+2018,diciembre,lunes,(18:00 a 20:59),2884
+2019,diciembre,miércoles,(18:00 a 20:59),2885
+2020,enero,viernes,(18:00 a 20:59),2886
+2020,julio,miércoles,(15:00 a 17:59),2887
+2021,octubre,sábado,(18:00 a 20:59),2888
+2022,abril,miércoles,(15:00 a 17:59),2889
+2022,septiembre,domingo,(15:00 a 17:59),2890
+2023,mayo,lunes,(18:00 a 20:59),2891
+2023,junio,viernes,(09:00 a 11:59),2892
+2023,junio,jueves,(12:00 a 14:59),2893
+2024,Junio,Domingo,Sin información,2894
+2024,Septiembre,Sábado,Sin información,2895
+2015,Julio,viernes,(12:00 a 14:59),2896
+2016,enero,miércoles,(12:00 a 14:59),2897
+2016,marzo,miércoles,(12:00 a 14:59),2898
+2017,Marzo,Viernes,(18:00 a 20:59),2899
+2017,Mayo,Miércoles,(18:00 a 20:59),2900
+2017,Junio,Jueves,Sin información,2901
+2017,Octubre,Viernes,(09:00 a 11:59),2902
+2018,marzo,viernes,(00:00 a 02:59),2903
+2018,junio,lunes,Sin información,2904
+2019,mayo,miércoles,(09:00 a 11:59),2905
+2019,julio,sábado,(12:00 a 14:59),2906
+2022,septiembre,jueves,(21:00 a 23:59),2907
+2022,noviembre,domingo,(18:00 a 20:59),2908
+2023,enero,miércoles,(12:00 a 14:59),2909
+2023,mayo,domingo,(00:00 a 02:59),2910
+2024,Enero,Viernes,(21:00 a 23:59),2911
+2024,Abril,Martes,(15:00 a 17:59),2912
+2015,Febrero,miércoles,(15:00 a 17:59),2913
+2015,Enero,jueves,(15:00 a 17:59),2914
+2015,Febrero,viernes,(09:00 a 11:59),2915
+2016,septiembre,lunes,Sin información,2916
+2017,Junio,Miércoles,Sin información,2917
+2017,Noviembre,Domingo,(00:00 a 02:59),2918
+2018,julio,domingo,(09:00 a 11:59),2919
+2019,enero,sábado,Sin información,2920
+2019,abril,sábado,Sin información,2921
+2019,noviembre,domingo,(15:00 a 17:59),2922
+2021,mayo,sábado,(15:00 a 17:59),2923
+2023,septiembre,martes,Sin información,2924
+2023,marzo,viernes,(12:00 a 14:59),2925
+2024,Mayo,Martes,Sin información,2926
+2024,Junio,Jueves,(09:00 a 11:59),2927
+2024,Abril,Martes,(12:00 a 14:59),2928
+2015,Abril,jueves,(18:00 a 20:59),2929
+2015,Agosto,lunes,(09:00 a 11:59),2930
+2015,Diciembre,martes,(03:00 a 05:59),2931
+2016,septiembre,sábado,(12:00 a 14:59),2932
+2016,noviembre,martes,(21:00 a 23:59),2933
+2016,diciembre,lunes,(21:00 a 23:59),2934
+2016,septiembre,lunes,(09:00 a 11:59),2935
+2017,Febrero,Domingo,(12:00 a 14:59),2936
+2017,Abril,Domingo,(18:00 a 20:59),2937
+2017,Junio,Domingo,(18:00 a 20:59),2938
+2018,marzo,viernes,Sin información,2939
+2018,abril,miércoles,(12:00 a 14:59),2940
+2019,febrero,lunes,Sin información,2941
+2019,agosto,jueves,Sin información,2942
+2020,febrero,jueves,(18:00 a 20:59),2943
+2021,diciembre,lunes,(21:00 a 23:59),2944
+2022,abril,domingo,(00:00 a 02:59),2945
+2023,noviembre,lunes,Sin información,2946
+2023,febrero,domingo,(00:00 a 02:59),2947
+2015,Agosto,sábado,(21:00 a 23:59),2948
+2016,octubre,viernes,(18:00 a 20:59),2949
+2017,Marzo,Sábado,(06:00 a 08:59),2950
+2017,Marzo,Lunes,(09:00 a 11:59),2951
+2017,Julio,Martes,(12:00 a 14:59),2952
+2017,Septiembre,Martes,(18:00 a 20:59),2953
+2017,Octubre,Sábado,(09:00 a 11:59),2954
+2017,Octubre,Domingo,(12:00 a 14:59),2955
+2018,julio,martes,Sin información,2956
+2018,noviembre,sábado,(18:00 a 20:59),2957
+2019,julio,domingo,(09:00 a 11:59),2958
+2019,noviembre,lunes,(09:00 a 11:59),2959
+2021,mayo,jueves,(21:00 a 23:59),2960
+2022,diciembre,viernes,(06:00 a 08:59),2961
+2024,Diciembre,Viernes,(12:00 a 14:59),2962
+2015,Noviembre,viernes,(21:00 a 23:59),2963
+2015,Noviembre,viernes,Sin información,2964
+2015,Octubre,miércoles,(09:00 a 11:59),2965
+2016,junio,domingo,(12:00 a 14:59),2966
+2016,abril,jueves,Sin información,2967
+2017,Abril,Lunes,(12:00 a 14:59),2968
+2018,febrero,lunes,(06:00 a 08:59),2969
+2018,abril,jueves,(06:00 a 08:59),2970
+2018,octubre,martes,Sin información,2971
+2018,noviembre,lunes,Sin información,2972
+2019,febrero,lunes,(09:00 a 11:59),2973
+2019,febrero,viernes,(09:00 a 11:59),2974
+2019,julio,sábado,(21:00 a 23:59),2975
+2020,febrero,viernes,Sin información,2976
+2020,mayo,miércoles,(15:00 a 17:59),2977
+2021,marzo,sábado,(15:00 a 17:59),2978
+2021,diciembre,jueves,(06:00 a 08:59),2979
+2022,diciembre,lunes,(18:00 a 20:59),2980
+2022,enero,viernes,(21:00 a 23:59),2981
+2022,mayo,jueves,(03:00 a 05:59),2982
+2022,enero,sábado,(09:00 a 11:59),2983
+2024,Mayo,Jueves,(06:00 a 08:59),2984
+2024,Octubre,Viernes,(09:00 a 11:59),2985
+2015,Octubre,viernes,Sin información,2986
+2015,Mayo,domingo,(15:00 a 17:59),2987
+2015,Marzo,sábado,(09:00 a 11:59),2988
+2021,enero,domingo,Sin información,2989
+2022,julio,martes,(06:00 a 08:59),2990
+2023,septiembre,sábado,(21:00 a 23:59),2991
+2023,agosto,lunes,(21:00 a 23:59),2992
+2023,febrero,viernes,(21:00 a 23:59),2993
+2023,agosto,domingo,(21:00 a 23:59),2994
+2024,Febrero,Domingo,Sin información,2995
+2024,Agosto,Martes,(03:00 a 05:59),2996
+2016,junio,martes,(06:00 a 08:59),2997
+2016,mayo,lunes,(09:00 a 11:59),2998
+2017,Enero,Domingo,(21:00 a 23:59),2999
+2017,Julio,Sábado,(21:00 a 23:59),3000
+2017,Agosto,Viernes,(21:00 a 23:59),3001
+2017,Noviembre,Viernes,(18:00 a 20:59),3002
+2019,enero,viernes,(09:00 a 11:59),3003
+2019,marzo,martes,(06:00 a 08:59),3004
+2019,marzo,domingo,(03:00 a 05:59),3005
+2019,noviembre,miércoles,(18:00 a 20:59),3006
+2020,noviembre,martes,(21:00 a 23:59),3007
+2022,noviembre,sábado,(15:00 a 17:59),3008
+2024,Septiembre,Sábado,(09:00 a 11:59),3009
+2015,Junio,domingo,(21:00 a 23:59),3010
+2015,Septiembre,sábado,(18:00 a 20:59),3011
+2016,marzo,miércoles,(18:00 a 20:59),3012
+2016,julio,domingo,(03:00 a 05:59),3013
+2016,agosto,lunes,(00:00 a 02:59),3014
+2018,octubre,domingo,Sin información,3015
+2018,diciembre,sábado,(21:00 a 23:59),3016
+2018,diciembre,viernes,(06:00 a 08:59),3017
+2019,febrero,jueves,Sin información,3018
+2019,septiembre,martes,Sin información,3019
+2019,octubre,sábado,(18:00 a 20:59),3020
+2022,febrero,lunes,(18:00 a 20:59),3021
+2023,marzo,martes,(06:00 a 08:59),3022
+2024,Enero,Jueves,(15:00 a 17:59),3023
+2024,Agosto,Sábado,(21:00 a 23:59),3024
+2015,Octubre,miércoles,(15:00 a 17:59),3025
+2016,junio,domingo,(15:00 a 17:59),3026
+2016,noviembre,sábado,(12:00 a 14:59),3027
+2016,febrero,martes,(12:00 a 14:59),3028
+2016,mayo,martes,(06:00 a 08:59),3029
+2016,septiembre,domingo,(21:00 a 23:59),3030
+2017,Abril,Martes,(12:00 a 14:59),3031
+2017,Julio,Domingo,(15:00 a 17:59),3032
+2017,Agosto,Lunes,Sin información,3033
+2017,Octubre,Viernes,(06:00 a 08:59),3034
+2017,Octubre,Miércoles,Sin información,3035
+2017,Diciembre,Lunes,(06:00 a 08:59),3036
+2018,marzo,jueves,(18:00 a 20:59),3037
+2018,julio,miércoles,(18:00 a 20:59),3038
+2018,julio,jueves,Sin información,3039
+2018,julio,lunes,(06:00 a 08:59),3040
+2018,noviembre,sábado,(06:00 a 08:59),3041
+2018,diciembre,viernes,(12:00 a 14:59),3042
+2020,marzo,jueves,(18:00 a 20:59),3043
+2020,agosto,domingo,(21:00 a 23:59),3044
+2021,octubre,viernes,(18:00 a 20:59),3045
+2021,octubre,viernes,(12:00 a 14:59),3046
+2022,enero,jueves,(06:00 a 08:59),3047
+2022,marzo,domingo,(12:00 a 14:59),3048
+2024,Junio,Miércoles,(18:00 a 20:59),3049
+2024,Marzo,Jueves,Sin información,3050
+2024,Mayo,Miércoles,(21:00 a 23:59),3051
+2015,Noviembre,miércoles,(21:00 a 23:59),3052
+2015,Abril,sábado,(12:00 a 14:59),3053
+2015,Enero,jueves,(21:00 a 23:59),3054
+2015,Junio,viernes,(06:00 a 08:59),3055
+2016,mayo,martes,(15:00 a 17:59),3056
+2016,octubre,miércoles,Sin información,3057
+2017,Octubre,Martes,(21:00 a 23:59),3058
+2017,Diciembre,Miércoles,(15:00 a 17:59),3059
+2018,marzo,lunes,(09:00 a 11:59),3060
+2018,mayo,sábado,(12:00 a 14:59),3061
+2018,julio,domingo,(18:00 a 20:59),3062
+2018,noviembre,lunes,(06:00 a 08:59),3063
+2019,enero,lunes,(06:00 a 08:59),3064
+2019,enero,domingo,Sin información,3065
+2019,noviembre,sábado,Sin información,3066
+2020,junio,domingo,Sin información,3067
+2020,septiembre,domingo,(18:00 a 20:59),3068
+2021,septiembre,sábado,(03:00 a 05:59),3069
+2021,julio,miércoles,(15:00 a 17:59),3070
+2021,marzo,miércoles,(06:00 a 08:59),3071
+2022,agosto,martes,(18:00 a 20:59),3072
+2022,diciembre,viernes,(21:00 a 23:59),3073
+2023,mayo,miércoles,(21:00 a 23:59),3074
+2015,Abril,martes,(18:00 a 20:59),3075
+2016,diciembre,lunes,(12:00 a 14:59),3076
+2016,septiembre,martes,(18:00 a 20:59),3077
+2016,noviembre,domingo,(21:00 a 23:59),3078
+2017,Junio,Sábado,(21:00 a 23:59),3079
+2017,Octubre,Lunes,(18:00 a 20:59),3080
+2017,Diciembre,Martes,Sin información,3081
+2018,febrero,lunes,(18:00 a 20:59),3082
+2018,junio,domingo,(18:00 a 20:59),3083
+2018,agosto,viernes,(09:00 a 11:59),3084
+2018,septiembre,miércoles,(18:00 a 20:59),3085
+2018,noviembre,miércoles,(12:00 a 14:59),3086
+2019,agosto,martes,Sin información,3087
+2019,diciembre,martes,(18:00 a 20:59),3088
+2020,marzo,martes,(09:00 a 11:59),3089
+2020,noviembre,martes,(15:00 a 17:59),3090
+2021,febrero,miércoles,(21:00 a 23:59),3091
+2021,junio,domingo,(15:00 a 17:59),3092
+2021,octubre,lunes,(18:00 a 20:59),3093
+2022,mayo,miércoles,(06:00 a 08:59),3094
+2022,marzo,viernes,(21:00 a 23:59),3095
+2022,abril,domingo,Sin información,3096
+2023,octubre,viernes,(12:00 a 14:59),3097
+2023,diciembre,martes,(09:00 a 11:59),3098
+2023,abril,lunes,(21:00 a 23:59),3099
+2023,noviembre,jueves,(06:00 a 08:59),3100
+2024,Marzo,Domingo,(12:00 a 14:59),3101
+2024,Septiembre,Martes,(09:00 a 11:59),3102
+2024,Abril,Domingo,(12:00 a 14:59),3103
+2024,Mayo,Jueves,(12:00 a 14:59),3104
+2015,Diciembre,viernes,(00:00 a 02:59),3105
+2017,Enero,Lunes,(00:00 a 02:59),3106
+2017,Junio,Lunes,(15:00 a 17:59),3107
+2017,Septiembre,Sábado,(00:00 a 02:59),3108
+2019,febrero,sábado,(09:00 a 11:59),3109
+2019,junio,sábado,(18:00 a 20:59),3110
+2020,febrero,domingo,Sin información,3111
+2021,junio,viernes,(06:00 a 08:59),3112
+2021,enero,sábado,(09:00 a 11:59),3113
+2021,noviembre,martes,Sin información,3114
+2023,junio,miércoles,(09:00 a 11:59),3115
+2023,octubre,jueves,(06:00 a 08:59),3116
+2023,octubre,jueves,Sin información,3117
+2015,Agosto,domingo,(21:00 a 23:59),3118
+2015,Mayo,jueves,Sin información,3119
+2016,septiembre,viernes,Sin información,3120
+2016,agosto,viernes,(18:00 a 20:59),3121
+2016,septiembre,sábado,(15:00 a 17:59),3122
+2017,Abril,Miércoles,(00:00 a 02:59),3123
+2018,diciembre,jueves,(15:00 a 17:59),3124
+2019,noviembre,domingo,(12:00 a 14:59),3125
+2019,noviembre,sábado,(09:00 a 11:59),3126
+2020,marzo,domingo,(21:00 a 23:59),3127
+2020,mayo,viernes,(18:00 a 20:59),3128
+2021,septiembre,jueves,Sin información,3129
+2021,julio,lunes,(00:00 a 02:59),3130
+2021,junio,sábado,(21:00 a 23:59),3131
+2021,febrero,martes,(21:00 a 23:59),3132
+2021,julio,viernes,(06:00 a 08:59),3133
+2023,julio,jueves,(18:00 a 20:59),3134
+2015,Septiembre,lunes,(06:00 a 08:59),3135
+2015,Febrero,martes,(18:00 a 20:59),3136
+2015,Julio,lunes,(09:00 a 11:59),3137
+2016,abril,sábado,(21:00 a 23:59),3138
+2016,marzo,viernes,(06:00 a 08:59),3139
+2016,julio,viernes,(12:00 a 14:59),3140
+2016,abril,viernes,(06:00 a 08:59),3141
+2017,Marzo,Lunes,(06:00 a 08:59),3142
+2017,Noviembre,Martes,(18:00 a 20:59),3143
+2017,Noviembre,Miércoles,(12:00 a 14:59),3144
+2018,septiembre,sábado,(21:00 a 23:59),3145
+2019,enero,viernes,(15:00 a 17:59),3146
+2019,junio,lunes,(09:00 a 11:59),3147
+2019,septiembre,lunes,(06:00 a 08:59),3148
+2019,noviembre,sábado,(12:00 a 14:59),3149
+2020,febrero,domingo,(03:00 a 05:59),3150
+2020,octubre,martes,(06:00 a 08:59),3151
+2021,octubre,lunes,(00:00 a 02:59),3152
+2021,octubre,domingo,(09:00 a 11:59),3153
+2022,octubre,miércoles,(12:00 a 14:59),3154
+2016,julio,domingo,(15:00 a 17:59),3155
+2017,Marzo,Domingo,(12:00 a 14:59),3156
+2017,Abril,Miércoles,(18:00 a 20:59),3157
+2018,mayo,martes,Sin información,3158
+2018,julio,martes,(03:00 a 05:59),3159
+2018,agosto,miércoles,(18:00 a 20:59),3160
+2019,enero,martes,(09:00 a 11:59),3161
+2019,enero,martes,(21:00 a 23:59),3162
+2019,febrero,jueves,(09:00 a 11:59),3163
+2019,octubre,domingo,(21:00 a 23:59),3164
+2020,febrero,lunes,(18:00 a 20:59),3165
+2020,marzo,domingo,(09:00 a 11:59),3166
+2020,junio,lunes,(09:00 a 11:59),3167
+2021,diciembre,martes,(09:00 a 11:59),3168
+2021,diciembre,jueves,(09:00 a 11:59),3169
+2022,julio,domingo,(03:00 a 05:59),3170
+2022,enero,miércoles,(18:00 a 20:59),3171
+2022,junio,jueves,(06:00 a 08:59),3172
+2023,julio,miércoles,Sin información,3173
+2023,octubre,viernes,(00:00 a 02:59),3174
+2023,agosto,domingo,(15:00 a 17:59),3175
+2024,Junio,Viernes,(15:00 a 17:59),3176
+2024,Abril,Sábado,(21:00 a 23:59),3177
+2024,Diciembre,Lunes,(15:00 a 17:59),3178
+2024,Noviembre,Miércoles,Sin información,3179
+2015,Enero,jueves,(09:00 a 11:59),3180
+2016,abril,martes,(06:00 a 08:59),3181
+2016,octubre,domingo,(21:00 a 23:59),3182
+2017,Abril,Sábado,(09:00 a 11:59),3183
+2017,Noviembre,Martes,Sin información,3184
+2017,Diciembre,Martes,(06:00 a 08:59),3185
+2018,febrero,jueves,(03:00 a 05:59),3186
+2018,agosto,domingo,(18:00 a 20:59),3187
+2019,junio,jueves,(18:00 a 20:59),3188
+2020,julio,sábado,(09:00 a 11:59),3189
+2020,agosto,jueves,(21:00 a 23:59),3190
+2020,noviembre,sábado,(15:00 a 17:59),3191
+2021,mayo,lunes,(00:00 a 02:59),3192
+2021,enero,martes,Sin información,3193
+2021,septiembre,miércoles,(21:00 a 23:59),3194
+2021,enero,jueves,(15:00 a 17:59),3195
+2021,diciembre,sábado,(03:00 a 05:59),3196
+2022,mayo,viernes,(06:00 a 08:59),3197
+2023,febrero,sábado,Sin información,3198
+2023,julio,miércoles,(12:00 a 14:59),3199
+2023,mayo,viernes,(21:00 a 23:59),3200
+2024,Enero,Sábado,(15:00 a 17:59),3201
+2015,Enero,jueves,(18:00 a 20:59),3202
+2015,Noviembre,martes,(09:00 a 11:59),3203
+2015,Diciembre,martes,(09:00 a 11:59),3204
+2017,Enero,Domingo,(15:00 a 17:59),3205
+2017,Junio,Jueves,(09:00 a 11:59),3206
+2017,Diciembre,Miércoles,(12:00 a 14:59),3207
+2018,agosto,miércoles,Sin información,3208
+2018,septiembre,viernes,(15:00 a 17:59),3209
+2018,septiembre,miércoles,Sin información,3210
+2019,febrero,viernes,(15:00 a 17:59),3211
+2019,marzo,jueves,(06:00 a 08:59),3212
+2019,mayo,lunes,Sin información,3213
+2019,julio,lunes,(09:00 a 11:59),3214
+2019,agosto,lunes,Sin información,3215
+2020,enero,domingo,(15:00 a 17:59),3216
+2021,diciembre,sábado,(00:00 a 02:59),3217
+2022,diciembre,sábado,(21:00 a 23:59),3218
+2023,junio,lunes,(18:00 a 20:59),3219
+2023,julio,lunes,(12:00 a 14:59),3220
+2024,Enero,Miércoles,(15:00 a 17:59),3221
+2024,Julio,Viernes,(12:00 a 14:59),3222
+2024,Marzo,Martes,(18:00 a 20:59),3223
+2015,Agosto,martes,(21:00 a 23:59),3224
+2015,Octubre,viernes,(12:00 a 14:59),3225
+2016,agosto,jueves,(09:00 a 11:59),3226
+2016,marzo,domingo,(03:00 a 05:59),3227
+2016,enero,domingo,(21:00 a 23:59),3228
+2016,diciembre,viernes,(18:00 a 20:59),3229
+2017,Marzo,Domingo,(18:00 a 20:59),3230
+2017,Julio,Jueves,(21:00 a 23:59),3231
+2018,mayo,lunes,(12:00 a 14:59),3232
+2018,mayo,domingo,(09:00 a 11:59),3233
+2020,junio,martes,(15:00 a 17:59),3234
+2021,febrero,domingo,(21:00 a 23:59),3235
+2022,marzo,miércoles,(15:00 a 17:59),3236
+2022,julio,viernes,(06:00 a 08:59),3237
+2024,Noviembre,Sábado,(09:00 a 11:59),3238
+2024,Abril,Domingo,Sin información,3239
+2015,Septiembre,lunes,(18:00 a 20:59),3240
+2015,Marzo,viernes,(18:00 a 20:59),3241
+2015,Marzo,sábado,(00:00 a 02:59),3242
+2015,Marzo,lunes,(15:00 a 17:59),3243
+2016,febrero,domingo,(15:00 a 17:59),3244
+2016,marzo,viernes,(15:00 a 17:59),3245
+2016,septiembre,domingo,(15:00 a 17:59),3246
+2016,mayo,domingo,(03:00 a 05:59),3247
+2016,febrero,lunes,(18:00 a 20:59),3248
+2017,Febrero,Martes,Sin información,3249
+2017,Marzo,Viernes,(15:00 a 17:59),3250
+2017,Mayo,Lunes,(15:00 a 17:59),3251
+2017,Octubre,Martes,(06:00 a 08:59),3252
+2018,agosto,sábado,(21:00 a 23:59),3253
+2018,agosto,jueves,(18:00 a 20:59),3254
+2019,enero,martes,(00:00 a 02:59),3255
+2019,abril,lunes,Sin información,3256
+2019,abril,martes,(18:00 a 20:59),3257
+2019,mayo,lunes,(15:00 a 17:59),3258
+2019,julio,sábado,(15:00 a 17:59),3259
+2019,noviembre,martes,(09:00 a 11:59),3260
+2020,abril,miércoles,(18:00 a 20:59),3261
+2021,abril,martes,Sin información,3262
+2021,mayo,domingo,(15:00 a 17:59),3263
+2021,octubre,jueves,(12:00 a 14:59),3264
+2022,septiembre,viernes,Sin información,3265
+2022,agosto,martes,(21:00 a 23:59),3266
+2023,enero,lunes,(06:00 a 08:59),3267
+2023,enero,domingo,Sin información,3268
+2024,Abril,Viernes,Sin información,3269
+2024,Abril,Domingo,(06:00 a 08:59),3270
+2015,Abril,miércoles,(18:00 a 20:59),3271
+2015,Noviembre,martes,(15:00 a 17:59),3272
+2015,Enero,martes,(06:00 a 08:59),3273
+2015,Noviembre,sábado,(06:00 a 08:59),3274
+2016,julio,lunes,Sin información,3275
+2017,Marzo,Viernes,(21:00 a 23:59),3276
+2017,Noviembre,Jueves,(06:00 a 08:59),3277
+2017,Diciembre,Domingo,(00:00 a 02:59),3278
+2018,enero,sábado,(21:00 a 23:59),3279
+2018,marzo,miércoles,(21:00 a 23:59),3280
+2019,enero,lunes,(18:00 a 20:59),3281
+2019,agosto,viernes,Sin información,3282
+2021,junio,jueves,(18:00 a 20:59),3283
+2022,agosto,domingo,(09:00 a 11:59),3284
+2022,julio,domingo,(15:00 a 17:59),3285
+2023,marzo,domingo,(21:00 a 23:59),3286
+2023,diciembre,miércoles,(00:00 a 02:59),3287
+2015,Julio,miércoles,(18:00 a 20:59),3288
+2015,Octubre,viernes,(06:00 a 08:59),3289
+2016,octubre,sábado,(09:00 a 11:59),3290
+2016,marzo,viernes,(12:00 a 14:59),3291
+2017,Septiembre,Viernes,(18:00 a 20:59),3292
+2017,Diciembre,Viernes,(09:00 a 11:59),3293
+2018,enero,viernes,Sin información,3294
+2018,agosto,sábado,(18:00 a 20:59),3295
+2018,agosto,jueves,(21:00 a 23:59),3296
+2018,noviembre,lunes,(12:00 a 14:59),3297
+2018,noviembre,miércoles,(15:00 a 17:59),3298
+2019,enero,lunes,Sin información,3299
+2019,marzo,martes,(18:00 a 20:59),3300
+2019,marzo,martes,(21:00 a 23:59),3301
+2020,junio,viernes,(12:00 a 14:59),3302
+2021,octubre,martes,Sin información,3303
+2022,marzo,sábado,(15:00 a 17:59),3304
+2023,marzo,martes,(09:00 a 11:59),3305
+2023,septiembre,jueves,(06:00 a 08:59),3306
+2024,Febrero,Viernes,(12:00 a 14:59),3307
+2024,Junio,Jueves,(12:00 a 14:59),3308
+2024,Noviembre,Miércoles,(18:00 a 20:59),3309
+2015,Julio,martes,(15:00 a 17:59),3310
+2015,Enero,domingo,(15:00 a 17:59),3311
+2017,Febrero,Miércoles,(09:00 a 11:59),3312
+2017,Marzo,Domingo,(21:00 a 23:59),3313
+2017,Noviembre,Miércoles,Sin información,3314
+2018,abril,martes,(15:00 a 17:59),3315
+2019,febrero,lunes,(00:00 a 02:59),3316
+2019,marzo,miércoles,(12:00 a 14:59),3317
+2019,junio,jueves,Sin información,3318
+2020,mayo,viernes,(09:00 a 11:59),3319
+2022,marzo,domingo,Sin información,3320
+2022,enero,domingo,(21:00 a 23:59),3321
+2023,julio,martes,Sin información,3322
+2015,Octubre,domingo,(18:00 a 20:59),3323
+2015,Octubre,viernes,(09:00 a 11:59),3324
+2016,julio,miércoles,Sin información,3325
+2016,agosto,domingo,(15:00 a 17:59),3326
+2017,Septiembre,Miércoles,(15:00 a 17:59),3327
+2018,octubre,jueves,(18:00 a 20:59),3328
+2019,junio,martes,(12:00 a 14:59),3329
+2019,junio,lunes,Sin información,3330
+2019,julio,jueves,(18:00 a 20:59),3331
+2019,agosto,sábado,(15:00 a 17:59),3332
+2019,octubre,jueves,(09:00 a 11:59),3333
+2019,octubre,jueves,(06:00 a 08:59),3334
+2020,noviembre,martes,(18:00 a 20:59),3335
+2021,julio,sábado,(12:00 a 14:59),3336
+2022,agosto,miércoles,(18:00 a 20:59),3337
+2022,septiembre,sábado,Sin información,3338
+2022,enero,jueves,(00:00 a 02:59),3339
+2022,septiembre,sábado,(06:00 a 08:59),3340
+2023,noviembre,domingo,(00:00 a 02:59),3341
+2023,abril,miércoles,(09:00 a 11:59),3342
+2023,mayo,domingo,(18:00 a 20:59),3343
+2024,Abril,Miércoles,Sin información,3344
+2024,Enero,Miércoles,(00:00 a 02:59),3345
+2015,Agosto,domingo,(18:00 a 20:59),3346
+2016,julio,sábado,(21:00 a 23:59),3347
+2017,Febrero,Sábado,(09:00 a 11:59),3348
+2018,octubre,miércoles,(06:00 a 08:59),3349
+2019,mayo,lunes,(00:00 a 02:59),3350
+2020,julio,miércoles,(06:00 a 08:59),3351
+2021,julio,sábado,(06:00 a 08:59),3352
+2021,junio,miércoles,(12:00 a 14:59),3353
+2023,mayo,miércoles,Sin información,3354
+2023,mayo,lunes,(06:00 a 08:59),3355
+2023,febrero,lunes,(21:00 a 23:59),3356
+2023,agosto,martes,(12:00 a 14:59),3357
+2017,Enero,Lunes,(21:00 a 23:59),3358
+2017,Agosto,Miércoles,(06:00 a 08:59),3359
+2018,enero,domingo,(09:00 a 11:59),3360
+2018,mayo,viernes,(06:00 a 08:59),3361
+2018,mayo,miércoles,(12:00 a 14:59),3362
+2019,abril,lunes,(09:00 a 11:59),3363
+2019,abril,domingo,(09:00 a 11:59),3364
+2019,diciembre,viernes,(15:00 a 17:59),3365
+2020,junio,domingo,(15:00 a 17:59),3366
+2021,enero,miércoles,(12:00 a 14:59),3367
+2021,marzo,lunes,(09:00 a 11:59),3368
+2022,abril,viernes,Sin información,3369
+2024,Enero,Miércoles,(18:00 a 20:59),3370
+2015,Diciembre,miércoles,(06:00 a 08:59),3371
+2015,Mayo,domingo,Sin información,3372
+2015,Enero,domingo,Sin información,3373
+2016,mayo,lunes,Sin información,3374
+2017,Marzo,Miércoles,Sin información,3375
+2017,Junio,Sábado,(15:00 a 17:59),3376
+2017,Diciembre,Miércoles,(09:00 a 11:59),3377
+2018,enero,sábado,(12:00 a 14:59),3378
+2019,julio,domingo,Sin información,3379
+2019,abril,miércoles,(12:00 a 14:59),3380
+2019,octubre,viernes,Sin información,3381
+2021,abril,viernes,(09:00 a 11:59),3382
+2022,mayo,domingo,(12:00 a 14:59),3383
+2022,diciembre,domingo,(09:00 a 11:59),3384
+2022,diciembre,jueves,(15:00 a 17:59),3385
+2022,marzo,miércoles,(18:00 a 20:59),3386
+2022,septiembre,lunes,(06:00 a 08:59),3387
+2023,enero,martes,(06:00 a 08:59),3388
+2015,Agosto,lunes,(18:00 a 20:59),3389
+2016,agosto,viernes,(21:00 a 23:59),3390
+2017,Enero,Domingo,(18:00 a 20:59),3391
+2017,Marzo,Martes,(15:00 a 17:59),3392
+2017,Septiembre,Lunes,(12:00 a 14:59),3393
+2017,Diciembre,Jueves,(12:00 a 14:59),3394
+2018,febrero,miércoles,(09:00 a 11:59),3395
+2018,marzo,martes,(09:00 a 11:59),3396
+2018,octubre,lunes,Sin información,3397
+2018,noviembre,martes,(18:00 a 20:59),3398
+2018,noviembre,viernes,(18:00 a 20:59),3399
+2018,diciembre,miércoles,(18:00 a 20:59),3400
+2019,junio,jueves,(12:00 a 14:59),3401
+2019,julio,jueves,(03:00 a 05:59),3402
+2019,octubre,lunes,Sin información,3403
+2023,febrero,martes,Sin información,3404
+2023,julio,viernes,(15:00 a 17:59),3405
+2024,Marzo,Sábado,(15:00 a 17:59),3406
+2024,Octubre,Lunes,Sin información,3407
+2024,Marzo,Miércoles,(12:00 a 14:59),3408
+2024,Mayo,Viernes,(00:00 a 02:59),3409
+2015,Noviembre,sábado,(09:00 a 11:59),3410
+2015,Mayo,domingo,(18:00 a 20:59),3411
+2016,octubre,martes,(09:00 a 11:59),3412
+2016,noviembre,domingo,(15:00 a 17:59),3413
+2016,octubre,martes,(12:00 a 14:59),3414
+2016,junio,viernes,(21:00 a 23:59),3415
+2017,Abril,Martes,Sin información,3416
+2017,Abril,Domingo,(21:00 a 23:59),3417
+2017,Septiembre,Miércoles,(09:00 a 11:59),3418
+2018,marzo,sábado,(21:00 a 23:59),3419
+2018,mayo,domingo,Sin información,3420
+2018,agosto,martes,(09:00 a 11:59),3421
+2018,noviembre,miércoles,(09:00 a 11:59),3422
+2020,junio,miércoles,(12:00 a 14:59),3423
+2021,septiembre,domingo,(09:00 a 11:59),3424
+2021,julio,lunes,(15:00 a 17:59),3425
+2021,enero,domingo,(06:00 a 08:59),3426
+2022,noviembre,miércoles,(09:00 a 11:59),3427
+2022,noviembre,martes,(09:00 a 11:59),3428
+2022,enero,martes,(18:00 a 20:59),3429
+2022,junio,domingo,(09:00 a 11:59),3430
+2023,noviembre,lunes,(00:00 a 02:59),3431
+2015,Marzo,domingo,(06:00 a 08:59),3432
+2015,Julio,martes,(09:00 a 11:59),3433
+2015,Noviembre,miércoles,(09:00 a 11:59),3434
+2015,Octubre,jueves,(18:00 a 20:59),3435
+2016,septiembre,martes,Sin información,3436
+2016,junio,miércoles,(12:00 a 14:59),3437
+2016,agosto,martes,(15:00 a 17:59),3438
+2016,julio,miércoles,(21:00 a 23:59),3439
+2016,mayo,miércoles,(21:00 a 23:59),3440
+2017,Agosto,Sábado,(15:00 a 17:59),3441
+2017,Octubre,Jueves,Sin información,3442
+2017,Diciembre,Miércoles,(18:00 a 20:59),3443
+2018,febrero,miércoles,(06:00 a 08:59),3444
+2018,marzo,sábado,(12:00 a 14:59),3445
+2018,agosto,jueves,(12:00 a 14:59),3446
+2018,agosto,martes,(12:00 a 14:59),3447
+2018,diciembre,viernes,(15:00 a 17:59),3448
+2018,diciembre,domingo,(12:00 a 14:59),3449
+2019,enero,domingo,(09:00 a 11:59),3450
+2020,enero,jueves,(18:00 a 20:59),3451
+2020,marzo,martes,Sin información,3452
+2020,abril,jueves,(09:00 a 11:59),3453
+2022,abril,sábado,(15:00 a 17:59),3454
+2022,abril,lunes,(18:00 a 20:59),3455
+2023,mayo,jueves,Sin información,3456
+2023,octubre,domingo,Sin información,3457
+2023,noviembre,jueves,(15:00 a 17:59),3458
+2024,Marzo,Viernes,Sin información,3459
+2024,Julio,Domingo,(12:00 a 14:59),3460
+2024,Septiembre,Martes,(06:00 a 08:59),3461
+2015,Junio,miércoles,(09:00 a 11:59),3462
+2016,noviembre,miércoles,(12:00 a 14:59),3463
+2016,julio,domingo,(18:00 a 20:59),3464
+2016,abril,miércoles,Sin información,3465
+2017,Agosto,Sábado,(18:00 a 20:59),3466
+2018,enero,lunes,(03:00 a 05:59),3467
+2018,octubre,jueves,(15:00 a 17:59),3468
+2019,septiembre,domingo,(18:00 a 20:59),3469
+2020,noviembre,martes,(09:00 a 11:59),3470
+2021,julio,viernes,(09:00 a 11:59),3471
+2021,mayo,lunes,(21:00 a 23:59),3472
+2021,agosto,domingo,(15:00 a 17:59),3473
+2021,diciembre,miércoles,(21:00 a 23:59),3474
+2022,enero,jueves,Sin información,3475
+2022,abril,domingo,(21:00 a 23:59),3476
+2022,septiembre,sábado,(12:00 a 14:59),3477
+2022,septiembre,lunes,Sin información,3478
+2023,junio,miércoles,Sin información,3479
+2023,febrero,miércoles,(12:00 a 14:59),3480
+2023,enero,miércoles,(09:00 a 11:59),3481
+2023,diciembre,lunes,Sin información,3482
+2024,Enero,Domingo,(12:00 a 14:59),3483
+2015,Marzo,sábado,Sin información,3484
+2015,Agosto,lunes,Sin información,3485
+2015,Junio,martes,(21:00 a 23:59),3486
+2015,Febrero,viernes,(12:00 a 14:59),3487
+2016,noviembre,lunes,Sin información,3488
+2016,septiembre,viernes,(12:00 a 14:59),3489
+2017,Marzo,Miércoles,(12:00 a 14:59),3490
+2017,Julio,Jueves,(03:00 a 05:59),3491
+2017,Septiembre,Domingo,(12:00 a 14:59),3492
+2017,Octubre,Domingo,(18:00 a 20:59),3493
+2018,febrero,viernes,(18:00 a 20:59),3494
+2018,abril,martes,(09:00 a 11:59),3495
+2018,julio,viernes,(15:00 a 17:59),3496
+2019,marzo,lunes,(18:00 a 20:59),3497
+2019,marzo,domingo,(21:00 a 23:59),3498
+2020,mayo,martes,(21:00 a 23:59),3499
+2020,diciembre,martes,(21:00 a 23:59),3500
+2021,marzo,martes,(09:00 a 11:59),3501
+2021,noviembre,sábado,(09:00 a 11:59),3502
+2021,octubre,viernes,(15:00 a 17:59),3503
+2022,noviembre,viernes,(18:00 a 20:59),3504
+2022,junio,lunes,(06:00 a 08:59),3505
+2022,diciembre,jueves,(18:00 a 20:59),3506
+2022,agosto,domingo,(12:00 a 14:59),3507
+2023,agosto,viernes,(18:00 a 20:59),3508
+2023,septiembre,domingo,(21:00 a 23:59),3509
+2024,Febrero,Viernes,(15:00 a 17:59),3510
+2024,Mayo,Martes,(00:00 a 02:59),3511
+2024,Mayo,Lunes,Sin información,3512
+2015,Octubre,domingo,(21:00 a 23:59),3513
+2016,junio,viernes,(15:00 a 17:59),3514
+2016,febrero,sábado,(18:00 a 20:59),3515
+2016,enero,domingo,(09:00 a 11:59),3516
+2017,Abril,Miércoles,(12:00 a 14:59),3517
+2017,Agosto,Martes,(15:00 a 17:59),3518
+2017,Noviembre,Miércoles,(18:00 a 20:59),3519
+2018,marzo,jueves,(21:00 a 23:59),3520
+2018,noviembre,jueves,Sin información,3521
+2019,febrero,miércoles,(21:00 a 23:59),3522
+2019,marzo,miércoles,(21:00 a 23:59),3523
+2019,julio,martes,Sin información,3524
+2019,octubre,sábado,(09:00 a 11:59),3525
+2020,junio,domingo,(21:00 a 23:59),3526
+2020,diciembre,miércoles,(21:00 a 23:59),3527
+2021,abril,miércoles,Sin información,3528
+2022,noviembre,domingo,Sin información,3529
+2022,enero,viernes,(18:00 a 20:59),3530
+2023,diciembre,lunes,(00:00 a 02:59),3531
+2024,Junio,Sábado,(12:00 a 14:59),3532
+2015,Septiembre,jueves,Sin información,3533
+2016,septiembre,miércoles,Sin información,3534
+2016,agosto,lunes,(09:00 a 11:59),3535
+2017,Mayo,Martes,(21:00 a 23:59),3536
+2017,Junio,Martes,(18:00 a 20:59),3537
+2017,Noviembre,Jueves,(21:00 a 23:59),3538
+2018,febrero,sábado,(15:00 a 17:59),3539
+2018,abril,martes,(06:00 a 08:59),3540
+2018,octubre,sábado,(18:00 a 20:59),3541
+2018,noviembre,domingo,Sin información,3542
+2019,febrero,lunes,(15:00 a 17:59),3543
+2019,febrero,sábado,(21:00 a 23:59),3544
+2019,septiembre,sábado,Sin información,3545
+2019,octubre,martes,(00:00 a 02:59),3546
+2019,diciembre,domingo,(06:00 a 08:59),3547
+2020,febrero,martes,(21:00 a 23:59),3548
+2022,agosto,sábado,(06:00 a 08:59),3549
+2024,Septiembre,Miércoles,(09:00 a 11:59),3550
+2024,Febrero,Domingo,(00:00 a 02:59),3551
+2015,Enero,jueves,Sin información,3552
+2016,abril,martes,(15:00 a 17:59),3553
+2016,abril,sábado,(09:00 a 11:59),3554
+2017,Septiembre,Lunes,(21:00 a 23:59),3555
+2018,marzo,domingo,(12:00 a 14:59),3556
+2018,abril,jueves,(09:00 a 11:59),3557
+2018,mayo,viernes,(21:00 a 23:59),3558
+2018,octubre,sábado,(09:00 a 11:59),3559
+2019,agosto,sábado,Sin información,3560
+2019,diciembre,jueves,Sin información,3561
+2020,octubre,lunes,(18:00 a 20:59),3562
+2021,febrero,miércoles,Sin información,3563
+2021,septiembre,sábado,(18:00 a 20:59),3564
+2022,abril,jueves,(09:00 a 11:59),3565
+2022,diciembre,viernes,(12:00 a 14:59),3566
+2023,noviembre,jueves,(18:00 a 20:59),3567
+2024,Octubre,Martes,Sin información,3568
+2024,Noviembre,Jueves,Sin información,3569
+2024,Diciembre,Miércoles,(03:00 a 05:59),3570
+2024,Agosto,Viernes,(18:00 a 20:59),3571
+2015,Noviembre,lunes,(18:00 a 20:59),3572
+2015,Marzo,jueves,(21:00 a 23:59),3573
+2016,diciembre,miércoles,(09:00 a 11:59),3574
+2016,marzo,domingo,(00:00 a 02:59),3575
+2017,Mayo,Viernes,Sin información,3576
+2017,Septiembre,Jueves,(09:00 a 11:59),3577
+2017,Noviembre,Jueves,(09:00 a 11:59),3578
+2017,Diciembre,Domingo,(06:00 a 08:59),3579
+2018,abril,sábado,(21:00 a 23:59),3580
+2018,junio,domingo,(15:00 a 17:59),3581
+2018,julio,domingo,(00:00 a 02:59),3582
+2019,septiembre,lunes,(09:00 a 11:59),3583
+2019,noviembre,viernes,(15:00 a 17:59),3584
+2020,agosto,lunes,(12:00 a 14:59),3585
+2021,marzo,lunes,(12:00 a 14:59),3586
+2021,febrero,martes,(12:00 a 14:59),3587
+2021,diciembre,martes,(21:00 a 23:59),3588
+2022,agosto,lunes,(15:00 a 17:59),3589
+2022,octubre,sábado,(03:00 a 05:59),3590
+2022,diciembre,domingo,(15:00 a 17:59),3591
+2022,febrero,miércoles,(15:00 a 17:59),3592
+2023,enero,lunes,(15:00 a 17:59),3593
+2023,febrero,martes,(18:00 a 20:59),3594
+2023,julio,jueves,(03:00 a 05:59),3595
+2023,noviembre,miércoles,(12:00 a 14:59),3596
+2024,Diciembre,Sábado,(15:00 a 17:59),3597
+2015,Enero,sábado,(15:00 a 17:59),3598
+2016,febrero,miércoles,(18:00 a 20:59),3599
+2016,julio,jueves,(06:00 a 08:59),3600
+2016,junio,domingo,Sin información,3601
+2017,Abril,Domingo,(09:00 a 11:59),3602
+2018,junio,viernes,(18:00 a 20:59),3603
+2018,agosto,lunes,(09:00 a 11:59),3604
+2018,septiembre,lunes,Sin información,3605
+2019,enero,sábado,(15:00 a 17:59),3606
+2020,mayo,miércoles,(09:00 a 11:59),3607
+2020,septiembre,miércoles,(18:00 a 20:59),3608
+2022,septiembre,miércoles,(12:00 a 14:59),3609
+2023,mayo,domingo,(21:00 a 23:59),3610
+2023,enero,miércoles,(06:00 a 08:59),3611
+2024,Septiembre,Miércoles,(15:00 a 17:59),3612
+2024,Abril,Jueves,(21:00 a 23:59),3613
+2024,Abril,Viernes,(09:00 a 11:59),3614
+2024,Octubre,Jueves,(21:00 a 23:59),3615
+2015,Mayo,lunes,(06:00 a 08:59),3616
+2015,Marzo,domingo,(00:00 a 02:59),3617
+2016,mayo,viernes,(12:00 a 14:59),3618
+2016,marzo,miércoles,Sin información,3619
+2017,Abril,Viernes,(09:00 a 11:59),3620
+2018,marzo,domingo,(03:00 a 05:59),3621
+2019,enero,martes,(12:00 a 14:59),3622
+2019,junio,jueves,(15:00 a 17:59),3623
+2021,diciembre,martes,(15:00 a 17:59),3624
+2022,abril,domingo,(12:00 a 14:59),3625
+2022,julio,miércoles,(12:00 a 14:59),3626
+2022,enero,miércoles,(21:00 a 23:59),3627
+2022,mayo,martes,(21:00 a 23:59),3628
+2023,abril,lunes,Sin información,3629
+2024,Diciembre,Jueves,(03:00 a 05:59),3630
+2024,Abril,Lunes,(12:00 a 14:59),3631
+2024,Junio,Jueves,(06:00 a 08:59),3632
+2024,Julio,Jueves,(18:00 a 20:59),3633
+2024,Febrero,Viernes,(21:00 a 23:59),3634
+2015,Septiembre,martes,(09:00 a 11:59),3635
+2016,junio,lunes,(00:00 a 02:59),3636
+2016,septiembre,domingo,(06:00 a 08:59),3637
+2017,Mayo,Viernes,(09:00 a 11:59),3638
+2018,marzo,domingo,(18:00 a 20:59),3639
+2018,marzo,lunes,(15:00 a 17:59),3640
+2018,agosto,sábado,(00:00 a 02:59),3641
+2018,noviembre,lunes,(09:00 a 11:59),3642
+2019,febrero,martes,(21:00 a 23:59),3643
+2019,julio,martes,(00:00 a 02:59),3644
+2021,enero,lunes,(18:00 a 20:59),3645
+2021,marzo,domingo,(03:00 a 05:59),3646
+2022,mayo,lunes,(09:00 a 11:59),3647
+2022,abril,viernes,(12:00 a 14:59),3648
+2022,octubre,miércoles,(15:00 a 17:59),3649
+2022,mayo,lunes,(03:00 a 05:59),3650
+2022,abril,domingo,(09:00 a 11:59),3651
+2022,abril,miércoles,(09:00 a 11:59),3652
+2022,junio,viernes,(12:00 a 14:59),3653
+2023,diciembre,sábado,(21:00 a 23:59),3654
+2024,Septiembre,Domingo,(15:00 a 17:59),3655
+2024,Enero,Domingo,(21:00 a 23:59),3656
+2024,Marzo,Viernes,(18:00 a 20:59),3657
+2015,Agosto,sábado,(18:00 a 20:59),3658
+2015,Noviembre,domingo,(09:00 a 11:59),3659
+2015,Julio,domingo,(00:00 a 02:59),3660
+2016,abril,domingo,(03:00 a 05:59),3661
+2016,junio,miércoles,(06:00 a 08:59),3662
+2017,Mayo,Jueves,(15:00 a 17:59),3663
+2018,febrero,lunes,(21:00 a 23:59),3664
+2018,agosto,miércoles,(06:00 a 08:59),3665
+2019,abril,domingo,(12:00 a 14:59),3666
+2019,octubre,viernes,(12:00 a 14:59),3667
+2020,enero,sábado,(09:00 a 11:59),3668
+2020,febrero,miércoles,(00:00 a 02:59),3669
+2020,marzo,miércoles,(21:00 a 23:59),3670
+2021,noviembre,miércoles,(06:00 a 08:59),3671
+2022,marzo,sábado,(21:00 a 23:59),3672
+2022,agosto,domingo,(06:00 a 08:59),3673
+2023,mayo,martes,(09:00 a 11:59),3674
+2023,noviembre,domingo,(15:00 a 17:59),3675
+2023,marzo,lunes,(09:00 a 11:59),3676
+2024,Julio,Viernes,Sin información,3677
+2015,Octubre,viernes,(18:00 a 20:59),3678
+2016,mayo,jueves,(06:00 a 08:59),3679
+2016,junio,miércoles,Sin información,3680
+2017,Enero,Martes,(12:00 a 14:59),3681
+2017,Abril,Martes,(09:00 a 11:59),3682
+2017,Agosto,Domingo,(06:00 a 08:59),3683
+2017,Septiembre,Miércoles,(06:00 a 08:59),3684
+2017,Septiembre,Viernes,(15:00 a 17:59),3685
+2018,octubre,domingo,(15:00 a 17:59),3686
+2019,junio,lunes,(06:00 a 08:59),3687
+2019,julio,viernes,(09:00 a 11:59),3688
+2019,noviembre,viernes,(09:00 a 11:59),3689
+2019,diciembre,lunes,Sin información,3690
+2020,marzo,sábado,(12:00 a 14:59),3691
+2021,marzo,domingo,(12:00 a 14:59),3692
+2021,febrero,viernes,(00:00 a 02:59),3693
+2021,noviembre,lunes,(09:00 a 11:59),3694
+2023,marzo,miércoles,(15:00 a 17:59),3695
+2023,diciembre,lunes,(12:00 a 14:59),3696
+2023,septiembre,miércoles,(21:00 a 23:59),3697
+2024,Mayo,Viernes,(18:00 a 20:59),3698
+2024,Octubre,Domingo,(18:00 a 20:59),3699
+2024,Julio,Miércoles,(06:00 a 08:59),3700
+2015,Febrero,domingo,(15:00 a 17:59),3701
+2015,Noviembre,sábado,(15:00 a 17:59),3702
+2017,Agosto,Lunes,(21:00 a 23:59),3703
+2017,Diciembre,Sábado,(09:00 a 11:59),3704
+2018,enero,domingo,(18:00 a 20:59),3705
+2018,abril,jueves,Sin información,3706
+2018,noviembre,martes,(06:00 a 08:59),3707
+2018,diciembre,sábado,Sin información,3708
+2019,febrero,lunes,(12:00 a 14:59),3709
+2019,septiembre,domingo,(06:00 a 08:59),3710
+2019,octubre,lunes,(09:00 a 11:59),3711
+2020,marzo,lunes,(09:00 a 11:59),3712
+2021,diciembre,sábado,Sin información,3713
+2021,octubre,martes,(18:00 a 20:59),3714
+2021,noviembre,lunes,(21:00 a 23:59),3715
+2022,noviembre,miércoles,Sin información,3716
+2022,agosto,domingo,(00:00 a 02:59),3717
+2022,abril,jueves,(15:00 a 17:59),3718
+2022,diciembre,sábado,(00:00 a 02:59),3719
+2022,marzo,jueves,Sin información,3720
+2022,diciembre,viernes,(18:00 a 20:59),3721
+2023,julio,viernes,(06:00 a 08:59),3722
+2023,septiembre,miércoles,(15:00 a 17:59),3723
+2024,Mayo,Domingo,(09:00 a 11:59),3724
+2024,Agosto,Domingo,Sin información,3725
+2024,Noviembre,Sábado,(00:00 a 02:59),3726
+2015,Febrero,martes,(09:00 a 11:59),3727
+2017,Agosto,Jueves,(12:00 a 14:59),3728
+2017,Octubre,Martes,(12:00 a 14:59),3729
+2018,junio,lunes,(09:00 a 11:59),3730
+2018,agosto,miércoles,(21:00 a 23:59),3731
+2020,julio,domingo,(09:00 a 11:59),3732
+2021,agosto,domingo,Sin información,3733
+2021,mayo,miércoles,(09:00 a 11:59),3734
+2023,marzo,miércoles,(12:00 a 14:59),3735
+2015,Abril,domingo,(18:00 a 20:59),3736
+2015,Noviembre,domingo,Sin información,3737
+2016,abril,domingo,(18:00 a 20:59),3738
+2016,junio,sábado,(18:00 a 20:59),3739
+2017,Enero,Sábado,(12:00 a 14:59),3740
+2017,Marzo,Jueves,Sin información,3741
+2017,Junio,Martes,(15:00 a 17:59),3742
+2018,marzo,sábado,(15:00 a 17:59),3743
+2018,mayo,lunes,Sin información,3744
+2018,mayo,lunes,(18:00 a 20:59),3745
+2019,enero,domingo,(21:00 a 23:59),3746
+2019,febrero,jueves,(15:00 a 17:59),3747
+2019,mayo,martes,(18:00 a 20:59),3748
+2019,mayo,jueves,(12:00 a 14:59),3749
+2019,octubre,sábado,(21:00 a 23:59),3750
+2020,junio,sábado,(18:00 a 20:59),3751
+2021,octubre,domingo,(21:00 a 23:59),3752
+2022,noviembre,martes,(18:00 a 20:59),3753
+2023,febrero,miércoles,(21:00 a 23:59),3754
+2023,mayo,jueves,(06:00 a 08:59),3755
+2023,octubre,sábado,(15:00 a 17:59),3756
+2024,Enero,Sábado,(03:00 a 05:59),3757
+2015,Septiembre,martes,(18:00 a 20:59),3758
+2015,Septiembre,jueves,(06:00 a 08:59),3759
+2015,Abril,martes,Sin información,3760
+2016,julio,lunes,(12:00 a 14:59),3761
+2016,agosto,lunes,(15:00 a 17:59),3762
+2016,marzo,viernes,(00:00 a 02:59),3763
+2017,Marzo,Martes,(21:00 a 23:59),3764
+2017,Mayo,Jueves,(18:00 a 20:59),3765
+2018,agosto,miércoles,(09:00 a 11:59),3766
+2019,abril,viernes,(06:00 a 08:59),3767
+2019,octubre,lunes,(12:00 a 14:59),3768
+2020,febrero,martes,(06:00 a 08:59),3769
+2020,febrero,sábado,(18:00 a 20:59),3770
+2020,marzo,lunes,Sin información,3771
+2020,octubre,jueves,(06:00 a 08:59),3772
+2021,junio,sábado,(12:00 a 14:59),3773
+2021,junio,miércoles,(09:00 a 11:59),3774
+2021,junio,lunes,(06:00 a 08:59),3775
+2021,abril,martes,(12:00 a 14:59),3776
+2021,agosto,domingo,(00:00 a 02:59),3777
+2021,octubre,domingo,(12:00 a 14:59),3778
+2022,agosto,miércoles,Sin información,3779
+2022,diciembre,martes,(18:00 a 20:59),3780
+2022,marzo,viernes,(09:00 a 11:59),3781
+2023,septiembre,martes,(12:00 a 14:59),3782
+2024,Octubre,Sábado,Sin información,3783
+2024,Septiembre,Sábado,(18:00 a 20:59),3784
+2015,Diciembre,domingo,(00:00 a 02:59),3785
+2016,marzo,martes,(18:00 a 20:59),3786
+2016,febrero,sábado,(21:00 a 23:59),3787
+2016,julio,lunes,(15:00 a 17:59),3788
+2017,Abril,Lunes,Sin información,3789
+2017,Noviembre,Jueves,(12:00 a 14:59),3790
+2018,septiembre,jueves,(15:00 a 17:59),3791
+2018,diciembre,jueves,Sin información,3792
+2019,mayo,lunes,(18:00 a 20:59),3793
+2019,septiembre,jueves,(06:00 a 08:59),3794
+2021,enero,sábado,(15:00 a 17:59),3795
+2021,septiembre,domingo,(18:00 a 20:59),3796
+2021,noviembre,lunes,(15:00 a 17:59),3797
+2021,diciembre,martes,(18:00 a 20:59),3798
+2021,diciembre,lunes,(12:00 a 14:59),3799
+2021,octubre,lunes,(15:00 a 17:59),3800
+2022,julio,lunes,(15:00 a 17:59),3801
+2022,diciembre,jueves,(06:00 a 08:59),3802
+2023,mayo,sábado,Sin información,3803
+2023,junio,domingo,(21:00 a 23:59),3804
+2015,Enero,viernes,(18:00 a 20:59),3805
+2015,Abril,jueves,(15:00 a 17:59),3806
+2015,Enero,lunes,(21:00 a 23:59),3807
+2015,Diciembre,miércoles,Sin información,3808
+2016,agosto,martes,(12:00 a 14:59),3809
+2016,enero,miércoles,(18:00 a 20:59),3810
+2016,julio,domingo,(00:00 a 02:59),3811
+2017,Mayo,Martes,(09:00 a 11:59),3812
+2017,Junio,Domingo,(15:00 a 17:59),3813
+2017,Julio,Domingo,(03:00 a 05:59),3814
+2017,Diciembre,Viernes,Sin información,3815
+2018,enero,martes,(18:00 a 20:59),3816
+2018,julio,jueves,(09:00 a 11:59),3817
+2019,marzo,miércoles,(09:00 a 11:59),3818
+2019,diciembre,miércoles,(21:00 a 23:59),3819
+2020,enero,viernes,(12:00 a 14:59),3820
+2021,octubre,domingo,(06:00 a 08:59),3821
+2023,agosto,sábado,(12:00 a 14:59),3822
+2024,Enero,Sábado,(09:00 a 11:59),3823
+2015,Febrero,miércoles,(21:00 a 23:59),3824
+2017,Junio,Lunes,(00:00 a 02:59),3825
+2017,Agosto,Lunes,(15:00 a 17:59),3826
+2018,agosto,domingo,(12:00 a 14:59),3827
+2018,agosto,viernes,(15:00 a 17:59),3828
+2018,diciembre,jueves,(12:00 a 14:59),3829
+2019,abril,lunes,(03:00 a 05:59),3830
+2019,junio,domingo,Sin información,3831
+2019,octubre,jueves,(21:00 a 23:59),3832
+2019,diciembre,sábado,Sin información,3833
+2020,junio,lunes,(12:00 a 14:59),3834
+2020,noviembre,sábado,Sin información,3835
+2021,noviembre,lunes,(12:00 a 14:59),3836
+2023,abril,jueves,(09:00 a 11:59),3837
+2023,marzo,domingo,Sin información,3838
+2023,mayo,miércoles,(18:00 a 20:59),3839
+2023,octubre,lunes,Sin información,3840
+2024,Abril,Sábado,(09:00 a 11:59),3841
+2024,Mayo,Domingo,(12:00 a 14:59),3842
+2024,Marzo,Jueves,(06:00 a 08:59),3843
+2024,Mayo,Jueves,(00:00 a 02:59),3844
+2024,Octubre,Sábado,(00:00 a 02:59),3845
+2015,Septiembre,miércoles,(12:00 a 14:59),3846
+2015,Septiembre,viernes,(12:00 a 14:59),3847
+2015,Octubre,sábado,Sin información,3848
+2015,Enero,sábado,Sin información,3849
+2015,Abril,sábado,Sin información,3850
+2016,noviembre,jueves,Sin información,3851
+2016,febrero,viernes,(18:00 a 20:59),3852
+2017,Enero,Jueves,(12:00 a 14:59),3853
+2017,Abril,Jueves,(09:00 a 11:59),3854
+2017,Mayo,Sábado,(15:00 a 17:59),3855
+2017,Junio,Viernes,Sin información,3856
+2017,Agosto,Jueves,(06:00 a 08:59),3857
+2018,marzo,domingo,(21:00 a 23:59),3858
+2018,abril,lunes,(12:00 a 14:59),3859
+2018,julio,sábado,(09:00 a 11:59),3860
+2019,abril,martes,(06:00 a 08:59),3861
+2019,agosto,viernes,(21:00 a 23:59),3862
+2019,octubre,martes,(18:00 a 20:59),3863
+2020,febrero,miércoles,(21:00 a 23:59),3864
+2020,diciembre,domingo,(09:00 a 11:59),3865
+2021,agosto,miércoles,(15:00 a 17:59),3866
+2022,abril,viernes,(09:00 a 11:59),3867
+2022,noviembre,miércoles,(06:00 a 08:59),3868
+2022,febrero,sábado,(21:00 a 23:59),3869
+2023,noviembre,lunes,(15:00 a 17:59),3870
+2015,Noviembre,viernes,(00:00 a 02:59),3871
+2015,Enero,domingo,(21:00 a 23:59),3872
+2015,Septiembre,miércoles,(18:00 a 20:59),3873
+2015,Julio,miércoles,(12:00 a 14:59),3874
+2016,junio,miércoles,(09:00 a 11:59),3875
+2016,febrero,lunes,Sin información,3876
+2017,Febrero,Martes,(18:00 a 20:59),3877
+2017,Septiembre,Lunes,Sin información,3878
+2017,Diciembre,Lunes,(12:00 a 14:59),3879
+2017,Diciembre,Domingo,(03:00 a 05:59),3880
+2018,noviembre,sábado,(15:00 a 17:59),3881
+2019,marzo,sábado,(15:00 a 17:59),3882
+2019,mayo,jueves,Sin información,3883
+2020,febrero,martes,(18:00 a 20:59),3884
+2020,abril,jueves,(18:00 a 20:59),3885
+2020,mayo,lunes,(00:00 a 02:59),3886
+2021,noviembre,jueves,Sin información,3887
+2022,septiembre,jueves,(15:00 a 17:59),3888
+2022,abril,viernes,(06:00 a 08:59),3889
+2023,abril,jueves,(18:00 a 20:59),3890
+2023,octubre,jueves,(18:00 a 20:59),3891
+2023,noviembre,domingo,(18:00 a 20:59),3892
+2024,Octubre,Domingo,(06:00 a 08:59),3893
+2024,Junio,Domingo,(12:00 a 14:59),3894
+2024,Diciembre,Jueves,(09:00 a 11:59),3895
+2024,Junio,Jueves,(21:00 a 23:59),3896
+2024,Octubre,Jueves,(06:00 a 08:59),3897
+2024,Diciembre,Viernes,(18:00 a 20:59),3898
+2015,Agosto,domingo,(15:00 a 17:59),3899
+2016,febrero,viernes,(09:00 a 11:59),3900
+2017,Mayo,Viernes,(12:00 a 14:59),3901
+2017,Julio,Viernes,(15:00 a 17:59),3902
+2017,Octubre,Miércoles,(12:00 a 14:59),3903
+2018,enero,lunes,(21:00 a 23:59),3904
+2019,febrero,viernes,(21:00 a 23:59),3905
+2019,noviembre,viernes,Sin información,3906
+2019,diciembre,miércoles,(03:00 a 05:59),3907
+2020,junio,jueves,(15:00 a 17:59),3908
+2020,septiembre,domingo,Sin información,3909
+2021,mayo,viernes,(12:00 a 14:59),3910
+2021,noviembre,sábado,Sin información,3911
+2022,agosto,martes,(15:00 a 17:59),3912
+2022,julio,sábado,(15:00 a 17:59),3913
+2024,Diciembre,Miércoles,(15:00 a 17:59),3914
+2024,Julio,Martes,(21:00 a 23:59),3915
+2015,Septiembre,domingo,(06:00 a 08:59),3916
+2015,Diciembre,lunes,(03:00 a 05:59),3917
+2016,agosto,lunes,(21:00 a 23:59),3918
+2017,Abril,Domingo,(12:00 a 14:59),3919
+2018,mayo,miércoles,Sin información,3920
+2018,diciembre,martes,(18:00 a 20:59),3921
+2019,enero,miércoles,(12:00 a 14:59),3922
+2019,diciembre,miércoles,(12:00 a 14:59),3923
+2020,mayo,sábado,(09:00 a 11:59),3924
+2020,septiembre,sábado,(15:00 a 17:59),3925
+2020,septiembre,jueves,(15:00 a 17:59),3926
+2020,diciembre,sábado,(15:00 a 17:59),3927
+2021,septiembre,sábado,(09:00 a 11:59),3928
+2021,marzo,jueves,(12:00 a 14:59),3929
+2021,agosto,lunes,(15:00 a 17:59),3930
+2021,noviembre,jueves,(12:00 a 14:59),3931
+2022,mayo,martes,(00:00 a 02:59),3932
+2023,abril,domingo,(09:00 a 11:59),3933
+2023,mayo,viernes,(15:00 a 17:59),3934
+2024,Marzo,Jueves,(15:00 a 17:59),3935
+2015,Diciembre,lunes,(18:00 a 20:59),3936
+2015,Febrero,domingo,(09:00 a 11:59),3937
+2015,Agosto,miércoles,(09:00 a 11:59),3938
+2016,marzo,domingo,Sin información,3939
+2017,Abril,Martes,(18:00 a 20:59),3940
+2017,Agosto,Martes,Sin información,3941
+2019,febrero,viernes,(12:00 a 14:59),3942
+2020,marzo,lunes,(15:00 a 17:59),3943
+2021,julio,martes,Sin información,3944
+2021,marzo,martes,(06:00 a 08:59),3945
+2021,octubre,miércoles,(12:00 a 14:59),3946
+2022,febrero,domingo,(21:00 a 23:59),3947
+2023,septiembre,lunes,(09:00 a 11:59),3948
+2024,Mayo,Lunes,(15:00 a 17:59),3949
+2024,Diciembre,Jueves,(06:00 a 08:59),3950
+2024,Enero,Jueves,(21:00 a 23:59),3951
+2024,Diciembre,Lunes,(00:00 a 02:59),3952
+2024,Octubre,Sábado,(03:00 a 05:59),3953
+2015,Diciembre,domingo,(15:00 a 17:59),3954
+2016,febrero,jueves,(21:00 a 23:59),3955
+2016,julio,martes,(12:00 a 14:59),3956
+2016,septiembre,sábado,(18:00 a 20:59),3957
+2016,diciembre,viernes,(09:00 a 11:59),3958
+2017,Marzo,Jueves,(03:00 a 05:59),3959
+2017,Junio,Domingo,(03:00 a 05:59),3960
+2018,enero,miércoles,(15:00 a 17:59),3961
+2018,febrero,domingo,(18:00 a 20:59),3962
+2018,abril,domingo,(12:00 a 14:59),3963
+2018,junio,sábado,(18:00 a 20:59),3964
+2019,marzo,viernes,(21:00 a 23:59),3965
+2019,abril,domingo,(15:00 a 17:59),3966
+2020,marzo,sábado,Sin información,3967
+2020,octubre,miércoles,(09:00 a 11:59),3968
+2021,julio,sábado,Sin información,3969
+2022,septiembre,martes,(18:00 a 20:59),3970
+2022,abril,domingo,(18:00 a 20:59),3971
+2024,Junio,Jueves,Sin información,3972
+2015,Septiembre,jueves,(15:00 a 17:59),3973
+2017,Octubre,Domingo,Sin información,3974
+2018,junio,miércoles,(18:00 a 20:59),3975
+2018,septiembre,sábado,Sin información,3976
+2019,marzo,jueves,(15:00 a 17:59),3977
+2019,mayo,viernes,Sin información,3978
+2020,octubre,martes,Sin información,3979
+2021,noviembre,sábado,(18:00 a 20:59),3980
+2022,marzo,lunes,(18:00 a 20:59),3981
+2022,agosto,domingo,(18:00 a 20:59),3982
+2023,febrero,lunes,(12:00 a 14:59),3983
+2024,Septiembre,Viernes,(09:00 a 11:59),3984
+2024,Mayo,Martes,(18:00 a 20:59),3985
+2024,Noviembre,Sábado,(15:00 a 17:59),3986
+2015,Noviembre,sábado,(18:00 a 20:59),3987
+2015,Septiembre,domingo,(18:00 a 20:59),3988
+2015,Febrero,sábado,(09:00 a 11:59),3989
+2016,enero,lunes,Sin información,3990
+2016,junio,sábado,(12:00 a 14:59),3991
+2017,Febrero,Sábado,(21:00 a 23:59),3992
+2017,Septiembre,Lunes,(09:00 a 11:59),3993
+2018,septiembre,viernes,(21:00 a 23:59),3994
+2018,diciembre,lunes,Sin información,3995
+2019,febrero,lunes,(21:00 a 23:59),3996
+2019,abril,martes,(09:00 a 11:59),3997
+2019,noviembre,domingo,(06:00 a 08:59),3998
+2021,junio,domingo,(03:00 a 05:59),3999
+2022,mayo,viernes,(15:00 a 17:59),4000
+2022,febrero,domingo,(15:00 a 17:59),4001
+2023,diciembre,martes,(18:00 a 20:59),4002
+2023,noviembre,martes,(21:00 a 23:59),4003
+2024,Noviembre,Jueves,(21:00 a 23:59),4004
+2024,Enero,Martes,(03:00 a 05:59),4005
+2024,Septiembre,Viernes,(06:00 a 08:59),4006
+2015,Enero,viernes,(09:00 a 11:59),4007
+2016,marzo,lunes,(18:00 a 20:59),4008
+2017,Julio,Viernes,(21:00 a 23:59),4009
+2017,Agosto,Martes,(03:00 a 05:59),4010
+2017,Octubre,Martes,(18:00 a 20:59),4011
+2017,Octubre,Sábado,(06:00 a 08:59),4012
+2017,Noviembre,Jueves,(18:00 a 20:59),4013
+2017,Noviembre,Viernes,(15:00 a 17:59),4014
+2017,Diciembre,Martes,(21:00 a 23:59),4015
+2018,enero,sábado,(15:00 a 17:59),4016
+2018,diciembre,sábado,(15:00 a 17:59),4017
+2019,mayo,domingo,(09:00 a 11:59),4018
+2019,septiembre,miércoles,(18:00 a 20:59),4019
+2019,diciembre,domingo,(21:00 a 23:59),4020
+2020,marzo,domingo,(15:00 a 17:59),4021
+2021,julio,viernes,(15:00 a 17:59),4022
+2021,abril,sábado,(09:00 a 11:59),4023
+2021,junio,miércoles,(15:00 a 17:59),4024
+2021,noviembre,jueves,(18:00 a 20:59),4025
+2022,julio,martes,(15:00 a 17:59),4026
+2022,mayo,viernes,(09:00 a 11:59),4027
+2023,mayo,martes,(18:00 a 20:59),4028
+2023,febrero,martes,(06:00 a 08:59),4029
+2023,marzo,domingo,(00:00 a 02:59),4030
+2024,Abril,Viernes,(12:00 a 14:59),4031
+2024,Septiembre,Lunes,(12:00 a 14:59),4032
+2015,Octubre,sábado,(18:00 a 20:59),4033
+2015,Marzo,lunes,(09:00 a 11:59),4034
+2016,enero,viernes,Sin información,4035
+2016,marzo,martes,(12:00 a 14:59),4036
+2017,Enero,Jueves,Sin información,4037
+2017,Febrero,Lunes,(18:00 a 20:59),4038
+2018,julio,jueves,(12:00 a 14:59),4039
+2018,julio,jueves,(18:00 a 20:59),4040
+2018,julio,domingo,(15:00 a 17:59),4041
+2019,febrero,martes,Sin información,4042
+2020,febrero,lunes,(15:00 a 17:59),4043
+2020,noviembre,viernes,(09:00 a 11:59),4044
+2022,abril,sábado,(12:00 a 14:59),4045
+2022,febrero,miércoles,(03:00 a 05:59),4046
+2023,febrero,domingo,(09:00 a 11:59),4047
+2023,mayo,miércoles,(06:00 a 08:59),4048
+2023,noviembre,martes,(15:00 a 17:59),4049
+2023,diciembre,miércoles,Sin información,4050
+2024,Febrero,Miércoles,(18:00 a 20:59),4051
+2024,Junio,Domingo,(15:00 a 17:59),4052
+2024,Junio,Sábado,(06:00 a 08:59),4053
+2024,Agosto,Miércoles,(09:00 a 11:59),4054
+2015,Abril,domingo,Sin información,4055
+2015,Julio,viernes,(06:00 a 08:59),4056
+2015,Mayo,miércoles,(18:00 a 20:59),4057
+2017,Octubre,Lunes,(03:00 a 05:59),4058
+2018,octubre,martes,(18:00 a 20:59),4059
+2018,octubre,viernes,(00:00 a 02:59),4060
+2019,enero,jueves,(18:00 a 20:59),4061
+2019,enero,viernes,(12:00 a 14:59),4062
+2019,febrero,miércoles,(12:00 a 14:59),4063
+2019,marzo,miércoles,Sin información,4064
+2019,diciembre,viernes,(09:00 a 11:59),4065
+2021,junio,viernes,(12:00 a 14:59),4066
+2021,septiembre,martes,(21:00 a 23:59),4067
+2022,marzo,martes,(06:00 a 08:59),4068
+2022,julio,domingo,Sin información,4069
+2022,mayo,martes,(12:00 a 14:59),4070
+2022,junio,sábado,(00:00 a 02:59),4071
+2022,febrero,jueves,(06:00 a 08:59),4072
+2023,septiembre,lunes,(12:00 a 14:59),4073
+2024,Marzo,Domingo,(00:00 a 02:59),4074
+2015,Junio,domingo,(18:00 a 20:59),4075
+2015,Agosto,martes,Sin información,4076
+2016,noviembre,domingo,(06:00 a 08:59),4077
+2016,febrero,jueves,(09:00 a 11:59),4078
+2016,mayo,viernes,(15:00 a 17:59),4079
+2017,Abril,Sábado,(18:00 a 20:59),4080
+2017,Junio,Sábado,(18:00 a 20:59),4081
+2018,enero,domingo,(21:00 a 23:59),4082
+2018,julio,lunes,(09:00 a 11:59),4083
+2018,agosto,viernes,(12:00 a 14:59),4084
+2018,septiembre,domingo,(00:00 a 02:59),4085
+2019,agosto,viernes,(12:00 a 14:59),4086
+2019,septiembre,jueves,(09:00 a 11:59),4087
+2020,abril,domingo,(18:00 a 20:59),4088
+2021,enero,viernes,(12:00 a 14:59),4089
+2021,mayo,lunes,(18:00 a 20:59),4090
+2021,enero,miércoles,(09:00 a 11:59),4091
+2021,octubre,lunes,(06:00 a 08:59),4092
+2022,noviembre,lunes,(06:00 a 08:59),4093
+2022,julio,martes,(18:00 a 20:59),4094
+2022,septiembre,martes,(15:00 a 17:59),4095
+2022,octubre,jueves,(15:00 a 17:59),4096
+2022,marzo,lunes,Sin información,4097
+2022,mayo,jueves,(09:00 a 11:59),4098
+2022,junio,sábado,(03:00 a 05:59),4099
+2022,noviembre,viernes,(12:00 a 14:59),4100
+2023,abril,miércoles,(21:00 a 23:59),4101
+2023,septiembre,jueves,(21:00 a 23:59),4102
+2024,Marzo,Domingo,(21:00 a 23:59),4103
+2020,junio,miércoles,(21:00 a 23:59),4104
+2016,julio,martes,(15:00 a 17:59),4105

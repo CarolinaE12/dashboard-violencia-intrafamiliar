@@ -1,0 +1,595 @@
+sexo,ciclo_vital,escolaridad,estado_civil,identidad_genero,transgenero,tipo_discapacidad,id_victima
+Hombre,(29 a 59) Adultez,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Visual,1
+Hombre,(29 a 59) Adultez,Universitario,Unión libre,Masculino,No Sabe / No Informa,Ninguna,2
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,3
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,4
+Hombre,(18 a 28) Juventud,Universitario,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,5
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Unión libre,Masculino,No Sabe / No Informa,Ninguna,6
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,7
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,8
+Mujer,(29 a 59) Adultez,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,9
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,10
+Mujer,(Más de 60) Adulto Mayor,Sin información,Sin información,Femenino,No Sabe / No Informa,Ninguna,11
+Mujer,(Más de 60) Adulto Mayor,Sin escolaridad,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,12
+Mujer,(29 a 59) Adultez,Educación básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,13
+Hombre,(Más de 60) Adulto Mayor,Sin escolaridad,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,14
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,15
+Hombre,(29 a 59) Adultez,Sin información,Unión libre,Masculino,No Sabe / No Informa,Ninguna,16
+Hombre,(12 a 17) Adolescencia,Sin información,Sin información,Masculino,No Sabe / No Informa,Ninguna,17
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Unión libre,Femenino,No Sabe / No Informa,Ninguna,18
+Mujer,(06 a 11) Infancia,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,19
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,20
+Mujer,(06 a 11) Infancia,Sin información,No aplica,No aplica,No aplica,Ninguna,21
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,22
+Mujer,(06 a 11) Infancia,Educación inicial y educación preescolar,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,23
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Sin información,Femenino,No Sabe / No Informa,Ninguna,24
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Unión libre,Transformista,No Sabe / No Informa,Ninguna,25
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,26
+Hombre,(06 a 11) Infancia,Educación inicial y educación preescolar,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,27
+Hombre,(18 a 28) Juventud,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,28
+Mujer,(29 a 59) Adultez,Sin información,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,29
+Hombre,(06 a 11) Infancia,Sin información,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,30
+Mujer,(Más de 60) Adulto Mayor,Ninguna,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,31
+Hombre,(06 a 11) Infancia,Sin información,No aplica,No aplica,No aplica,Ninguna,32
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Soltero (a),Masculino,No Sabe / No Informa,Psicosocial,33
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,34
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,35
+Hombre,(29 a 59) Adultez,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,36
+Mujer,(Más de 60) Adulto Mayor,Preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,37
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Discapacidad Múltiple,38
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,39
+Mujer,(Más de 60) Adulto Mayor,Sin escolaridad,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,40
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,41
+Mujer,(18 a 28) Juventud,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,42
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Casado (a),Femenino,No Sabe / No Informa,Ninguna,43
+Hombre,(29 a 59) Adultez,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Física,44
+Hombre,(Más de 60) Adulto Mayor,Sin información,Casado (a),Masculino,No Sabe / No Informa,Ninguna,45
+Mujer,(Más de 60) Adulto Mayor,Sin información,Casado (a),Femenino,No Sabe / No Informa,Ninguna,46
+Mujer,(00 a 05) Primera Infancia,Sin escolaridad,No aplica,No Aplica,No Aplica,Ninguna,47
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,48
+Mujer,(18 a 28) Juventud,Sin información,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,49
+Mujer,(Más de 60) Adulto Mayor,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,50
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,51
+Mujer,(06 a 11) Infancia,Preescolar,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,52
+Hombre,(Más de 60) Adulto Mayor,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,53
+Hombre,(18 a 28) Juventud,Ninguna,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,54
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,55
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Auditiva,56
+Hombre,(29 a 59) Adultez,Sin información,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,57
+Mujer,(29 a 59) Adultez,Universitario,Unión libre,Femenino,No Sabe / No Informa,Ninguna,58
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,59
+Mujer,(29 a 59) Adultez,Sin información,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,60
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,61
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,62
+Hombre,(29 a 59) Adultez,Sin información,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,63
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,64
+Mujer,(18 a 28) Juventud,Universitario,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,65
+Hombre,(18 a 28) Juventud,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,66
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,67
+Hombre,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,68
+Mujer,(Más de 60) Adulto Mayor,Universitario,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,69
+Hombre,(00 a 05) Primera Infancia,No aplica,No aplica,No aplica,No aplica,Ninguna,70
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,71
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Unión libre,Masculino,No Sabe / No Informa,Ninguna,72
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,73
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Unión libre,Masculino,No Sabe / No Informa,Ninguna,74
+Mujer,(12 a 17) Adolescencia,Educación media o secundaria alta,Sin información,Femenino,No Sabe / No Informa,Ninguna,75
+Hombre,(06 a 11) Infancia,Educación inicial y educación preescolar,No aplica,No Aplica,No Aplica,Ninguna,76
+Hombre,(29 a 59) Adultez,Sin escolaridad,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,77
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,78
+Hombre,(12 a 17) Adolescencia,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,79
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,80
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,81
+Mujer,(18 a 28) Juventud,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,82
+Mujer,(00 a 05) Primera Infancia,Preescolar,No aplica,No aplica,No aplica,Ninguna,83
+Mujer,(29 a 59) Adultez,Universitario,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,84
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Casado (a),Femenino,No Sabe / No Informa,Ninguna,85
+Hombre,(06 a 11) Infancia,Preescolar,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,86
+Mujer,(06 a 11) Infancia,Sin información,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,87
+Mujer,(29 a 59) Adultez,Sin escolaridad,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,88
+Hombre,(18 a 28) Juventud,Sin escolaridad,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,89
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,90
+Mujer,(29 a 59) Adultez,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,91
+Hombre,(29 a 59) Adultez,Educación básica primaria,Casado (a),Masculino,No Sabe / No Informa,Ninguna,92
+Hombre,(18 a 28) Juventud,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,93
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,94
+Mujer,(Más de 60) Adulto Mayor,Preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,95
+Hombre,(06 a 11) Infancia,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,96
+Hombre,(18 a 28) Juventud,Doctorado o equivalente,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,97
+Mujer,(29 a 59) Adultez,Educación básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,98
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Casado (a),Femenino,No Sabe / No Informa,Ninguna,99
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Sin información,Femenino,No Sabe / No Informa,Ninguna,100
+Mujer,(18 a 28) Juventud,Sin información,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,101
+Hombre,(29 a 59) Adultez,Básica secundaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,102
+Mujer,(18 a 28) Juventud,Básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,103
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,104
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,105
+Hombre,(Más de 60) Adulto Mayor,"Especialización, Maestría o equivalente",Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,106
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,107
+Mujer,(18 a 28) Juventud,Sin información,Casado (a),Femenino,No Sabe / No Informa,Ninguna,108
+Mujer,(Más de 60) Adulto Mayor,Sin escolaridad,Unión libre,Femenino,No Sabe / No Informa,Ninguna,109
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,110
+Hombre,(18 a 28) Juventud,Educación inicial y educación preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,111
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,112
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,113
+Mujer,(29 a 59) Adultez,Preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,114
+Hombre,(29 a 59) Adultez,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,115
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Unión libre,Masculino,No Sabe / No Informa,Ninguna,116
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Sin información,Femenino,No Sabe / No Informa,Ninguna,117
+Mujer,(12 a 17) Adolescencia,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,118
+Mujer,(29 a 59) Adultez,Básica secundaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,119
+Hombre,(29 a 59) Adultez,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,120
+Hombre,(06 a 11) Infancia,Sin escolaridad,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,121
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,122
+Hombre,(12 a 17) Adolescencia,Educación inicial y educación preescolar,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,123
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Unión libre,Masculino,No Sabe / No Informa,Física,124
+Hombre,(18 a 28) Juventud,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,125
+Hombre,(06 a 11) Infancia,Preescolar,No aplica,No aplica,No aplica,Ninguna,126
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,127
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,128
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,129
+Hombre,(06 a 11) Infancia,Educación inicial y educación preescolar,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,130
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,131
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,132
+Hombre,(00 a 05) Primera Infancia,Sin información,No aplica,No aplica,No aplica,Ninguna,133
+Hombre,(Más de 60) Adulto Mayor,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,134
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,135
+Hombre,(Más de 60) Adulto Mayor,"Especialización, Maestría o equivalente",Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,136
+Mujer,(29 a 59) Adultez,Universitario,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,137
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,138
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,139
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Unión libre,Masculino,No Sabe / No Informa,Ninguna,140
+Mujer,(12 a 17) Adolescencia,Sin escolaridad,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,141
+Mujer,(29 a 59) Adultez,Preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,142
+Mujer,(Más de 60) Adulto Mayor,Preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,143
+Mujer,(06 a 11) Infancia,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,144
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,145
+Mujer,(00 a 05) Primera Infancia,Educación inicial y educación preescolar,No aplica,No aplica,No aplica,Ninguna,146
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,147
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,148
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Casado (a),Masculino,No Sabe / No Informa,Ninguna,149
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,150
+Hombre,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,151
+Mujer,(29 a 59) Adultez,Educación básica primaria,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,152
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Soltero (a),Masculino,No Sabe / No Informa,Síquica,153
+Hombre,(29 a 59) Adultez,Básica secundaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,154
+Hombre,(18 a 28) Juventud,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,155
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Unión libre,Femenino,No Sabe / No Informa,Ninguna,156
+Hombre,(06 a 11) Infancia,Educación inicial y educación preescolar,No aplica,No aplica,No aplica,Ninguna,157
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,158
+Hombre,(29 a 59) Adultez,Universitario,Casado (a),Masculino,No Sabe / No Informa,Ninguna,159
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,160
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,161
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,162
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,163
+Hombre,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Sin información,Masculino,No Sabe / No Informa,Ninguna,164
+Mujer,(18 a 28) Juventud,Preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,165
+Mujer,(12 a 17) Adolescencia,Básica secundaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,166
+Mujer,(29 a 59) Adultez,Sin escolaridad,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,167
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,168
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Unión libre,Masculino,No Sabe / No Informa,Ninguna,169
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,170
+Hombre,(18 a 28) Juventud,Básica secundaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,171
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,172
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,173
+Hombre,(29 a 59) Adultez,Tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,174
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,175
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,176
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,177
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,178
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Casado (a),Femenino,No Sabe / No Informa,Ninguna,179
+Mujer,(Más de 60) Adulto Mayor,"Especialización, maestría o equivalente",Soltero (a),Femenino,No Sabe / No Informa,Ninguna,180
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,181
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Casado (a),Masculino,No Sabe / No Informa,Ninguna,182
+Mujer,(Más de 60) Adulto Mayor,Sin información,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,183
+Hombre,(06 a 11) Infancia,Sin información,No aplica,No Aplica,No Aplica,Ninguna,184
+Hombre,(18 a 28) Juventud,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,185
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,186
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,187
+Mujer,(Más de 60) Adulto Mayor,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,188
+Mujer,(18 a 28) Juventud,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,189
+Mujer,(29 a 59) Adultez,Universitario,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,190
+Hombre,(29 a 59) Adultez,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Discapacidad Múltiple,191
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,192
+Mujer,(Más de 60) Adulto Mayor,Sin escolaridad,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,193
+Mujer,(12 a 17) Adolescencia,Sin información,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,194
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Casado (a),Masculino,No Sabe / No Informa,Ninguna,195
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,196
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Sin información,Femenino,No Sabe / No Informa,Ninguna,197
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Soltero (a),Transexual,No Sabe / No Informa,Ninguna,198
+Mujer,(18 a 28) Juventud,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,199
+Hombre,(06 a 11) Infancia,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,200
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Sin información,Femenino,No Sabe / No Informa,Ninguna,201
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,202
+Mujer,(29 a 59) Adultez,Sin información,Unión libre,Femenino,No Sabe / No Informa,Ninguna,203
+Mujer,(29 a 59) Adultez,Básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,204
+Mujer,(12 a 17) Adolescencia,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,205
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,206
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Física,207
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,208
+Mujer,(06 a 11) Infancia,Educación inicial y educación preescolar,No aplica,No Aplica,No Aplica,Ninguna,209
+Mujer,(29 a 59) Adultez,Preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,210
+Hombre,(29 a 59) Adultez,Básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,211
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,212
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,213
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Física,214
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Casado (a),Masculino,No Sabe / No Informa,Ninguna,215
+Mujer,(29 a 59) Adultez,Básica secundaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,216
+Hombre,(29 a 59) Adultez,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,217
+Hombre,(06 a 11) Infancia,Educación básica primaria,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,218
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Soltero (a),Transexual,No Sabe / No Informa,Ninguna,219
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Casado (a),Masculino,No Sabe / No Informa,Ninguna,220
+Mujer,(18 a 28) Juventud,Sin escolaridad,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,221
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,222
+Mujer,(29 a 59) Adultez,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,223
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Sin información,Masculino,No Sabe / No Informa,Ninguna,224
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,225
+Hombre,(06 a 11) Infancia,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,226
+Hombre,(29 a 59) Adultez,Preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,227
+Mujer,(29 a 59) Adultez,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,228
+Mujer,(Más de 60) Adulto Mayor,Ninguna,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,229
+Mujer,(Más de 60) Adulto Mayor,Sin información,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,230
+Hombre,(06 a 11) Infancia,Educación básica primaria,Sin información,Masculino,No Sabe / No Informa,Ninguna,231
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Unión libre,Masculino,No Sabe / No Informa,Ninguna,232
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,233
+Hombre,(12 a 17) Adolescencia,Educación media o secundaria alta,Sin información,Masculino,No Sabe / No Informa,Ninguna,234
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Unión libre,Femenino,No Sabe / No Informa,Ninguna,235
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,236
+Mujer,(29 a 59) Adultez,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Visual,237
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,238
+Mujer,(18 a 28) Juventud,Básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,239
+Hombre,(29 a 59) Adultez,Educación básica primaria,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,240
+Hombre,(18 a 28) Juventud,Educación básica primaria,Unión libre,Masculino,No Sabe / No Informa,Ninguna,241
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Casado (a),Masculino,No Sabe / No Informa,Ninguna,242
+Hombre,(29 a 59) Adultez,Preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,243
+Mujer,(29 a 59) Adultez,Sin información,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,244
+Mujer,(06 a 11) Infancia,Sin información,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,245
+Mujer,(00 a 05) Primera Infancia,Educación inicial y educación preescolar,No aplica,No Aplica,No Aplica,Ninguna,246
+Mujer,(06 a 11) Infancia,Educación inicial y educación preescolar,No aplica,No aplica,No aplica,Ninguna,247
+Hombre,(12 a 17) Adolescencia,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,248
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,249
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,250
+Hombre,(18 a 28) Juventud,Sin información,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,251
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Unión libre,Masculino,No Sabe / No Informa,Ninguna,252
+Hombre,(18 a 28) Juventud,Tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,253
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,254
+Hombre,(29 a 59) Adultez,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,255
+Mujer,(06 a 11) Infancia,Educación inicial y educación preescolar,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,256
+Mujer,(29 a 59) Adultez,Tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,257
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,258
+Mujer,(29 a 59) Adultez,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,259
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,260
+Mujer,(Más de 60) Adulto Mayor,Sin información,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,261
+Mujer,(Más de 60) Adulto Mayor,Universitario,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,262
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,263
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,264
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,265
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Casado (a),Masculino,No Sabe / No Informa,Ninguna,266
+Mujer,(29 a 59) Adultez,Educación básica primaria,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,267
+Hombre,(Más de 60) Adulto Mayor,Ninguna,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,268
+Mujer,(06 a 11) Infancia,Sin escolaridad,No aplica,No aplica,No aplica,Ninguna,269
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,270
+Mujer,(29 a 59) Adultez,Educación básica primaria,Unión libre,Femenino,No Sabe / No Informa,Ninguna,271
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,272
+Mujer,(29 a 59) Adultez,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Auditiva,273
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,274
+Hombre,(00 a 05) Primera Infancia,Educación inicial y educación preescolar,No aplica,No Aplica,No Aplica,Ninguna,275
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Unión libre,Femenino,No Sabe / No Informa,Ninguna,276
+Hombre,(06 a 11) Infancia,Sin información,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,277
+Mujer,(12 a 17) Adolescencia,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,278
+Mujer,(00 a 05) Primera Infancia,Sin información,No aplica,No aplica,No aplica,Ninguna,279
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,280
+Mujer,(Más de 60) Adulto Mayor,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,281
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,282
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,283
+Hombre,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Unión libre,Masculino,No Sabe / No Informa,Ninguna,284
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,285
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,286
+Mujer,(18 a 28) Juventud,Básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,287
+Hombre,(29 a 59) Adultez,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,288
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,289
+Hombre,(29 a 59) Adultez,Básica secundaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,290
+Hombre,(29 a 59) Adultez,Sin información,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,291
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,292
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,293
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,294
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Casado (a),Travesti,No Sabe / No Informa,Ninguna,295
+Hombre,(29 a 59) Adultez,"Especialización, maestría o equivalente",Soltero (a),Masculino,No Sabe / No Informa,Ninguna,296
+Hombre,(06 a 11) Infancia,Educación inicial y educación preescolar,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,297
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,298
+Mujer,(06 a 11) Infancia,Educación inicial y educación preescolar,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,299
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,300
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Sin información,Femenino,No Sabe / No Informa,Ninguna,301
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,302
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,303
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,304
+Mujer,(Más de 60) Adulto Mayor,Preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,305
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,306
+Hombre,(29 a 59) Adultez,Educación básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,307
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,308
+Hombre,(29 a 59) Adultez,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,309
+Mujer,(29 a 59) Adultez,Educación básica primaria,Unión libre,Masculino,No Sabe / No Informa,Ninguna,310
+Mujer,(29 a 59) Adultez,Tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,311
+Hombre,(06 a 11) Infancia,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,312
+Mujer,(18 a 28) Juventud,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,313
+Hombre,(Más de 60) Adulto Mayor,Sin escolaridad,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,314
+Hombre,(18 a 28) Juventud,Preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,315
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,316
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Sin información,Masculino,No Sabe / No Informa,Ninguna,317
+Mujer,(29 a 59) Adultez,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,318
+Mujer,(18 a 28) Juventud,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,319
+Mujer,(06 a 11) Infancia,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,320
+Hombre,(12 a 17) Adolescencia,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Mental,321
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,322
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,323
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,324
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Mental,325
+Mujer,(29 a 59) Adultez,Sin escolaridad,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,326
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Unión libre,Femenino,No Sabe / No Informa,Ninguna,327
+Mujer,(06 a 11) Infancia,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,328
+Hombre,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,329
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Casado (a),Femenino,No Sabe / No Informa,Ninguna,330
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,331
+Hombre,(06 a 11) Infancia,Sin escolaridad,No aplica,No Sabe / No Informa,No Sabe / No Informa,Siquica,332
+Hombre,(Más de 60) Adulto Mayor,Sin escolaridad,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,333
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Unión libre,Masculino,No Sabe / No Informa,Ninguna,334
+Mujer,(12 a 17) Adolescencia,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,335
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,336
+Hombre,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,337
+Mujer,(06 a 11) Infancia,Educación básica primaria,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,338
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,339
+Mujer,(29 a 59) Adultez,"Especialización, Maestría o equivalente",Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,340
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,341
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,342
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,343
+Mujer,(29 a 59) Adultez,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,344
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,345
+Mujer,(29 a 59) Adultez,Sin información,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,346
+Mujer,(18 a 28) Juventud,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,347
+Mujer,(12 a 17) Adolescencia,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,348
+Mujer,(06 a 11) Infancia,Preescolar,No aplica,No aplica,No aplica,Ninguna,349
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,350
+Mujer,(29 a 59) Adultez,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Mental,351
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,352
+Hombre,(12 a 17) Adolescencia,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,353
+Hombre,(18 a 28) Juventud,Básica secundaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,354
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,355
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Física,356
+Mujer,(29 a 59) Adultez,"Especialización, maestría o equivalente",Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,357
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,358
+Mujer,(12 a 17) Adolescencia,Educación inicial y educación preescolar,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,359
+Hombre,(12 a 17) Adolescencia,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,360
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,361
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Casado (a),Femenino,No Sabe / No Informa,Ninguna,362
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,363
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Física,364
+Hombre,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,365
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Unión libre,Masculino,No Sabe / No Informa,Ninguna,366
+Mujer,(18 a 28) Juventud,Básica secundaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,367
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,368
+Mujer,(29 a 59) Adultez,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Auditiva,369
+Mujer,(00 a 05) Primera Infancia,No aplica,No aplica,No aplica,No aplica,Ninguna,370
+Hombre,(Más de 60) Adulto Mayor,Básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,371
+Hombre,(06 a 11) Infancia,Educación básica primaria,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,372
+Hombre,(29 a 59) Adultez,Sin información,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,373
+Hombre,(Más de 60) Adulto Mayor,Sin escolaridad,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,374
+Mujer,(29 a 59) Adultez,Básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,375
+Hombre,(18 a 28) Juventud,Educación inicial y educación preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,376
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,377
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,378
+Mujer,(12 a 17) Adolescencia,Ninguna,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,379
+Hombre,(06 a 11) Infancia,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,380
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,381
+Mujer,(06 a 11) Infancia,Educación básica primaria,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,382
+Hombre,(Más de 60) Adulto Mayor,Sin escolaridad,Casado (a),Masculino,No Sabe / No Informa,Ninguna,383
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Casado (a),Femenino,No Sabe / No Informa,Ninguna,384
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,385
+Hombre,(29 a 59) Adultez,Preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,386
+Mujer,(29 a 59) Adultez,Sin información,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,387
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Casado (a),Femenino,No Sabe / No Informa,Ninguna,388
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,389
+Mujer,(12 a 17) Adolescencia,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Discapacidad Múltiple,390
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,391
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,392
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Unión libre,Masculino,No Sabe / No Informa,Ninguna,393
+Hombre,(18 a 28) Juventud,Básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,394
+Hombre,(Más de 60) Adulto Mayor,Ninguna,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,395
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,396
+Hombre,(29 a 59) Adultez,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,397
+Hombre,(29 a 59) Adultez,Universitario,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,398
+Hombre,(29 a 59) Adultez,Educación básica primaria,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,399
+Hombre,(18 a 28) Juventud,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Mental,400
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,401
+Mujer,(18 a 28) Juventud,Preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,402
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,403
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,404
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,405
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,406
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,407
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Unión libre,Femenino,No Sabe / No Informa,Ninguna,408
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Casado (a),Femenino,No Sabe / No Informa,Ninguna,409
+Mujer,(29 a 59) Adultez,Maestría,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,410
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,411
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,412
+Mujer,(18 a 28) Juventud,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,413
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,414
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Unión libre,Femenino,No Sabe / No Informa,Ninguna,415
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,416
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,417
+Hombre,(18 a 28) Juventud,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,418
+Mujer,(Más de 60) Adulto Mayor,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,419
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,420
+Hombre,(18 a 28) Juventud,Educación inicial y educación preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,421
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Unión libre,Femenino,No Sabe / No Informa,Ninguna,422
+Mujer,(12 a 17) Adolescencia,Educación media o secundaria alta,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,423
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Casado (a),Femenino,No Sabe / No Informa,Ninguna,424
+Mujer,(18 a 28) Juventud,Educación básica primaria,Unión libre,Femenino,No Sabe / No Informa,Ninguna,425
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Casado (a),Masculino,No Sabe / No Informa,Ninguna,426
+Mujer,(18 a 28) Juventud,Tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,427
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,428
+Hombre,(06 a 11) Infancia,Sin escolaridad,No aplica,No aplica,No aplica,Ninguna,429
+Mujer,(12 a 17) Adolescencia,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,430
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,431
+Hombre,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,432
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,433
+Mujer,(29 a 59) Adultez,Básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,434
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,435
+Hombre,(29 a 59) Adultez,Universitario,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,436
+Mujer,(18 a 28) Juventud,Educación básica primaria,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,437
+Mujer,(29 a 59) Adultez,Sin escolaridad,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,438
+Mujer,(29 a 59) Adultez,Sin escolaridad,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,439
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Casado (a),Femenino,No Sabe / No Informa,Ninguna,440
+Hombre,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Casado (a),Masculino,No Sabe / No Informa,Ninguna,441
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,442
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Casado (a),Masculino,No Sabe / No Informa,Ninguna,443
+Mujer,(18 a 28) Juventud,Educación inicial y educación preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,444
+Mujer,(06 a 11) Infancia,Educación básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,445
+Hombre,(12 a 17) Adolescencia,Sin información,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,446
+Mujer,(00 a 05) Primera Infancia,Sin escolaridad,No aplica,No aplica,No aplica,Ninguna,447
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Casado (a),Femenino,No Sabe / No Informa,Ninguna,448
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Unión libre,Masculino,No Sabe / No Informa,Ninguna,449
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,450
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,451
+Hombre,(12 a 17) Adolescencia,Educación media o secundaria alta,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,452
+Hombre,(12 a 17) Adolescencia,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,453
+Hombre,(Más de 60) Adulto Mayor,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,454
+Mujer,(18 a 28) Juventud,Educación media o secundaria alta,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,455
+Mujer,(29 a 59) Adultez,Educación básica primaria,Casado (a),Femenino,No Sabe / No Informa,Ninguna,456
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,457
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Unión libre,Femenino,No Sabe / No Informa,Ninguna,458
+Mujer,(29 a 59) Adultez,Sin información,Sin información,Femenino,No Sabe / No Informa,Ninguna,459
+Hombre,(29 a 59) Adultez,Ninguna,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,460
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Unión libre,Femenino,No Sabe / No Informa,Ninguna,461
+Hombre,(12 a 17) Adolescencia,Ninguna,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,462
+Mujer,(12 a 17) Adolescencia,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,463
+Mujer,(06 a 11) Infancia,Sin escolaridad,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,464
+Hombre,(29 a 59) Adultez,Básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,465
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,466
+Hombre,(29 a 59) Adultez,Sin información,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,467
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,468
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,469
+Mujer,(29 a 59) Adultez,Básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,470
+Mujer,(Más de 60) Adulto Mayor,Sin escolaridad,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,471
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,472
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,473
+Mujer,(Más de 60) Adulto Mayor,"Especialización, maestría o equivalente","Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,474
+Hombre,(Más de 60) Adulto Mayor,Preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,475
+Hombre,(Más de 60) Adulto Mayor,Preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,476
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,477
+Mujer,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,478
+Mujer,(12 a 17) Adolescencia,Educación técnica profesional y tecnológica,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,479
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Soltero (a),Transformista,No Sabe / No Informa,Ninguna,480
+Hombre,(29 a 59) Adultez,Sin información,Sin información,Masculino,No Sabe / No Informa,Ninguna,481
+Hombre,(Más de 60) Adulto Mayor,Sin información,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,482
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Sin información,Masculino,No Sabe / No Informa,Ninguna,483
+Mujer,(Más de 60) Adulto Mayor,Básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,484
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,485
+Mujer,(18 a 28) Juventud,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,486
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,487
+Hombre,(Más de 60) Adulto Mayor,Preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,488
+Hombre,(29 a 59) Adultez,Básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,489
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,490
+Mujer,(29 a 59) Adultez,"Especialización, maestría o equivalente",Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,491
+Mujer,(29 a 59) Adultez,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,492
+Hombre,(29 a 59) Adultez,Educación básica primaria,Unión libre,Masculino,No Sabe / No Informa,Ninguna,493
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Casado (a),Femenino,No Sabe / No Informa,Ninguna,494
+Hombre,(06 a 11) Infancia,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,495
+Mujer,(29 a 59) Adultez,Educación básica primaria,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,496
+Hombre,(12 a 17) Adolescencia,Educación inicial y educación preescolar,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,497
+Hombre,(00 a 05) Primera Infancia,Sin escolaridad,No aplica,No Aplica,No Aplica,Ninguna,498
+Hombre,(00 a 05) Primera Infancia,Preescolar,No aplica,No aplica,No aplica,Ninguna,499
+Hombre,(18 a 28) Juventud,Preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,500
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,501
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Unión libre,Femenino,No Sabe / No Informa,Ninguna,502
+Hombre,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,503
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,504
+Mujer,(Más de 60) Adulto Mayor,Sin información,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,505
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Soltero (a),Transformista,No Sabe / No Informa,Ninguna,506
+Hombre,(29 a 59) Adultez,Sin escolaridad,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,507
+Hombre,(12 a 17) Adolescencia,Educación media o secundaria alta,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,508
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Unión libre,Femenino,No Sabe / No Informa,Ninguna,509
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,510
+Mujer,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Soltero (a),Transformista,No Sabe / No Informa,Ninguna,511
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,512
+Mujer,(06 a 11) Infancia,Educación básica primaria,Sin información,Femenino,No Sabe / No Informa,Ninguna,513
+Mujer,(29 a 59) Adultez,Educación básica primaria,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,514
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,515
+Hombre,(12 a 17) Adolescencia,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,516
+Mujer,(18 a 28) Juventud,Básica secundaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,517
+Hombre,(18 a 28) Juventud,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,518
+Hombre,(29 a 59) Adultez,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,519
+Hombre,(Más de 60) Adulto Mayor,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,520
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,521
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,522
+Hombre,(18 a 28) Juventud,Educación básica secundaria o secundaria baja,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,523
+Hombre,(29 a 59) Adultez,Sin información,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,524
+Hombre,(Más de 60) Adulto Mayor,Preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,525
+Hombre,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,526
+Hombre,(00 a 05) Primera Infancia,Sin escolaridad,No aplica,No aplica,No aplica,Ninguna,527
+Mujer,(Más de 60) Adulto Mayor,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,528
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Auditiva,529
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,530
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,531
+Hombre,(29 a 59) Adultez,Universitario,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,532
+Hombre,(18 a 28) Juventud,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,533
+Hombre,(29 a 59) Adultez,Educación media o secundaria alta,Casado (a),Masculino,No Sabe / No Informa,Ninguna,534
+Mujer,(29 a 59) Adultez,Universitario,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,535
+Mujer,(29 a 59) Adultez,Educación media o secundaria alta,Soltero (a),Femenino,No Sabe / No Informa,Auditiva,536
+Hombre,(Más de 60) Adulto Mayor,Educación básica secundaria o secundaria baja,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,537
+Hombre,(12 a 17) Adolescencia,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,538
+Hombre,(29 a 59) Adultez,Ninguna,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,539
+Mujer,(06 a 11) Infancia,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,540
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,541
+Hombre,(29 a 59) Adultez,Educación inicial y educación preescolar,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,542
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,543
+Mujer,(29 a 59) Adultez,Básica secundaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,544
+Mujer,(Más de 60) Adulto Mayor,Básica primaria,Viudo (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,545
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,546
+Hombre,(Más de 60) Adulto Mayor,Educación básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,547
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Viudo (a),Masculino,No Sabe / No Informa,Ninguna,548
+Hombre,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,549
+Hombre,(29 a 59) Adultez,Sin información,Unión libre,Femenino,No Sabe / No Informa,Ninguna,550
+Mujer,(18 a 28) Juventud,"Especialización, maestría o equivalente",Soltero (a),Femenino,No Sabe / No Informa,Ninguna,551
+Mujer,(12 a 17) Adolescencia,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Discapacidad Múltiple,552
+Mujer,(Más de 60) Adulto Mayor,Educación media o secundaria alta,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,553
+Mujer,(29 a 59) Adultez,Educación inicial y educación preescolar,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,554
+Mujer,(29 a 59) Adultez,Sin escolaridad,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,555
+Mujer,(Más de 60) Adulto Mayor,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,556
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Sin información,No Sabe / No Informa,No Sabe / No Informa,Ninguna,557
+Hombre,(29 a 59) Adultez,Sin información,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,558
+Mujer,(29 a 59) Adultez,Educación básica secundaria o secundaria baja,"Separado (a), divorciado (a)",Femenino,No Sabe / No Informa,Ninguna,559
+Hombre,(29 a 59) Adultez,Educación básica primaria,"Separado (a), divorciado (a)",Masculino,No Sabe / No Informa,Ninguna,560
+Mujer,(12 a 17) Adolescencia,Sin información,Sin información,Masculino,No Sabe / No Informa,Ninguna,561
+Mujer,(29 a 59) Adultez,Preescolar,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,562
+Mujer,(29 a 59) Adultez,Ninguna,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,563
+Hombre,(00 a 05) Primera Infancia,Educación inicial y educación preescolar,No aplica,No aplica,No aplica,Ninguna,564
+Mujer,(Más de 60) Adulto Mayor,Educación técnica profesional y tecnológica,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,565
+Mujer,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Unión libre,Femenino,No Sabe / No Informa,Ninguna,566
+Hombre,(18 a 28) Juventud,Educación inicial y educación preescolar,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,567
+Mujer,(29 a 59) Adultez,Básica secundaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,568
+Mujer,(18 a 28) Juventud,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,569
+Hombre,(18 a 28) Juventud,Educación básica primaria,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,570
+Hombre,(12 a 17) Adolescencia,Sin escolaridad,Sin información,Masculino,No Sabe / No Informa,Ninguna,571
+Mujer,(18 a 28) Juventud,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,572
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,573
+Hombre,(06 a 11) Infancia,Ninguna,No aplica,No Sabe / No Informa,No Sabe / No Informa,Ninguna,574
+Hombre,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,575
+Hombre,(18 a 28) Juventud,Básica primaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,576
+Hombre,(29 a 59) Adultez,Preescolar,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,577
+Hombre,(18 a 28) Juventud,Educación básica primaria,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,578
+Hombre,(29 a 59) Adultez,Educación básica primaria,"Separado (a), Divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,579
+Mujer,(18 a 28) Juventud,Básica secundaria,Casado (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,580
+Hombre,(18 a 28) Juventud,Educación media o secundaria alta,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,581
+Mujer,(12 a 17) Adolescencia,Educación básica secundaria o secundaria baja,Soltero (a),Transexual,No Sabe / No Informa,Ninguna,582
+Hombre,(Más de 60) Adulto Mayor,Educación media o secundaria alta,"Separado (a), divorciado (a)",No Sabe / No Informa,No Sabe / No Informa,Ninguna,583
+Mujer,(12 a 17) Adolescencia,Educación básica primaria,Sin información,Masculino,No Sabe / No Informa,Ninguna,584
+Mujer,(12 a 17) Adolescencia,Sin información,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,585
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Viudo (a),Femenino,No Sabe / No Informa,Ninguna,586
+Hombre,(Más de 60) Adulto Mayor,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,587
+Mujer,(29 a 59) Adultez,Educación técnica profesional y tecnológica,Soltero (a),Femenino,No Sabe / No Informa,Ninguna,588
+Mujer,(06 a 11) Infancia,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,589
+Hombre,(29 a 59) Adultez,Tecnológica,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,590
+Hombre,(06 a 11) Infancia,Preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,591
+Hombre,(Más de 60) Adulto Mayor,Educación inicial y educación preescolar,Soltero (a),No Sabe / No Informa,No Sabe / No Informa,Ninguna,592
+Mujer,(18 a 28) Juventud,Educación técnica profesional y tecnológica,Unión libre,No Sabe / No Informa,No Sabe / No Informa,Ninguna,593
+Hombre,(12 a 17) Adolescencia,Sin escolaridad,Soltero (a),Masculino,No Sabe / No Informa,Ninguna,594
