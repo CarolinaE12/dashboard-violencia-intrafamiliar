@@ -4,11 +4,18 @@ venv_spark/
 
 __pycache__/
 *.pyc
+DataSet/*.csv
+!DataSet/clusters_limpio.csv
+!DataSet/reglas_limpio.csv
 
-DataSet/
 DataSet_Limpio/
 
 *.pbix
 *.swp
 
 .env
+
+venv/
+venv_flask/
+__pycache__/
+*.pyc

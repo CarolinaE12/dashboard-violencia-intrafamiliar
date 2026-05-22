@@ -1,0 +1,174 @@
+﻿antecedents,consequents,support,confidence,lift
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda, Sexo del Agresor=Hombre",Zona del Hecho=Cabecera municipal,0.2,0.901,1.076
+"Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.349,0.899,1.074
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.148,0.897,1.071
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Hombre",Zona del Hecho=Cabecera municipal,0.245,0.889,1.062
+"Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Zona del Hecho=Cabecera municipal,0.444,0.886,1.059
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Zona del Hecho=Cabecera municipal,0.198,0.884,1.056
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.32,0.879,1.051
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.526,0.879,1.05
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.206,0.878,1.05
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Mujer, Escenario del Hecho=Vivienda, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.119,0.869,1.119
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo",Zona del Hecho=Cabecera municipal,0.404,0.868,1.037
+"Factor Desencadenante de la Agresión=Intolerancia, machismo",Zona del Hecho=Cabecera municipal,0.673,0.867,1.036
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Zona del Hecho=Cabecera municipal,0.269,0.866,1.035
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda, Sexo del Agresor=Hombre",Zona del Hecho=Cabecera municipal,0.25,0.863,1.031
+"Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.435,0.861,1.029
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.185,0.859,1.026
+"Sexo de la victima=Mujer, Sexo del Agresor=Hombre",Zona del Hecho=Cabecera municipal,0.306,0.854,1.021
+Sexo del Agresor=Hombre,Zona del Hecho=Cabecera municipal,0.559,0.852,1.018
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.177,0.851,1.096
+"Zona del Hecho=Cabecera municipal, Sexo de la victima=Mujer, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.159,0.849,1.093
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre",Zona del Hecho=Cabecera municipal,0.252,0.848,1.014
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.388,0.848,1.013
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.119,0.847,1.012
+Escenario del Hecho=Vivienda,Zona del Hecho=Cabecera municipal,0.645,0.846,1.01
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.177,0.843,1.007
+"Sexo de la victima=Hombre, Escenario del Hecho=Vivienda",Zona del Hecho=Cabecera municipal,0.257,0.843,1.007
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.141,0.843,1.085
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.159,0.841,1.004
+Sexo de la victima=Mujer,Zona del Hecho=Cabecera municipal,0.495,0.839,1.003
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.229,0.835,0.998
+Sexo de la victima=Hombre,Zona del Hecho=Cabecera municipal,0.342,0.833,0.996
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.229,0.832,1.071
+"Sexo de la victima=Mujer, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.189,0.829,1.067
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.32,0.824,1.061
+"Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.21,0.823,1.06
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.137,0.821,0.981
+"Sexo de la victima=Mujer, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.187,0.82,0.98
+"Zona del Hecho=Cabecera municipal, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.404,0.817,1.052
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.526,0.816,1.051
+"Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Zona del Hecho=Cabecera municipal,0.208,0.816,0.974
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Hombre, Sexo de la victima=Mujer",Escenario del Hecho=Vivienda,0.2,0.816,1.07
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre, Sexo de la victima=Mujer",Escenario del Hecho=Vivienda,0.25,0.815,1.068
+Sexo del Agresor=Mujer,Zona del Hecho=Cabecera municipal,0.275,0.813,0.971
+Sexo del Agresor=Mujer,"Factor Desencadenante de la Agresión=Intolerancia, machismo",0.274,0.809,1.042
+"Sexo de la victima=Mujer, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.289,0.806,1.058
+Zona del Hecho=Cabecera municipal,"Factor Desencadenante de la Agresión=Intolerancia, machismo",0.673,0.805,1.036
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.222,0.804,1.055
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.206,0.804,1.035
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.2,0.802,1.032
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.349,0.802,1.032
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.148,0.802,1.032
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.245,0.801,1.031
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.444,0.794,1.022
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.364,0.794,1.022
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo de la victima=Mujer",Escenario del Hecho=Vivienda,0.32,0.791,1.038
+Sexo de la victima=Mujer,"Factor Desencadenante de la Agresión=Intolerancia, machismo",0.466,0.79,1.018
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.269,0.787,1.013
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.198,0.786,1.012
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.349,0.786,1.03
+Escenario del Hecho=Vivienda,"Factor Desencadenante de la Agresión=Intolerancia, machismo",0.599,0.785,1.011
+"Zona del Hecho=Cabecera municipal, Sexo de la victima=Mujer",Escenario del Hecho=Vivienda,0.388,0.785,1.029
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.526,0.781,1.025
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.364,0.781,1.024
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.435,0.778,1.021
+Sexo de la victima=Mujer,Escenario del Hecho=Vivienda,0.458,0.777,1.019
+"Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.388,0.774,1.016
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Escenario del Hecho=Vivienda,0.177,0.774,1.015
+"Sexo de la victima=Hombre, Escenario del Hecho=Vivienda","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.235,0.772,0.993
+"Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.599,0.771,1.011
+Zona del Hecho=Cabecera municipal,Escenario del Hecho=Vivienda,0.645,0.77,1.01
+"Sexo de la victima=Mujer, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.276,0.77,0.991
+Sexo del Agresor=Hombre,Escenario del Hecho=Vivienda,0.505,0.77,1.009
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.222,0.768,0.989
+"Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.388,0.768,0.988
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.166,0.768,0.988
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Escenario del Hecho=Vivienda,0.21,0.767,1.006
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.206,0.766,1.005
+Sexo del Agresor=Hombre,"Factor Desencadenante de la Agresión=Intolerancia, machismo",0.5,0.763,0.982
+Sexo de la victima=Hombre,"Factor Desencadenante de la Agresión=Intolerancia, machismo",0.311,0.757,0.975
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Mujer",Escenario del Hecho=Vivienda,0.208,0.756,0.992
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.235,0.756,0.991
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo",0.224,0.755,0.971
+Sexo del Agresor=Mujer,Escenario del Hecho=Vivienda,0.255,0.754,0.989
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer, Sexo de la victima=Mujer",Escenario del Hecho=Vivienda,0.119,0.753,0.987
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal",Escenario del Hecho=Vivienda,0.257,0.75,0.983
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.148,0.749,0.982
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Escenario del Hecho=Vivienda,0.141,0.747,0.98
+Sexo de la victima=Hombre,Escenario del Hecho=Vivienda,0.304,0.741,0.972
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Escenario del Hecho=Vivienda,0.166,0.738,0.968
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal",Sexo del Agresor=Hombre,0.252,0.737,1.124
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",Sexo del Agresor=Hombre,0.198,0.737,1.123
+"Zona del Hecho=Cabecera municipal, Sexo de la victima=Mujer, Sexo del Agresor=Mujer",Escenario del Hecho=Vivienda,0.137,0.736,0.965
+"Sexo de la victima=Mujer, Sexo del Agresor=Mujer",Escenario del Hecho=Vivienda,0.167,0.735,0.964
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.185,0.734,0.963
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre",Escenario del Hecho=Vivienda,0.216,0.725,0.951
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Hombre","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.2,0.725,1.124
+Sexo de la victima=Hombre,Sexo del Agresor=Hombre,0.297,0.724,1.104
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo",Sexo del Agresor=Hombre,0.224,0.722,1.101
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.185,0.722,1.101
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.148,0.72,1.097
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.119,0.714,1.059
+"Sexo de la victima=Hombre, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.216,0.709,1.08
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.166,0.705,1.075
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.32,0.698,1.037
+"Sexo de la victima=Mujer, Sexo del Agresor=Mujer","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.159,0.697,1.035
+"Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.349,0.696,1.08
+"Sexo de la victima=Mujer, Sexo del Agresor=Hombre","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.25,0.696,1.079
+"Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.177,0.694,1.031
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.159,0.694,1.177
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda, Sexo del Agresor=Hombre","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.2,0.692,1.027
+"Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.349,0.69,1.025
+Escenario del Hecho=Vivienda,"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.526,0.69,1.025
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.189,0.689,1.169
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Escenario del Hecho=Vivienda","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.148,0.688,1.022
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.32,0.687,1.065
+Sexo de la victima=Mujer,"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.404,0.686,1.018
+"Sexo de la victima=Mujer, Sexo del Agresor=Hombre","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.245,0.684,1.016
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.187,0.679,1.152
+"Sexo de la victima=Hombre, Escenario del Hecho=Vivienda","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.206,0.678,1.006
+"Factor Desencadenante de la Agresión=Intolerancia, machismo","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.526,0.677,1.051
+Sexo del Agresor=Hombre,"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.444,0.676,1.004
+Sexo del Agresor=Mujer,"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.229,0.676,1.004
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.119,0.675,1.145
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.435,0.674,1.028
+Sexo del Agresor=Mujer,Sexo de la victima=Mujer,0.228,0.673,1.142
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.141,0.672,1.14
+Zona del Hecho=Cabecera municipal,Sexo del Agresor=Hombre,0.559,0.667,1.018
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre","Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.198,0.667,0.99
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.206,0.664,1.029
+Sexo del Agresor=Hombre,"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.435,0.663,1.028
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.349,0.662,1.01
+Escenario del Hecho=Vivienda,Sexo del Agresor=Hombre,0.505,0.662,1.009
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.148,0.662,1.026
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.137,0.661,1.121
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",Sexo del Agresor=Hombre,0.444,0.659,1.004
+Sexo de la victima=Mujer,"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.388,0.659,1.021
+"Escenario del Hecho=Vivienda, Sexo del Agresor=Mujer",Sexo de la victima=Mujer,0.167,0.656,1.113
+Sexo de la victima=Hombre,"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",0.269,0.656,0.973
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.2,0.653,1.091
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.388,0.648,0.987
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.177,0.646,1.003
+"Zona del Hecho=Cabecera municipal, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.32,0.646,1.08
+"Factor Desencadenante de la Agresión=Intolerancia, machismo",Sexo del Agresor=Hombre,0.5,0.644,0.982
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.177,0.644,1.076
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda, Sexo de la victima=Mujer",Sexo del Agresor=Hombre,0.25,0.643,0.98
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Mujer, Sexo de la victima=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.119,0.639,1.068
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo","Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre",0.198,0.638,1.142
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo del Agresor=Mujer","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.119,0.633,0.981
+"Sexo de la victima=Hombre, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda","Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre",0.148,0.632,1.132
+"Sexo de la victima=Mujer, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.289,0.631,0.962
+Zona del Hecho=Cabecera municipal,"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.526,0.629,1.05
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda, Sexo de la victima=Mujer",Sexo del Agresor=Hombre,0.2,0.625,0.953
+Sexo de la victima=Hombre,"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.257,0.625,0.969
+"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.349,0.624,1.042
+"Sexo de la victima=Hombre, Sexo del Agresor=Hombre","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.185,0.623,0.966
+Sexo del Agresor=Mujer,"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.21,0.62,1.037
+"Sexo de la victima=Mujer, Sexo del Agresor=Mujer","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.141,0.619,1.035
+"Sexo de la victima=Mujer, Sexo del Agresor=Hombre","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.222,0.619,1.035
+"Zona del Hecho=Cabecera municipal, Sexo de la victima=Mujer",Sexo del Agresor=Hombre,0.306,0.619,0.944
+Sexo de la victima=Mujer,"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.364,0.617,1.031
+Sexo del Agresor=Mujer,"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.208,0.615,0.953
+Sexo de la victima=Hombre,"Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre",0.252,0.615,1.1
+"Sexo de la victima=Mujer, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo del Agresor=Hombre,0.222,0.61,0.931
+"Sexo de la victima=Hombre, Escenario del Hecho=Vivienda","Zona del Hecho=Cabecera municipal, Sexo del Agresor=Hombre",0.185,0.609,1.089
+Sexo de la victima=Mujer,Sexo del Agresor=Hombre,0.359,0.608,0.927
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo de la victima=Mujer,0.32,0.608,1.031
+"Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",Sexo de la victima=Mujer,0.364,0.608,1.031
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo, Sexo de la victima=Mujer",Sexo del Agresor=Hombre,0.245,0.607,0.925
+"Sexo de la victima=Mujer, Sexo del Agresor=Mujer","Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",0.137,0.604,0.936
+"Sexo de la victima=Hombre, Zona del Hecho=Cabecera municipal","Factor Desencadenante de la Agresión=Intolerancia, machismo, Escenario del Hecho=Vivienda",0.206,0.603,1.007
+"Zona del Hecho=Cabecera municipal, Escenario del Hecho=Vivienda",Sexo de la victima=Mujer,0.388,0.602,1.021
+Escenario del Hecho=Vivienda,Sexo de la victima=Mujer,0.458,0.601,1.019
+"Zona del Hecho=Cabecera municipal, Factor Desencadenante de la Agresión=Intolerancia, machismo",Sexo de la victima=Mujer,0.404,0.6,1.018
