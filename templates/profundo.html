@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Conocimiento Profundo — VIF</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<aside class="sidebar">
+  <div class="logo">VIF Analytics</div>
+  <nav>
+    <a href="/">Dashboard</a>
+    <a href="/modelo">Modelo Estrella</a>
+    <a href="/mineria">Minería de Datos</a>
+    <a href="/profundo" class="active">Conocimiento Profundo</a>
+  </nav>
+</aside>
+
+<main class="main">
+
+  <h1 class="page-title">Conocimiento Profundo — PySpark MLlib</h1>
+
+  <div class="desc-card">
+    <div class="desc-header">
+      <span class="desc-tag">PySpark MLlib</span>
+      <span class="desc-tag">Regresión Logística</span>
+      <span class="desc-tag">Procesamiento Distribuido</span>
+    </div>
+    <p class="desc-text">
+      Se implementaron dos modelos de <strong>Machine Learning con MLlib</strong> sobre los 
+      7.779 registros procesados con Apache Spark. Se comparó el rendimiento en tres 
+      configuraciones de procesamiento distribuido para evidenciar el beneficio del 
+      escalado horizontal.
+    </p>
+  </div>
+
+  <!-- Tarjetas de modelos -->
+  <div id="cards-modelos" style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem"></div>
+
+  <!-- Comparación de tiempos -->
+  <div class="chart-card">
+    <div class="chart-title">Comparación de tiempos de procesamiento por configuración</div>
+    <canvas id="chart-tiempos" height="80"></canvas>
+  </div>
+
+  <!-- Tabla comparativa 4 niveles -->
+  <div class="chart-card">
+    <div class="chart-title">Tabla comparativa — Niveles de conocimiento</div>
+    <div style="overflow-x:auto">
+      <table style="width:100%;border-collapse:collapse;font-size:13px">
+        <thead>
+          <tr style="border-bottom:1px solid rgba(255,255,255,0.15)">
+            <th style="padding:12px;color:#3b82f6;text-align:left">Nivel</th>
+            <th style="padding:12px;color:#3b82f6;text-align:left">Técnica</th>
+            <th style="padding:12px;color:#3b82f6;text-align:left">Herramienta</th>
+            <th style="padding:12px;color:#3b82f6;text-align:left">Resultado obtenido</th>
+            <th style="padding:12px;color:#3b82f6;text-align:left">Página</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="border-bottom:1px solid rgba(255,255,255,0.06)">
+            <td style="padding:12px;color:#22c55e;font-weight:600">Conocimiento Evidente</td>
+            <td style="padding:12px;color:#e2e8f0">Análisis descriptivo, KPIs, tendencias</td>
+            <td style="padding:12px;color:#94a3b8">Power BI</td>
+            <td style="padding:12px;color:#94a3b8">Distribución de casos por municipio, año, factor desencadenante y perfil de víctima</td>
+            <td style="padding:12px"><a href="/" style="color:#3b82f6">Dashboard</a></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02)">
+            <td style="padding:12px;color:#3b82f6;font-weight:600">Conocimiento Multidimensional</td>
+            <td style="padding:12px;color:#e2e8f0">Modelo estrella, ETL, consultas analíticas</td>
+            <td style="padding:12px;color:#94a3b8">PySpark</td>
+            <td style="padding:12px;color:#94a3b8">6 tablas dimensionales con 7.779 hechos relacionados desde 5 perspectivas</td>
+            <td style="padding:12px"><a href="/modelo" style="color:#3b82f6">Modelo Estrella</a></td>
+          </tr>
+          <tr style="border-bottom:1px solid rgba(255,255,255,0.06)">
+            <td style="padding:12px;color:#a855f7;font-weight:600">Conocimiento Oculto</td>
+            <td style="padding:12px;color:#e2e8f0">Clustering K-Means, Reglas de Asociación</td>
+            <td style="padding:12px;color:#94a3b8">scikit-learn, mlxtend, Orange</td>
+            <td style="padding:12px;color:#94a3b8">3 perfiles de casos + 173 reglas de asociación con confianza ≥ 60%</td>
+            <td style="padding:12px"><a href="/mineria" style="color:#3b82f6">Minería de Datos</a></td>
+          </tr>
+          <tr style="background:rgba(255,255,255,0.02)">
+            <td style="padding:12px;color:#f43f5e;font-weight:600">Conocimiento Profundo</td>
+            <td style="padding:12px;color:#e2e8f0">Regresión Logística (binaria y multiclase)</td>
+            <td style="padding:12px;color:#94a3b8">PySpark MLlib</td>
+            <td style="padding:12px;color:#94a3b8">Predicción de escenario (75.3%) y factor desencadenante (79.2%) con procesamiento distribuido</td>
+            <td style="padding:12px"><a href="/profundo" style="color:#3b82f6">Esta página</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</main>
+
+<script>
+async function get(url) {
+  const r = await fetch(url)
+  return r.json()
+}
+
+;(async () => {
+
+  // ── Tarjetas de modelos ────────────────────────────────────────────────────
+  const modelos = await get('/api/modelos_ml')
+  const colores = ['#3b82f6', '#a855f7']
+  const grid = document.getElementById('cards-modelos')
+  modelos.forEach((m, i) => {
+    grid.innerHTML += `
+      <div class="dim-card">
+        <div class="dim-nombre">${m.nombre}</div>
+        <div class="dim-registros" style="color:${colores[i]}">${(m.valor*100).toFixed(1)}%</div>
+        <div class="dim-desc">${m.tipo}</div>
+        <div class="dim-desc" style="margin-top:6px">${m.descripcion}</div>
+        <div class="dim-desc" style="margin-top:4px">
+          <span style="color:${colores[i]}">${m.metrica}</span>
+        </div>
+      </div>`
+  })
+
+  // ── Tiempos ────────────────────────────────────────────────────────────────
+  const tiempos = await get('/api/tiempos_ml')
+  new Chart(document.getElementById('chart-tiempos'), {
+    type: 'bar',
+    data: {
+      labels: tiempos.map(t => t.configuracion),
+      datasets: [
+        {
+          label: 'Modelo Escenario',
+          data: tiempos.map(t => t.escenario),
+          backgroundColor: '#3b82f6',
+          borderRadius: 6
+        },
+        {
+          label: 'Modelo Factor Desencadenante',
+          data: tiempos.map(t => t.factor),
+          backgroundColor: '#a855f7',
+          borderRadius: 6
+        }
+      ]
+    },
+    options: {
+      plugins: { legend: { position: 'bottom',
+        labels: { color: '#94a3b8', font: { size: 11 }}}},
+      scales: {
+        x: { ticks: { color: '#94a3b8' }, grid: { display: false }},
+        y: { ticks: { color: '#94a3b8', callback: v => v + 's' },
+             grid: { color: 'rgba(255,255,255,0.05)' },
+             title: { display: true, text: 'Segundos', color: '#94a3b8' }}
+      }
+    }
+  })
+
+})()
+</script>
+
+</body>
+</html>

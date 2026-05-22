@@ -2,6 +2,7 @@ from flask import Flask, render_template, jsonify
 import pandas as pd
 import os
 import glob
+import json
 
 app = Flask(__name__)
 
@@ -34,6 +35,10 @@ df = (fact
 clusters = pd.read_csv('DataSet/clusters_limpio.csv', encoding='utf-8-sig')
 reglas   = pd.read_csv('DataSet/reglas_limpio.csv',   encoding='utf-8-sig')
 
+# Cargar resultados ML
+with open('DataSet/resultados_ml.json', encoding='utf-8') as f:
+    resultados_ml = json.load(f)
+
 # ── Rutas ──────────────────────────────────────────────────────────────────────
 @app.route('/')
 def index():
@@ -46,6 +51,10 @@ def modelo():
 @app.route('/mineria')
 def mineria():
     return render_template('mineria.html')
+
+@app.route('/profundo')
+def profundo():
+    return render_template('profundo.html')
 
 # ── API modelo estrella ────────────────────────────────────────────────────────
 @app.route('/api/resumen_modelo')
@@ -113,8 +122,16 @@ def api_clusters_escenario():
 
 @app.route('/api/reglas')
 def api_reglas():
-    top = reglas.head(15).to_dict(orient='records')
-    return jsonify(top)
+    return jsonify(reglas.head(15).to_dict(orient='records'))
+
+# ── API conocimiento profundo ──────────────────────────────────────────────────
+@app.route('/api/modelos_ml')
+def api_modelos_ml():
+    return jsonify(resultados_ml['modelos'])
+
+@app.route('/api/tiempos_ml')
+def api_tiempos_ml():
+    return jsonify(resultados_ml['tiempos'])
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=10000)

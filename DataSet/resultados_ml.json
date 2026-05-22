@@ -1,0 +1,37 @@
+{
+  "modelos": [
+    {
+      "nombre": "Predicción de Escenario",
+      "tipo": "Regresión Logística Binaria",
+      "descripcion": "Predice si el hecho ocurre en Vivienda o en otro lugar",
+      "metrica": "Accuracy",
+      "valor": 0.7532,
+      "interpretacion": "Vivienda vs Otro escenario"
+    },
+    {
+      "nombre": "Predicción de Factor Desencadenante",
+      "tipo": "Regresión Logística Multiclase",
+      "descripcion": "Predice el factor que desencadena la violencia",
+      "metrica": "Accuracy",
+      "valor": 0.7923,
+      "interpretacion": "12 categorías de factores desencadenantes"
+    }
+  ],
+  "tiempos": [
+    {
+      "configuracion": "Ejecución secuencial",
+      "escenario": 26.227,
+      "factor": 10.245
+    },
+    {
+      "configuracion": "2 núcleos en paralelo",
+      "escenario": 11.994,
+      "factor": 7.826
+    },
+    {
+      "configuracion": "4 núcleos en paralelo",
+      "escenario": 9.828,
+      "factor": 6.971
+    }
+  ]
+}
