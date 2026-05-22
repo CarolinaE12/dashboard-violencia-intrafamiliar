@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Minería de Datos — VIF</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<aside class="sidebar">
+  <div class="logo">VIF Analytics</div>
+  <nav>
+    <a href="/">Dashboard</a>
+    <a href="/modelo">Modelo Estrella</a>
+    <a href="/mineria" class="active">Minería de Datos</a>
+  </nav>
+</aside>
+
+<main class="main">
+
+  <h1 class="page-title">Minería de Datos — Patrones ocultos</h1>
+
+  <div class="desc-card">
+    <div class="desc-header">
+      <span class="desc-tag">K-Means</span>
+      <span class="desc-tag">Reglas de Asociación</span>
+      <span class="desc-tag">scikit-learn + mlxtend</span>
+    </div>
+    <p class="desc-text">
+      Se aplicaron técnicas de minería de datos sobre los 7.779 registros de violencia 
+      intrafamiliar. El <strong>clustering K-Means</strong> agrupa los casos según sus 
+      características comunes. Las <strong>reglas de asociación</strong> revelan patrones 
+      ocultos entre variables — combinaciones que ocurren frecuentemente juntas.
+    </p>
+  </div>
+
+  <!-- Clustering -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:1.5rem">
+    <div class="chart-card">
+      <div class="chart-title">Distribución de clusters (K-Means, k=3)</div>
+      <canvas id="chart-clusters"></canvas>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">Factor desencadenante por cluster</div>
+      <canvas id="chart-perfil" height="120"></canvas>
+    </div>
+  </div>
+
+  <!-- Escenario por cluster -->
+  <div class="chart-card">
+    <div class="chart-title">Escenario del hecho por cluster</div>
+    <canvas id="chart-escenario" height="80"></canvas>
+  </div>
+
+  <!-- Reglas de asociación -->
+  <div class="chart-card">
+    <div class="chart-title">Top 15 reglas de asociación — ordenadas por confianza</div>
+    <div style="overflow-x:auto">
+      <table id="tabla-reglas" style="width:100%;border-collapse:collapse;font-size:12px"></table>
+    </div>
+  </div>
+
+</main>
+
+<script>
+const COLORES = ['#3b82f6','#8b5cf6','#f43f5e','#22c55e','#f97316',
+                 '#14b8a6','#eab308','#ec4899','#6366f1','#a855f7']
+
+async function get(url) {
+  const r = await fetch(url)
+  return r.json()
+}
+
+;(async () => {
+
+  // ── Distribución clusters ──────────────────────────────────────────────────
+  const clusters = await get('/api/clusters')
+  new Chart(document.getElementById('chart-clusters'), {
+    type: 'doughnut',
+    data: {
+      labels: clusters.map(d => d.cluster),
+      datasets: [{
+        data: clusters.map(d => d.casos),
+        backgroundColor: ['#3b82f6','#8b5cf6','#f43f5e'],
+        borderWidth: 0, hoverOffset: 8
+      }]
+    },
+    options: {
+      plugins: { legend: { position: 'bottom',
+        labels: { color: '#94a3b8', font: { size: 11 }}}}
+    }
+  })
+
+  // ── Perfil por cluster ─────────────────────────────────────────────────────
+  const perfil = await get('/api/clusters_perfil')
+  const clustersUnicos = [...new Set(perfil.map(d => d.Cluster))]
+  const factores = [...new Set(perfil.map(d => d['Factor Desencadenante de la Agresión']))]
+  const datasets = clustersUnicos.map((c, i) => ({
+    label: c,
+    data: factores.map(f => {
+      const r = perfil.find(d => d.Cluster === c && d['Factor Desencadenante de la Agresión'] === f)
+      return r ? r.casos : 0
+    }),
+    backgroundColor: ['#3b82f6','#8b5cf6','#f43f5e'][i],
+    borderRadius: 4
+  }))
+  new Chart(document.getElementById('chart-perfil'), {
+    type: 'bar',
+    data: { labels: factores, datasets },
+    options: {
+      plugins: { legend: { position: 'bottom',
+        labels: { color: '#94a3b8', font: { size: 11 }}}},
+      scales: {
+        x: { ticks: { color: '#94a3b8', font: { size: 10 }},
+             grid: { display: false }},
+        y: { ticks: { color: '#94a3b8' },
+             grid: { color: 'rgba(255,255,255,0.05)' }}
+      }
+    }
+  })
+
+  // ── Escenario por cluster ──────────────────────────────────────────────────
+  const escenario = await get('/api/clusters_escenario')
+  const clusEsc = [...new Set(escenario.map(d => d.Cluster))]
+  const escenarios = [...new Set(escenario.map(d => d['Escenario del Hecho']))]
+  const dsEsc = clusEsc.map((c, i) => ({
+    label: c,
+    data: escenarios.map(e => {
+      const r = escenario.find(d => d.Cluster === c && d['Escenario del Hecho'] === e)
+      return r ? r.casos : 0
+    }),
+    backgroundColor: ['#3b82f6','#8b5cf6','#f43f5e'][i],
+    borderRadius: 4
+  }))
+  new Chart(document.getElementById('chart-escenario'), {
+    type: 'bar',
+    data: { labels: escenarios, datasets: dsEsc },
+    options: {
+      plugins: { legend: { position: 'bottom',
+        labels: { color: '#94a3b8', font: { size: 11 }}}},
+      scales: {
+        x: { ticks: { color: '#94a3b8', font: { size: 10 }},
+             grid: { display: false }},
+        y: { ticks: { color: '#94a3b8' },
+             grid: { color: 'rgba(255,255,255,0.05)' }}
+      }
+    }
+  })
+
+  // ── Reglas de asociación ───────────────────────────────────────────────────
+  const reglas = await get('/api/reglas')
+  const tabla = document.getElementById('tabla-reglas')
+  tabla.innerHTML = `
+    <thead>
+      <tr style="border-bottom:1px solid rgba(255,255,255,0.1)">
+        <th style="padding:8px;color:#94a3b8;text-align:left">Antecedente (SI...)</th>
+        <th style="padding:8px;color:#94a3b8;text-align:left">Consecuente (ENTONCES...)</th>
+        <th style="padding:8px;color:#94a3b8;text-align:center">Soporte</th>
+        <th style="padding:8px;color:#94a3b8;text-align:center">Confianza</th>
+        <th style="padding:8px;color:#94a3b8;text-align:center">Lift</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${reglas.map((r, i) => `
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.05);
+                   background:${i%2===0?'transparent':'rgba(255,255,255,0.02)'}">
+          <td style="padding:8px;color:#e2e8f0;font-size:11px">${r.antecedents}</td>
+          <td style="padding:8px;color:#3b82f6;font-size:11px">${r.consequents}</td>
+          <td style="padding:8px;color:#94a3b8;text-align:center">${(r.support*100).toFixed(1)}%</td>
+          <td style="padding:8px;text-align:center">
+            <span style="background:rgba(59,130,246,${r.confidence});
+                         color:white;padding:2px 8px;border-radius:4px;font-size:11px">
+              ${(r.confidence*100).toFixed(1)}%
+            </span>
+          </td>
+          <td style="padding:8px;color:#94a3b8;text-align:center">${r.lift}</td>
+        </tr>`).join('')}
+    </tbody>`
+
+})()
+</script>
+
+</body>
+</html>
